@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2015-08-21",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Cardiff",
+    "dates": [
+      "2008-09-03"
+    ],
+    "event": {
+      "match_number": 5,
+      "name": "NatWest Series",
+      "sub_name": "South Africa in England"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 2761,
+    "officials": {
+      "match_referees": [
+        "RS Mahanama"
+      ],
+      "reserve_umpires": [
+        "PJ Hartley"
+      ],
+      "tv_umpires": [
+        "RA Kettleborough"
+      ],
+      "umpires": [
+        "NJ Llong",
+        "SJA Taufel"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 50,
+    "players": {
+      "England": [
+        "IR Bell",
+        "MJ Prior",
+        "OA Shah",
+        "KP Pietersen",
+        "A Flintoff",
+        "PD Collingwood",
+        "SR Patel",
+        "LJ Wright",
+        "SCJ Broad",
+        "SJ Harmison",
+        "JM Anderson"
+      ],
+      "South Africa": [
+        "HH Gibbs",
+        "HM Amla",
+        "JH Kallis",
+        "AB de Villiers",
+        "JP Duminy",
+        "MV Boucher",
+        "JL Ontong",
+        "J Botha",
+        "M Morkel",
+        "DW Steyn",
+        "A Nel"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Flintoff": "ddc0828d",
+        "A Nel": "2503e881",
+        "AB de Villiers": "c4487b84",
+        "DW Steyn": "8fd1a8f5",
+        "HH Gibbs": "e1d1b294",
+        "HM Amla": "e798611a",
+        "IR Bell": "33155d1b",
+        "J Botha": "7c503806",
+        "JH Kallis": "86dc8f2e",
+        "JL Ontong": "55f33b32",
+        "JM Anderson": "d12143bf",
+        "JP Duminy": "2e8994e7",
+        "KP Pietersen": "39f01cdb",
+        "LJ Wright": "cca50cd6",
+        "M Morkel": "5bb5a915",
+        "MJ Prior": "1200550f",
+        "MV Boucher": "f3cb53a1",
+        "NJ Llong": "573fb985",
+        "OA Shah": "7bf96684",
+        "PD Collingwood": "a386e91b",
+        "PJ Hartley": "17c7ff26",
+        "RA Kettleborough": "4017868f",
+        "RS Mahanama": "57910393",
+        "SCJ Broad": "eba6a852",
+        "SJ Harmison": "c16d2e28",
+        "SJA Taufel": "4b43d5ac",
+        "SR Patel": "18fac429"
+      }
+    },
+    "season": 2008,
+    "team_type": "international",
+    "teams": [
+      "England",
+      "South Africa"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "England"
+    },
+    "venue": "Sophia Gardens"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HH Gibbs",
+              "bowler": "JM Anderson",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "JM Anderson",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "JM Anderson",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "JM Anderson",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "JM Anderson",
+              "non_striker": "HH Gibbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "JM Anderson",
+              "non_striker": "HH Gibbs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HH Gibbs",
+              "bowler": "SCJ Broad",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "SCJ Broad",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HH Gibbs",
+              "bowler": "SCJ Broad",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "HH Gibbs",
+                  "fielders": [
+                    {
+                      "name": "MJ Prior"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "SCJ Broad",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "SCJ Broad",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "SCJ Broad",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "HM Amla",
+              "bowler": "JM Anderson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "JM Anderson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "JM Anderson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "JM Anderson",
+              "non_striker": "JH Kallis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "JM Anderson",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Kallis",
+              "bowler": "JM Anderson",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

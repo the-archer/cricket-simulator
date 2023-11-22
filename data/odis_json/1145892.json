@@ -1,0 +1,6362 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-07-16",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dublin",
+    "dates": [
+      "2018-06-10"
+    ],
+    "event": {
+      "name": "New Zealand Women tour of Ireland and England",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 1117,
+    "missing": [
+      "player_of_match",
+      "reviews",
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "K Gallagher"
+      ],
+      "reserve_umpires": [
+        "Aidan Seaver"
+      ],
+      "umpires": [
+        "Michael Foster",
+        "R Black"
+      ]
+    },
+    "outcome": {
+      "winner": "New Zealand",
+      "by": {
+        "runs": 306
+      }
+    },
+    "overs": 50,
+    "players": {
+      "New Zealand": [
+        "SFM Devine",
+        "JM Watkin",
+        "ML Green",
+        "AE Satterthwaite",
+        "AC Kerr",
+        "B Bezuidenhout",
+        "LM Kasperek",
+        "AM Peterson",
+        "KE Ebrahim",
+        "LMM Tahuhu",
+        "HR Huddleston"
+      ],
+      "Ireland": [
+        "MV Waldron",
+        "CNIM Joyce",
+        "GH Lewis",
+        "L Delany",
+        "SM Kavanagh",
+        "J Gray",
+        "Rachel Delaney",
+        "L Maritz",
+        "L Little",
+        "AJ Kenealy",
+        "C Murray"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Kerr": "7673c908",
+        "AE Satterthwaite": "72b7ed1e",
+        "AJ Kenealy": "ca753f5d",
+        "AM Peterson": "ae2c396f",
+        "Aidan Seaver": "862c0b16",
+        "B Bezuidenhout": "564afdcf",
+        "C Murray": "5a50471c",
+        "CNIM Joyce": "56418eae",
+        "GH Lewis": "1b9d1579",
+        "HR Huddleston": "8d6b36e3",
+        "J Gray": "a336b0fe",
+        "JM Watkin": "7239a365",
+        "K Gallagher": "704afd47",
+        "KE Ebrahim": "7c0055c1",
+        "L Delany": "b4f73b44",
+        "L Little": "4f86926b",
+        "L Maritz": "ac8bca8d",
+        "LM Kasperek": "9b73d523",
+        "LMM Tahuhu": "60471339",
+        "ML Green": "865eae1f",
+        "MV Waldron": "2e4f11e9",
+        "Michael Foster": "0280a934",
+        "R Black": "156c8fb1",
+        "Rachel Delaney": "d284ef29",
+        "SFM Devine": "de69af96",
+        "SM Kavanagh": "7e9b3b60"
+      }
+    },
+    "season": "2018",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "New Zealand"
+    },
+    "venue": "The Vineyard"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "AJ Kenealy",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "AJ Kenealy",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "JM Watkin",
+              "bowler": "Rachel Delaney",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "Rachel Delaney",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "Rachel Delaney",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "Rachel Delaney",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "Rachel Delaney",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "Rachel Delaney",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Little",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Little",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Maritz",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Maritz",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "non_striker": "JM Watkin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Watkin",
+              "bowler": "L Maritz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JM Watkin",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JM Watkin",
+                  "fielders": [
+                    {
+                      "name": "Rachel Delaney"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "L Maritz",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "L Maritz",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "L Maritz",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "GH Lewis",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "GH Lewis",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SFM Devine",
+                  "fielders": [
+                    {
+                      "name": "Rachel Delaney"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "CNIM Joyce",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "CNIM Joyce",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "C Murray",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "C Murray",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ML Green",
+                  "fielders": [
+                    {
+                      "name": "SM Kavanagh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Little",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Little",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Little",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Little",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "L Little",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "L Little",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "L Little",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "L Little",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "L Little",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Little",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Little",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Little",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "GH Lewis",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "GH Lewis",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "GH Lewis",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "GH Lewis",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "GH Lewis",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "GH Lewis",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "GH Lewis",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "AC Kerr",
+              "bowler": "L Maritz",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Maritz",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "L Maritz",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Kerr",
+                  "fielders": [
+                    {
+                      "name": "MV Waldron"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "L Maritz",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AE Satterthwaite",
+                  "fielders": [
+                    {
+                      "name": "SM Kavanagh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "L Maritz",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "L Maritz",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "L Maritz",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "GH Lewis",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "GH Lewis",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "GH Lewis",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "GH Lewis",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Maritz",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "L Maritz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "L Maritz",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LM Kasperek",
+                  "fielders": [
+                    {
+                      "name": "L Delany"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Rachel Delaney",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "AM Peterson",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Rachel Delaney",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Rachel Delaney",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "L Little",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Little",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Bezuidenhout",
+                  "fielders": [
+                    {
+                      "name": "MV Waldron"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "C Murray",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Maritz",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Maritz",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "C Murray",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "C Murray",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Maritz",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Maritz",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Maritz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Maritz",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "L Maritz",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "AM Peterson",
+              "bowler": "AJ Kenealy",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "AJ Kenealy",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "AJ Kenealy",
+              "non_striker": "KE Ebrahim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KE Ebrahim",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KE Ebrahim",
+                  "fielders": [
+                    {
+                      "name": "C Murray"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "L Maritz",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "AJ Kenealy",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "AJ Kenealy",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "AJ Kenealy",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Peterson",
+                  "fielders": [
+                    {
+                      "name": "L Little"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "HR Huddleston",
+              "bowler": "AJ Kenealy",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "AJ Kenealy",
+              "non_striker": "HR Huddleston",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "AJ Kenealy",
+              "non_striker": "HR Huddleston",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "HR Huddleston",
+              "bowler": "L Maritz",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "L Maritz",
+              "non_striker": "HR Huddleston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HR Huddleston",
+              "bowler": "L Maritz",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "L Maritz",
+              "non_striker": "HR Huddleston",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HR Huddleston",
+              "bowler": "L Maritz",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HR Huddleston",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MV Waldron",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MV Waldron",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GH Lewis",
+                  "fielders": [
+                    {
+                      "name": "B Bezuidenhout"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CNIM Joyce",
+                  "fielders": [
+                    {
+                      "name": "ML Green"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "HR Huddleston",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "JM Watkin",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "JM Watkin",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LM Kasperek",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "LM Kasperek",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "SM Kavanagh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SM Kavanagh",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "J Gray",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "J Gray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "J Gray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "J Gray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "KE Ebrahim",
+              "non_striker": "J Gray",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Gray",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Gray",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Gray",
+                  "fielders": [
+                    {
+                      "name": "B Bezuidenhout"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "KE Ebrahim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "AM Peterson",
+              "non_striker": "Rachel Delaney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rachel Delaney",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rachel Delaney",
+                  "fielders": [
+                    {
+                      "name": "LM Kasperek"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "AM Peterson",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Maritz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Maritz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "KE Ebrahim",
+              "non_striker": "L Maritz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Maritz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Maritz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Maritz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "AC Kerr",
+              "non_striker": "L Maritz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Maritz",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Maritz",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Delany",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "L Little",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Little",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Little",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "C Murray",
+              "bowler": "AC Kerr",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Murray",
+              "bowler": "AC Kerr",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "C Murray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "C Murray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "JM Watkin",
+              "non_striker": "C Murray",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AJ Kenealy",
+                  "fielders": [
+                    {
+                      "name": "LMM Tahuhu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 419
+      }
+    }
+  ]
+}

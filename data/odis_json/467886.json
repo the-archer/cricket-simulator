@@ -1,0 +1,6951 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2010-12-08",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bangalore",
+    "dates": [
+      "2010-12-07"
+    ],
+    "event": {
+      "match_number": 4,
+      "name": "New Zealand in India ODI Series"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3076,
+    "officials": {
+      "match_referees": [
+        "RS Mahanama"
+      ],
+      "reserve_umpires": [
+        "UV Gandhe"
+      ],
+      "tv_umpires": [
+        "S Asnani"
+      ],
+      "umpires": [
+        "RA Kettleborough",
+        "AM Saheba"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 5
+      },
+      "winner": "India"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "YK Pathan"
+    ],
+    "players": {
+      "India": [
+        "G Gambhir",
+        "PA Patel",
+        "V Kohli",
+        "Yuvraj Singh",
+        "RG Sharma",
+        "YK Pathan",
+        "SS Tiwary",
+        "R Ashwin",
+        "P Kumar",
+        "Z Khan",
+        "A Nehra"
+      ],
+      "New Zealand": [
+        "MJ Guptill",
+        "BB McCullum",
+        "JM How",
+        "LRPL Taylor",
+        "SB Styris",
+        "JEC Franklin",
+        "DL Vettori",
+        "KD Mills",
+        "NL McCullum",
+        "TG Southee",
+        "AJ McKay"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nehra": "96fd40ae",
+        "AJ McKay": "de3acffe",
+        "AM Saheba": "883e3818",
+        "BB McCullum": "b8a55852",
+        "DL Vettori": "d7c6af50",
+        "G Gambhir": "bb345e0b",
+        "JEC Franklin": "cf73ad76",
+        "JM How": "fd8f11e9",
+        "KD Mills": "7fb32e5b",
+        "KS Williamson": "d027ba9f",
+        "LRPL Taylor": "b61a3e1a",
+        "MJ Guptill": "2be41edb",
+        "NL McCullum": "5673a3fc",
+        "P Kumar": "e938e1bc",
+        "PA Patel": "b5da6c24",
+        "R Ashwin": "495d42a5",
+        "RA Kettleborough": "4017868f",
+        "RG Sharma": "740742ef",
+        "RS Mahanama": "57910393",
+        "S Asnani": "b04524bc",
+        "SB Styris": "57efa3be",
+        "SS Tiwary": "709b0bac",
+        "TG Southee": "13c35c9e",
+        "UV Gandhe": "43dd4011",
+        "V Kohli": "ba607b88",
+        "YK Pathan": "3c6ffae8",
+        "Yuvraj Singh": "1c914163",
+        "Z Khan": "91a4a398"
+      }
+    },
+    "season": "2010/11",
+    "team_type": "international",
+    "teams": [
+      "India",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "India"
+    },
+    "venue": "M Chinnaswamy Stadium"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "P Kumar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "P Kumar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Z Khan",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MJ Guptill",
+                  "fielders": [
+                    {
+                      "name": "Yuvraj Singh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JM How",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JM How",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JM How",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JM How",
+                  "fielders": [
+                    {
+                      "name": "YK Pathan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "A Nehra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BB McCullum",
+                  "fielders": [
+                    {
+                      "name": "RG Sharma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "R Ashwin",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "A Nehra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "A Nehra",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "A Nehra",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Z Khan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Z Khan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Z Khan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Z Khan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "P Kumar",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "P Kumar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Yuvraj Singh",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SB Styris",
+                  "fielders": [
+                    {
+                      "name": "SS Tiwary"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "RG Sharma",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "RG Sharma",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "LRPL Taylor"
+                }
+              ]
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "DL Vettori",
+              "bowler": "Z Khan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Z Khan",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Z Khan",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Z Khan",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "Z Khan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "Z Khan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "DL Vettori",
+              "bowler": "A Nehra",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "A Nehra",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "A Nehra",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "DL Vettori",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DL Vettori",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DL Vettori"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "KD Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "KD Mills",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "KD Mills",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "KD Mills",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "KD Mills"
+                }
+              ]
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "NL McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "R Ashwin",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "R Ashwin",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "NL McCullum",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "YK Pathan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "YK Pathan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "A Nehra",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Z Khan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Z Khan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Z Khan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Z Khan",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Z Khan",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "NL McCullum",
+              "bowler": "A Nehra",
+              "non_striker": "JEC Franklin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "A Nehra",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 14.6,
+          "type": "fielding"
+        },
+        {
+          "from": 37.1,
+          "to": 41.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "G Gambhir",
+              "bowler": "TG Southee",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "TG Southee",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ McKay",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ McKay",
+              "non_striker": "G Gambhir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Gambhir",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "G Gambhir",
+                  "fielders": [
+                    {
+                      "name": "MJ Guptill"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ McKay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "V Kohli",
+                  "fielders": [
+                    {
+                      "name": "KD Mills"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ McKay",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ McKay",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ McKay",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "AJ McKay",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "AJ McKay",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "KD Mills",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "KD Mills",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "SB Styris",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "SB Styris",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "SB Styris",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "SB Styris",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "Yuvraj Singh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Yuvraj Singh",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Yuvraj Singh",
+                  "fielders": [
+                    {
+                      "name": "JM How"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "PA Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PA Patel",
+              "bowler": "NL McCullum",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PA Patel",
+                  "fielders": [
+                    {
+                      "name": "KS Williamson",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "SB Styris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SB Styris",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SB Styris",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SB Styris",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "SB Styris",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "SB Styris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "SB Styris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RG Sharma",
+                  "fielders": [
+                    {
+                      "name": "DL Vettori"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SB Styris",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SB Styris",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "SB Styris",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "SB Styris",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "SB Styris",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "SB Styris",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "KD Mills",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "KD Mills",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "KD Mills",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "KD Mills",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "KD Mills",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "KD Mills",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "AJ McKay",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AJ McKay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AJ McKay",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "AJ McKay",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "DL Vettori",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "DL Vettori",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "TG Southee",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "TG Southee",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "YK Pathan",
+              "bowler": "NL McCullum",
+              "non_striker": "SS Tiwary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SS Tiwary",
+              "bowler": "NL McCullum",
+              "non_striker": "YK Pathan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 14.6,
+          "type": "fielding"
+        },
+        {
+          "from": 38.1,
+          "to": 42.6,
+          "type": "batting"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 316
+      }
+    }
+  ]
+}

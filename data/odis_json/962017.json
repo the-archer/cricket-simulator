@@ -1,0 +1,5881 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2016-08-21",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dublin",
+    "dates": [
+      "2016-08-11"
+    ],
+    "event": {
+      "match_number": 4,
+      "name": "South Africa Women in Ireland ODI Series"
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 989,
+    "missing": [
+      "player_of_match",
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "DT Jukes"
+      ],
+      "reserve_umpires": [
+        "S Wijesundera"
+      ],
+      "umpires": [
+        "AJ Neill",
+        "PA Reynolds"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 7
+      },
+      "winner": "Ireland"
+    },
+    "overs": 50,
+    "players": {
+      "Ireland": [
+        "CMA Shillington",
+        "U Raymond-Hoey",
+        "CC Dalton",
+        "GH Lewis",
+        "IMHC Joyce",
+        "KJ Garth",
+        "L Delany",
+        "MV Waldron",
+        "LK O'Reilly",
+        "LN McCarthy",
+        "CJ Metcalfe"
+      ],
+      "South Africa": [
+        "L Wolvaardt",
+        "T Chetty",
+        "M du Preez",
+        "A Steyn",
+        "L Goodall",
+        "D Devnarain",
+        "S Luus",
+        "CL Tryon",
+        "Y Fourie",
+        "MM Letsoalo",
+        "A Khaka"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Khaka": "0d518f89",
+        "A Steyn": "14baca9f",
+        "AJ Neill": "7ffe0ce3",
+        "CC Dalton": "4412ede5",
+        "CJ Metcalfe": "d58fdb42",
+        "CL Tryon": "4d4605e6",
+        "CMA Shillington": "60e11a00",
+        "D Devnarain": "58dc96cc",
+        "DT Jukes": "7c215d14",
+        "GH Lewis": "1b9d1579",
+        "IMHC Joyce": "d3b4b8ed",
+        "KJ Garth": "0b69a844",
+        "L Delany": "b4f73b44",
+        "L Goodall": "0bb32e98",
+        "L Wolvaardt": "e60f81c9",
+        "LK O'Reilly": "69a9bb78",
+        "LN McCarthy": "77c88f05",
+        "M du Preez": "e219f17a",
+        "MM Letsoalo": "7544bf30",
+        "MV Waldron": "2e4f11e9",
+        "PA Reynolds": "a416c9c3",
+        "S Luus": "6d76bc23",
+        "S Wijesundera": "0e9d839b",
+        "T Chetty": "53a5767d",
+        "U Raymond-Hoey": "1a510809",
+        "Y Fourie": "ebe27221"
+      }
+    },
+    "season": 2016,
+    "team_type": "international",
+    "teams": [
+      "Ireland",
+      "South Africa"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "South Africa"
+    },
+    "venue": "The Hills Cricket Club Ground"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "IMHC Joyce",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "IMHC Joyce",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "IMHC Joyce",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "IMHC Joyce",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "IMHC Joyce",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "KJ Garth",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "KJ Garth",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "KJ Garth",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "KJ Garth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "KJ Garth",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "T Chetty",
+                  "fielders": [
+                    {
+                      "name": "MV Waldron"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LN McCarthy",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "L Wolvaardt",
+                  "fielders": [
+                    {
+                      "name": "MV Waldron"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M du Preez",
+                  "fielders": [
+                    {
+                      "name": "LK O'Reilly"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "L Goodall",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "L Goodall",
+                  "fielders": [
+                    {
+                      "name": "LK O'Reilly"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "LN McCarthy",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LN McCarthy",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "D Devnarain",
+                  "fielders": [
+                    {
+                      "name": "LK O'Reilly"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "GH Lewis",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "GH Lewis",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "GH Lewis",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "GH Lewis",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "GH Lewis",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Luus",
+                  "fielders": [
+                    {
+                      "name": "MV Waldron"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "GH Lewis",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "GH Lewis",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "GH Lewis",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "IMHC Joyce",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "IMHC Joyce",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "KJ Garth",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "KJ Garth",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Steyn",
+                  "fielders": [
+                    {
+                      "name": "MV Waldron"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "Y Fourie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Y Fourie",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Fourie",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Y Fourie",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Y Fourie",
+                  "fielders": [
+                    {
+                      "name": "IMHC Joyce"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "LK O'Reilly",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "LK O'Reilly",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CL Tryon",
+                  "fielders": [
+                    {
+                      "name": "U Raymond-Hoey"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "MM Letsoalo"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "A Khaka",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "A Khaka",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "A Khaka",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "A Khaka",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "A Khaka",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "A Khaka",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "A Khaka",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "CL Tryon",
+              "non_striker": "U Raymond-Hoey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "U Raymond-Hoey",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "U Raymond-Hoey",
+                  "fielders": [
+                    {
+                      "name": "T Chetty"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "CMA Shillington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CMA Shillington",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "CMA Shillington",
+                  "fielders": [
+                    {
+                      "name": "A Khaka"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CC Dalton",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "CC Dalton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CC Dalton",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CC Dalton",
+                  "fielders": [
+                    {
+                      "name": "CL Tryon"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "A Khaka",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "A Khaka",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "A Khaka",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "A Khaka",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "A Khaka",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "A Khaka",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "A Khaka",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Khaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Khaka",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Khaka",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Khaka",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Khaka",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "A Khaka",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "CL Tryon",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "CL Tryon",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Luus",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Luus",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "MM Letsoalo",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Y Fourie",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Y Fourie",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "MM Letsoalo",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 144
+      }
+    }
+  ]
+}

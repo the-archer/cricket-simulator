@@ -1,0 +1,6508 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2011-04-25",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2011-03-08"
+    ],
+    "event": {
+      "group": "A",
+      "match_number": 24,
+      "name": "ICC Cricket World Cup"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3123,
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "SK Tarapore"
+      ],
+      "tv_umpires": [
+        "IJ Gould"
+      ],
+      "umpires": [
+        "DJ Harper",
+        "NJ Llong"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 110
+      },
+      "winner": "New Zealand"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "LRPL Taylor"
+    ],
+    "players": {
+      "New Zealand": [
+        "MJ Guptill",
+        "BB McCullum",
+        "JM How",
+        "LRPL Taylor",
+        "JEC Franklin",
+        "SB Styris",
+        "NL McCullum",
+        "JDP Oram",
+        "KD Mills",
+        "DL Vettori",
+        "TG Southee"
+      ],
+      "Pakistan": [
+        "Mohammad Hafeez",
+        "Ahmed Shehzad",
+        "Kamran Akmal",
+        "Younis Khan",
+        "Misbah-ul-Haq",
+        "Umar Akmal",
+        "Shahid Afridi",
+        "Abdul Razzaq",
+        "Abdur Rehman",
+        "Umar Gul",
+        "Shoaib Akhtar"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Abdul Razzaq": "390ff45b",
+        "Abdur Rehman": "d094e7d1",
+        "Ahmed Shehzad": "f8fd6e3f",
+        "BB McCullum": "b8a55852",
+        "BC Broad": "d6a7dd38",
+        "DJ Harper": "0ec08b27",
+        "DL Vettori": "d7c6af50",
+        "IJ Gould": "a9dfdf6c",
+        "JDP Oram": "3eac9d95",
+        "JEC Franklin": "cf73ad76",
+        "JM How": "fd8f11e9",
+        "KD Mills": "7fb32e5b",
+        "Kamran Akmal": "ff077124",
+        "LRPL Taylor": "b61a3e1a",
+        "MJ Guptill": "2be41edb",
+        "Misbah-ul-Haq": "7eae4418",
+        "Mohammad Hafeez": "9ab63e7b",
+        "NJ Llong": "573fb985",
+        "NL McCullum": "5673a3fc",
+        "SB Styris": "57efa3be",
+        "SK Tarapore": "62a824b4",
+        "Shahid Afridi": "0dc00542",
+        "Shoaib Akhtar": "10a91f35",
+        "TG Southee": "13c35c9e",
+        "Umar Akmal": "fd2bf2a0",
+        "Umar Gul": "16dfcc19",
+        "Younis Khan": "33cb3411"
+      }
+    },
+    "season": "2010/11",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "New Zealand"
+    },
+    "venue": "Pallekele International Cricket Stadium"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Shoaib Akhtar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "BB McCullum"
+                }
+              ]
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "non_boundary": true,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Abdur Rehman",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JM How",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "JM How",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM How",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "JM How"
+                }
+              ]
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Abdul Razzaq",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MJ Guptill"
+                }
+              ]
+            },
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "JEC Franklin",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "review": {
+                "by": "New Zealand",
+                "umpire": "DJ Harper",
+                "batter": "JEC Franklin",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "JEC Franklin"
+                }
+              ]
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "SB Styris",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SB Styris",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "SB Styris"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Shahid Afridi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Umar Gul",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Shahid Afridi",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shahid Afridi",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "NL McCullum",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Umar Gul",
+              "non_striker": "NL McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "NL McCullum",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "NL McCullum"
+                }
+              ]
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Umar Gul",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Shoaib Akhtar",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdur Rehman",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LRPL Taylor",
+              "bowler": "Abdul Razzaq",
+              "non_striker": "JDP Oram",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JDP Oram",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JDP Oram",
+                  "fielders": [
+                    {
+                      "name": "Umar Gul"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KD Mills",
+              "bowler": "Abdur Rehman",
+              "non_striker": "LRPL Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 11.1,
+          "to": 15.6,
+          "type": "fielding"
+        },
+        {
+          "from": 41.1,
+          "to": 45.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KD Mills",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KD Mills",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KD Mills",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "KD Mills",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "NJ Llong",
+                "batter": "Mohammad Hafeez",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Mohammad Hafeez"
+                }
+              ]
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "KD Mills",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "KD Mills",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "TG Southee",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "TG Southee",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "TG Southee",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Ahmed Shehzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ahmed Shehzad",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Ahmed Shehzad"
+                }
+              ]
+            },
+            {
+              "batter": "Younis Khan",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Younis Khan",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Younis Khan",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Younis Khan"
+                }
+              ]
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kamran Akmal",
+                  "fielders": [
+                    {
+                      "name": "LRPL Taylor"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "KD Mills",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "KD Mills",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "review": {
+                "by": "New Zealand",
+                "umpire": "NJ Llong",
+                "batter": "Misbah-ul-Haq",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "JDP Oram",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Misbah-ul-Haq",
+                  "fielders": [
+                    {
+                      "name": "SB Styris"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Shahid Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shahid Afridi",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Shahid Afridi"
+                }
+              ]
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "TG Southee",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "TG Southee",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "JEC Franklin",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JEC Franklin",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Umar Akmal",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Akmal",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Umar Akmal",
+                  "fielders": [
+                    {
+                      "name": "JDP Oram"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "NL McCullum",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdur Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdur Rehman",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "DJ Harper",
+                "batter": "Abdur Rehman",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Abdur Rehman"
+                }
+              ]
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "KD Mills",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "KD Mills",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "KD Mills",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "KD Mills",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "KD Mills",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "JDP Oram",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "JDP Oram",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "SB Styris",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "NL McCullum",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "NL McCullum",
+              "non_striker": "Abdul Razzaq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Abdul Razzaq",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Abdul Razzaq",
+                  "fielders": [
+                    {
+                      "name": "JDP Oram"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Umar Gul",
+              "bowler": "SB Styris",
+              "non_striker": "Shoaib Akhtar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Akhtar",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Akhtar",
+              "bowler": "SB Styris",
+              "non_striker": "Umar Gul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shoaib Akhtar",
+                  "fielders": [
+                    {
+                      "name": "NL McCullum"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 14.6,
+          "type": "fielding"
+        },
+        {
+          "from": 33.1,
+          "to": 37.6,
+          "type": "batting"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 303
+      }
+    }
+  ]
+}

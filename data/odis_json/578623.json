@@ -1,0 +1,4186 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-06-18",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Birmingham",
+    "dates": [
+      "2013-06-15"
+    ],
+    "event": {
+      "group": "B",
+      "match_number": 10,
+      "name": "ICC Champions Trophy"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3372,
+    "officials": {
+      "match_referees": [
+        "BC Broad"
+      ],
+      "reserve_umpires": [
+        "NJ Llong"
+      ],
+      "tv_umpires": [
+        "HDPK Dharmasena"
+      ],
+      "umpires": [
+        "IJ Gould",
+        "RA Kettleborough"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 8
+      },
+      "method": "D/L",
+      "winner": "India"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "B Kumar"
+    ],
+    "players": {
+      "India": [
+        "RG Sharma",
+        "S Dhawan",
+        "V Kohli",
+        "KD Karthik",
+        "SK Raina",
+        "MS Dhoni",
+        "RA Jadeja",
+        "R Ashwin",
+        "I Sharma",
+        "B Kumar",
+        "UT Yadav"
+      ],
+      "Pakistan": [
+        "Nasir Jamshed",
+        "Kamran Akmal",
+        "Mohammad Hafeez",
+        "Asad Shafiq",
+        "Misbah-ul-Haq",
+        "Shoaib Malik",
+        "Umar Amin",
+        "Wahab Riaz",
+        "Saeed Ajmal",
+        "Junaid Khan",
+        "Mohammad Irfan"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Asad Shafiq": "50250426",
+        "B Kumar": "2e81a32d",
+        "BC Broad": "d6a7dd38",
+        "HDPK Dharmasena": "323e4c16",
+        "I Sharma": "5bb1a1c4",
+        "IJ Gould": "a9dfdf6c",
+        "Junaid Khan": "086f5984",
+        "KD Karthik": "c03f1114",
+        "Kamran Akmal": "ff077124",
+        "MS Dhoni": "4a8a2e3b",
+        "Misbah-ul-Haq": "7eae4418",
+        "Mohammad Hafeez": "9ab63e7b",
+        "Mohammad Irfan": "a8e3170f",
+        "NJ Llong": "573fb985",
+        "Nasir Jamshed": "4c4a06fb",
+        "R Ashwin": "495d42a5",
+        "RA Jadeja": "fe93fd9d",
+        "RA Kettleborough": "4017868f",
+        "RG Sharma": "740742ef",
+        "S Dhawan": "0a476045",
+        "SK Raina": "1dc12ab9",
+        "Saeed Ajmal": "05d74535",
+        "Shoaib Malik": "64c34cd0",
+        "UT Yadav": "cc1e8c68",
+        "Umar Amin": "3029e282",
+        "V Kohli": "ba607b88",
+        "Wahab Riaz": "b3118300"
+      }
+    },
+    "season": 2013,
+    "team_type": "international",
+    "teams": [
+      "India",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "India"
+    },
+    "venue": "Edgbaston"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "B Kumar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Nasir Jamshed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Nasir Jamshed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Nasir Jamshed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "RA Kettleborough",
+                "batter": "Nasir Jamshed",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Nasir Jamshed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Nasir Jamshed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Nasir Jamshed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nasir Jamshed",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Nasir Jamshed",
+                  "fielders": [
+                    {
+                      "name": "SK Raina"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "UT Yadav",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "B Kumar",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "I Sharma",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mohammad Hafeez",
+                  "fielders": [
+                    {
+                      "name": "MS Dhoni"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "B Kumar",
+              "non_striker": "Kamran Akmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Kamran Akmal",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Kamran Akmal",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "UT Yadav",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "UT Yadav",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "UT Yadav",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "UT Yadav",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "UT Yadav",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "V Kohli",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "V Kohli",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "V Kohli",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "V Kohli",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "V Kohli",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "V Kohli",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "R Ashwin",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "R Ashwin",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Misbah-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Misbah-ul-Haq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Misbah-ul-Haq"
+                }
+              ]
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "V Kohli",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "V Kohli",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "V Kohli",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "V Kohli",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "V Kohli",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "V Kohli",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "I Sharma",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "I Sharma",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "I Sharma",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "I Sharma",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "I Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "I Sharma",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "I Sharma",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Asad Shafiq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Asad Shafiq",
+              "bowler": "I Sharma",
+              "non_striker": "Shoaib Malik",
+              "review": {
+                "by": "India",
+                "umpire": "RA Kettleborough",
+                "batter": "Asad Shafiq",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Asad Shafiq",
+                  "fielders": [
+                    {
+                      "name": "MS Dhoni"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "I Sharma",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Umar Amin",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "RA Jadeja",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "IJ Gould",
+                "batter": "Shoaib Malik",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Shoaib Malik"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Umar Amin",
+              "bowler": "R Ashwin",
+              "non_striker": "Wahab Riaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Wahab Riaz",
+              "bowler": "R Ashwin",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Wahab Riaz",
+              "bowler": "R Ashwin",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Wahab Riaz"
+                }
+              ]
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "R Ashwin",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "R Ashwin",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "R Ashwin",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "RA Jadeja",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "RA Jadeja",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "RA Jadeja",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "RA Jadeja",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "UT Yadav",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "UT Yadav",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "UT Yadav",
+              "non_striker": "Saeed Ajmal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Saeed Ajmal",
+              "bowler": "I Sharma",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Saeed Ajmal",
+                  "fielders": [
+                    {
+                      "name": "RG Sharma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Junaid Khan",
+              "bowler": "I Sharma",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Junaid Khan",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Irfan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Irfan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "I Sharma",
+              "non_striker": "Mohammad Irfan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Irfan",
+              "bowler": "I Sharma",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Umar Amin",
+              "bowler": "UT Yadav",
+              "non_striker": "Mohammad Irfan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "UT Yadav",
+              "non_striker": "Mohammad Irfan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Umar Amin",
+              "bowler": "UT Yadav",
+              "non_striker": "Mohammad Irfan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Irfan",
+              "bowler": "UT Yadav",
+              "non_striker": "Umar Amin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Mohammad Irfan",
+                  "fielders": [
+                    {
+                      "name": "UT Yadav"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 36.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Irfan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Junaid Khan",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Junaid Khan",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RG Sharma",
+                  "fielders": [
+                    {
+                      "name": "Misbah-ul-Haq"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Wahab Riaz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Dhawan",
+                  "fielders": [
+                    {
+                      "name": "Nasir Jamshed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Saeed Ajmal",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KD Karthik",
+              "bowler": "Wahab Riaz",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "Wahab Riaz",
+              "non_striker": "KD Karthik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KD Karthik",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 7.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 22,
+        "runs": 102
+      }
+    }
+  ]
+}

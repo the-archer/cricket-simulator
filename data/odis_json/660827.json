@@ -1,0 +1,2779 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-08-30",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "King City",
+    "dates": [
+      "2013-08-29"
+    ],
+    "event": {
+      "match_number": 50,
+      "name": "ICC World Cricket League Championship"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3407,
+    "missing": [
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "DT Jukes"
+      ],
+      "reserve_umpires": [
+        "R Shah"
+      ],
+      "umpires": [
+        "GO Brathwaite",
+        "PJ Nero"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 9
+      },
+      "winner": "Netherlands"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "T van der Gugten"
+    ],
+    "players": {
+      "Canada": [
+        "H Patel",
+        "R Gunasekera",
+        "NR Kumar",
+        "A Bagai",
+        "Raza-ur-Rehman",
+        "AS Hansra",
+        "D Daesrath",
+        "Junaid Siddiqui",
+        "K Kamyuka",
+        "HS Baidwan",
+        "JOA Gordon"
+      ],
+      "Netherlands": [
+        "SJ Myburgh",
+        "MR Swart",
+        "W Barresi",
+        "PM Seelaar",
+        "DLS van Bunge",
+        "BN Cooper",
+        "PW Borren",
+        "Mudassar Bukhari",
+        "T van der Gugten",
+        "TGJ Gruijters",
+        "Ahsan Malik"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Bagai": "112959b2",
+        "AS Hansra": "795df06c",
+        "Ahsan Malik": "96503059",
+        "BN Cooper": "634a7b21",
+        "D Daesrath": "4cbce738",
+        "DLS van Bunge": "3185266a",
+        "DT Jukes": "7c215d14",
+        "GO Brathwaite": "1ace56d4",
+        "H Patel": "c4ff0618",
+        "HS Baidwan": "7839bf3a",
+        "JOA Gordon": "bb9b51f4",
+        "Junaid Siddiqui": "9025e58f",
+        "K Kamyuka": "719a2bb5",
+        "MR Swart": "a75a78eb",
+        "Mudassar Bukhari": "37312a74",
+        "NR Kumar": "b3bad3f2",
+        "PJ Nero": "925d2e93",
+        "PM Seelaar": "abbdca1a",
+        "PW Borren": "91052c96",
+        "R Gunasekera": "9b6ad88a",
+        "R Shah": "3424e050",
+        "Raza-ur-Rehman": "d146924b",
+        "SJ Myburgh": "18261c22",
+        "T van der Gugten": "d99cc23a",
+        "TGJ Gruijters": "20f4a109",
+        "W Barresi": "0d677597"
+      }
+    },
+    "season": 2013,
+    "team_type": "international",
+    "teams": [
+      "Canada",
+      "Netherlands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Netherlands"
+    },
+    "venue": "Maple Leaf North-West Ground"
+  },
+  "innings": [
+    {
+      "team": "Canada",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "H Patel",
+              "bowler": "T van der Gugten",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Patel",
+              "bowler": "T van der Gugten",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "H Patel"
+                }
+              ]
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "T van der Gugten",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "T van der Gugten",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NR Kumar",
+                  "fielders": [
+                    {
+                      "name": "W Barresi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "T van der Gugten",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "T van der Gugten",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "MR Swart",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "MR Swart",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "MR Swart",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "MR Swart",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "MR Swart",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "MR Swart",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "R Gunasekera"
+                }
+              ]
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "T van der Gugten",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Raza-ur-Rehman",
+                  "fielders": [
+                    {
+                      "name": "W Barresi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "AS Hansra"
+                }
+              ]
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "A Bagai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Bagai",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Bagai",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Bagai",
+                  "fielders": [
+                    {
+                      "name": "W Barresi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "T van der Gugten",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Junaid Siddiqui",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Junaid Siddiqui",
+                  "fielders": [
+                    {
+                      "name": "PW Borren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "K Kamyuka",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Kamyuka",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "K Kamyuka"
+                }
+              ]
+            },
+            {
+              "batter": "HS Baidwan",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "HS Baidwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "HS Baidwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "HS Baidwan",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HS Baidwan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HS Baidwan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HS Baidwan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HS Baidwan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HS Baidwan",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HS Baidwan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "HS Baidwan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "HS Baidwan",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "HS Baidwan"
+                }
+              ]
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "PM Seelaar",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "Ahsan Malik",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "JOA Gordon",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JOA Gordon",
+              "bowler": "T van der Gugten",
+              "non_striker": "D Daesrath",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Daesrath",
+              "bowler": "PM Seelaar",
+              "non_striker": "JOA Gordon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "D Daesrath"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MR Swart",
+                  "fielders": [
+                    {
+                      "name": "A Bagai"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "JOA Gordon",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "HS Baidwan",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "HS Baidwan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "HS Baidwan",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "JOA Gordon",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "K Kamyuka",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "K Kamyuka",
+              "non_striker": "SJ Myburgh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SJ Myburgh",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 68
+      }
+    }
+  ]
+}

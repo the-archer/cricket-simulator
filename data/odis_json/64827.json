@@ -1,0 +1,6506 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2023-01-13",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bridgetown",
+    "dates": [
+      "2003-06-07"
+    ],
+    "event": {
+      "name": "Sri Lanka tour of West Indies",
+      "match_number": 1
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 2022,
+    "officials": {
+      "match_referees": [
+        "Wasim Raja"
+      ],
+      "tv_umpires": [
+        "EA Nicholls"
+      ],
+      "umpires": [
+        "BF Bowden",
+        "BR Doctrove"
+      ]
+    },
+    "outcome": {
+      "winner": "Sri Lanka",
+      "by": {
+        "runs": 55
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "M Muralitharan"
+    ],
+    "players": {
+      "Sri Lanka": [
+        "ST Jayasuriya",
+        "RS Kaluwitharana",
+        "MS Atapattu",
+        "KC Sangakkara",
+        "DPMD Jayawardene",
+        "TM Dilshan",
+        "HDPK Dharmasena",
+        "WPUJC Vaas",
+        "M Muralitharan",
+        "RAP Nissanka",
+        "D Gamage"
+      ],
+      "West Indies": [
+        "CH Gayle",
+        "WW Hinds",
+        "RL Powell",
+        "RR Sarwan",
+        "BC Lara",
+        "MN Samuels",
+        "RD Jacobs",
+        "DE Bernard",
+        "VC Drakes",
+        "M Dillon",
+        "CD Collymore"
+      ]
+    },
+    "registry": {
+      "people": {
+        "BC Lara": "d5403021",
+        "BF Bowden": "efc0a862",
+        "BR Doctrove": "cbebf805",
+        "CD Collymore": "87b177e8",
+        "CH Gayle": "db584dad",
+        "D Gamage": "df92d6fb",
+        "DE Bernard": "e0557f7f",
+        "DPMD Jayawardene": "d18f9182",
+        "EA Nicholls": "ae71e419",
+        "HDPK Dharmasena": "323e4c16",
+        "KC Sangakkara": "6b71e6cf",
+        "M Dillon": "5af87ad6",
+        "M Muralitharan": "4ba44e19",
+        "MN Samuels": "f846de6a",
+        "MS Atapattu": "8a686d30",
+        "RAP Nissanka": "6cc006ef",
+        "RD Jacobs": "c1f9b051",
+        "RL Powell": "33a50ecf",
+        "RR Sarwan": "36d33dd0",
+        "RS Kaluwitharana": "dff967c1",
+        "ST Jayasuriya": "f233bbb4",
+        "TM Dilshan": "5bdcdb72",
+        "VC Drakes": "b16b5eea",
+        "WPUJC Vaas": "bcce309e",
+        "WW Hinds": "60beb01b",
+        "Wasim Raja": "d8bce357"
+      }
+    },
+    "season": "2003",
+    "team_type": "international",
+    "teams": [
+      "Sri Lanka",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Kensington Oval, Bridgetown, Barbados"
+  },
+  "innings": [
+    {
+      "team": "Sri Lanka",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ST Jayasuriya",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ST Jayasuriya",
+                  "fielders": [
+                    {
+                      "name": "RD Jacobs"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "MN Samuels",
+              "non_striker": "MS Atapattu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Atapattu",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MS Atapattu",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "CD Collymore",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "CD Collymore",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "DE Bernard",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "DE Bernard",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "DE Bernard",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "VC Drakes",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "KC Sangakkara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KC Sangakkara",
+              "bowler": "DE Bernard",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KC Sangakkara",
+                  "fielders": [
+                    {
+                      "name": "RR Sarwan"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "DE Bernard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "DE Bernard",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "DE Bernard",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "DE Bernard",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "M Dillon",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "M Dillon",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "VC Drakes",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "VC Drakes",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "MN Samuels",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "MN Samuels",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "MN Samuels",
+              "non_striker": "DPMD Jayawardene",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "WW Hinds",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "WW Hinds",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "WW Hinds",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DPMD Jayawardene",
+              "bowler": "WW Hinds",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DPMD Jayawardene",
+                  "fielders": [
+                    {
+                      "name": "M Dillon"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RS Kaluwitharana",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "RS Kaluwitharana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "player_out": "RS Kaluwitharana",
+                  "fielders": [
+                    {
+                      "name": "WW Hinds"
+                    },
+                    {
+                      "name": "RD Jacobs"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "WW Hinds",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "WW Hinds",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "CH Gayle",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "CH Gayle",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "CH Gayle",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "CH Gayle",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "CH Gayle",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "CH Gayle",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "TM Dilshan",
+              "bowler": "CH Gayle",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "CH Gayle",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "CH Gayle",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "CH Gayle",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "CH Gayle",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "CH Gayle",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "MN Samuels",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "MN Samuels",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "VC Drakes",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "VC Drakes",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "VC Drakes",
+              "non_striker": "TM Dilshan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Dilshan",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TM Dilshan",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "M Dillon",
+              "non_striker": "WPUJC Vaas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "M Dillon",
+              "non_striker": "WPUJC Vaas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "VC Drakes",
+              "non_striker": "WPUJC Vaas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "VC Drakes",
+              "non_striker": "WPUJC Vaas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "VC Drakes",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "WPUJC Vaas",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WPUJC Vaas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Muralitharan",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "M Dillon",
+              "non_striker": "M Muralitharan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Muralitharan",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "M Dillon",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Muralitharan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Muralitharan",
+              "bowler": "M Dillon",
+              "non_striker": "HDPK Dharmasena",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HDPK Dharmasena",
+              "bowler": "M Dillon",
+              "non_striker": "M Muralitharan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HDPK Dharmasena",
+                  "fielders": [
+                    {
+                      "name": "RD Jacobs"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "M Muralitharan",
+              "bowler": "CD Collymore",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Muralitharan",
+              "bowler": "CD Collymore",
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Muralitharan",
+                  "fielders": [
+                    {
+                      "name": "MN Samuels"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RAP Nissanka",
+              "bowler": "CD Collymore",
+              "non_striker": "D Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gamage",
+              "bowler": "CD Collymore",
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gamage",
+              "bowler": "CD Collymore",
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RAP Nissanka",
+              "bowler": "CD Collymore",
+              "non_striker": "D Gamage",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "batter": "D Gamage",
+              "bowler": "CD Collymore",
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "RAP Nissanka",
+              "bowler": "M Dillon",
+              "non_striker": "D Gamage",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Gamage",
+              "bowler": "M Dillon",
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gamage",
+              "bowler": "M Dillon",
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Gamage",
+              "bowler": "M Dillon",
+              "non_striker": "RAP Nissanka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Gamage",
+                  "fielders": [
+                    {
+                      "name": "CD Collymore"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "WW Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "WW Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "WW Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "WW Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "WW Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "WW Hinds",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "WW Hinds",
+              "bowler": "RAP Nissanka",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WW Hinds",
+              "bowler": "RAP Nissanka",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WW Hinds",
+              "bowler": "RAP Nissanka",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WW Hinds",
+              "bowler": "RAP Nissanka",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WW Hinds",
+              "bowler": "RAP Nissanka",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "WW Hinds",
+              "bowler": "RAP Nissanka",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "WW Hinds",
+              "bowler": "RAP Nissanka",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "WW Hinds",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "RL Powell",
+              "bowler": "RAP Nissanka",
+              "non_striker": "CH Gayle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Gayle",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CH Gayle",
+                  "fielders": [
+                    {
+                      "name": "RS Kaluwitharana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "WPUJC Vaas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RL Powell",
+              "bowler": "RAP Nissanka",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Powell",
+              "bowler": "RAP Nissanka",
+              "extras": {
+                "noballs": 2
+              },
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "RAP Nissanka",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Powell",
+              "bowler": "RAP Nissanka",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Powell",
+              "bowler": "RAP Nissanka",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RL Powell",
+              "bowler": "RAP Nissanka",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "RAP Nissanka",
+              "non_striker": "RL Powell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RL Powell",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Powell",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Powell",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RL Powell",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "RR Sarwan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RR Sarwan",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Sarwan",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Sarwan",
+                  "fielders": [
+                    {
+                      "name": "KC Sangakkara"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "WPUJC Vaas",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "RAP Nissanka",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "RAP Nissanka",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "MN Samuels",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "MN Samuels",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MN Samuels",
+                  "fielders": [
+                    {
+                      "name": "RS Kaluwitharana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "D Gamage",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "D Gamage",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "RD Jacobs",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Jacobs",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Jacobs",
+                  "fielders": [
+                    {
+                      "name": "ST Jayasuriya"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "DE Bernard",
+              "bowler": "M Muralitharan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DE Bernard",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DE Bernard",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "DE Bernard",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "VC Drakes",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VC Drakes",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "ST Jayasuriya",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "VC Drakes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "VC Drakes",
+                  "fielders": [
+                    {
+                      "name": "RS Kaluwitharana"
+                    },
+                    {
+                      "name": "RAP Nissanka"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "M Dillon",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "M Dillon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Dillon",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "M Dillon",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Dillon",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Dillon",
+                  "fielders": [
+                    {
+                      "name": "MS Atapattu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CD Collymore",
+              "bowler": "M Muralitharan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Collymore",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Collymore",
+              "bowler": "HDPK Dharmasena",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Collymore",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CD Collymore",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "M Muralitharan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BC Lara",
+              "bowler": "TM Dilshan",
+              "non_striker": "CD Collymore",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CD Collymore",
+              "bowler": "TM Dilshan",
+              "non_striker": "BC Lara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CD Collymore",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 202
+      }
+    }
+  ]
+}

@@ -1,0 +1,5566 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-04-02",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Mount Maunganui",
+    "dates": [
+      "2019-01-29"
+    ],
+    "event": {
+      "name": "India in New Zealand ODI Series",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 1135,
+    "missing": [
+      "reviews",
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "RA Dykes"
+      ],
+      "reserve_umpires": [
+        "AL Gillies"
+      ],
+      "tv_umpires": [
+        "A Mehrotra"
+      ],
+      "umpires": [
+        "BF Bowden",
+        "Kim Cotton"
+      ]
+    },
+    "outcome": {
+      "winner": "India",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "S Mandhana"
+    ],
+    "players": {
+      "New Zealand": [
+        "SW Bates",
+        "SFM Devine",
+        "LR Down",
+        "AE Satterthwaite",
+        "AC Kerr",
+        "ML Green",
+        "LM Kasperek",
+        "B Bezuidenhout",
+        "AM Peterson",
+        "HM Rowe",
+        "LMM Tahuhu"
+      ],
+      "India": [
+        "JI Rodrigues",
+        "S Mandhana",
+        "DB Sharma",
+        "M Raj",
+        "D Hemalatha",
+        "H Kaur",
+        "J Goswami",
+        "S Pandey",
+        "T Bhatia",
+        "E Bisht",
+        "Poonam Yadav"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mehrotra": "f336ff13",
+        "AC Kerr": "7673c908",
+        "AE Satterthwaite": "72b7ed1e",
+        "AL Gillies": "1a1f45a4",
+        "AM Peterson": "ae2c396f",
+        "B Bezuidenhout": "564afdcf",
+        "BF Bowden": "efc0a862",
+        "D Hemalatha": "1d6ff329",
+        "DB Sharma": "201fef33",
+        "E Bisht": "705489eb",
+        "H Kaur": "53cd8da6",
+        "HM Rowe": "8ca1f93a",
+        "J Goswami": "84f1ae7f",
+        "JI Rodrigues": "cb08b611",
+        "Kim Cotton": "67a7c2ee",
+        "LM Kasperek": "9b73d523",
+        "LMM Tahuhu": "60471339",
+        "LR Down": "19147fe0",
+        "M Raj": "ec2269dc",
+        "ML Green": "865eae1f",
+        "Poonam Yadav": "d0bb40b8",
+        "RA Dykes": "e5c6f48b",
+        "S Mandhana": "5d2eda89",
+        "S Pandey": "5463cb7a",
+        "SFM Devine": "de69af96",
+        "SW Bates": "89bbc67a",
+        "T Bhatia": "211dc1ce"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "international",
+    "teams": [
+      "New Zealand",
+      "India"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "India"
+    },
+    "venue": "Bay Oval"
+  },
+  "innings": [
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SW Bates",
+              "bowler": "J Goswami",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "J Goswami",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "J Goswami",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SW Bates",
+              "bowler": "J Goswami",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SW Bates",
+                  "fielders": [
+                    {
+                      "name": "T Bhatia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "SFM Devine",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "SFM Devine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SFM Devine",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "SFM Devine"
+                }
+              ]
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "J Goswami",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "J Goswami",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "LR Down",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "LR Down",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "LR Down",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LR Down",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "LR Down",
+                  "fielders": [
+                    {
+                      "name": "S Mandhana"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "AC Kerr",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Kerr",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "AC Kerr"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "E Bisht",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "E Bisht",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "DB Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "ML Green",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ML Green",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "ML Green"
+                }
+              ]
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "DB Sharma",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "D Hemalatha",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "S Pandey",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Pandey",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "D Hemalatha",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D Hemalatha",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "DB Sharma",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AE Satterthwaite",
+                  "fielders": [
+                    {
+                      "name": "T Bhatia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "extras": {
+                "wides": 4
+              },
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "Poonam Yadav",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "J Goswami",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "J Goswami",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "LM Kasperek",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LM Kasperek",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "LM Kasperek"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "E Bisht",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "J Goswami",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "J Goswami",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "J Goswami",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "J Goswami",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "J Goswami",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "J Goswami",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "E Bisht",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Poonam Yadav",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Poonam Yadav",
+              "non_striker": "B Bezuidenhout",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Bezuidenhout",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "B Bezuidenhout"
+                }
+              ]
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Rowe",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "HM Rowe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "AM Peterson",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "Poonam Yadav",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "DB Sharma",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Peterson",
+              "bowler": "DB Sharma",
+              "non_striker": "LMM Tahuhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "J Goswami",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LMM Tahuhu",
+              "bowler": "J Goswami",
+              "non_striker": "AM Peterson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "LMM Tahuhu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JI Rodrigues",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JI Rodrigues",
+                  "fielders": [
+                    {
+                      "name": "AC Kerr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LMM Tahuhu",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DB Sharma",
+                  "fielders": [
+                    {
+                      "name": "B Bezuidenhout"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "HM Rowe",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LMM Tahuhu",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AM Peterson",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AM Peterson",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "LM Kasperek",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "LM Kasperek",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "SFM Devine",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "SFM Devine",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "AC Kerr",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mandhana",
+              "bowler": "HM Rowe",
+              "non_striker": "M Raj",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "HM Rowe",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Raj",
+              "bowler": "AC Kerr",
+              "non_striker": "S Mandhana",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 162
+      },
+      "miscounted_overs": {
+        "32": {
+          "balls": 7
+        }
+      }
+    }
+  ]
+}

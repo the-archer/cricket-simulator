@@ -1,0 +1,6902 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-03-11",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dubai",
+    "dates": [
+      "2013-03-11"
+    ],
+    "event": {
+      "match_number": 35,
+      "name": "ICC World Cricket League Championship"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3344,
+    "missing": [
+      {
+        "powerplays": {
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "GF Labrooy"
+      ],
+      "umpires": [
+        "RJ Bailey",
+        "D Odhiambo"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 6
+      },
+      "winner": "Kenya"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "E Otieno"
+    ],
+    "players": {
+      "Canada": [
+        "H Patel",
+        "R Gunasekera",
+        "NR Kumar",
+        "AS Hansra",
+        "Raza-ur-Rehman",
+        "Usman Limbada",
+        "Rizwan Cheema",
+        "Hamza Tariq",
+        "Junaid Siddiqui",
+        "N Dutta",
+        "H Osinde"
+      ],
+      "Kenya": [
+        "IA Karim",
+        "AA Obanda",
+        "MA Ouma",
+        "CO Obuya",
+        "T Mishra",
+        "RR Patel",
+        "RG Aga",
+        "NM Odhiambo",
+        "E Otieno",
+        "HA Varaiya",
+        "JO Ngoche"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Obanda": "7081491e",
+        "AS Hansra": "795df06c",
+        "CO Obuya": "5680f1ad",
+        "D Odhiambo": "45994517",
+        "E Otieno": "c57fa67e",
+        "GF Labrooy": "8e088dbc",
+        "H Osinde": "2b8b75a0",
+        "H Patel": "c4ff0618",
+        "HA Varaiya": "eeeebf82",
+        "Hamza Tariq": "82e81007",
+        "IA Karim": "ca92a578",
+        "JO Ngoche": "a9a4df9f",
+        "Junaid Siddiqui": "9025e58f",
+        "MA Ouma": "0939c670",
+        "N Dutta": "e258a603",
+        "NM Odhiambo": "c07a1f41",
+        "NR Kumar": "b3bad3f2",
+        "R Gunasekera": "9b6ad88a",
+        "RG Aga": "2fdd16fe",
+        "RJ Bailey": "6bd04fa5",
+        "RR Patel": "7fa6bd8e",
+        "Raza-ur-Rehman": "d146924b",
+        "Rizwan Cheema": "3a026eb4",
+        "T Mishra": "c9cac448",
+        "Usman Limbada": "b0e08fde"
+      }
+    },
+    "season": "2012/13",
+    "team_type": "international",
+    "teams": [
+      "Canada",
+      "Kenya"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Canada"
+    },
+    "venue": "ICC Global Cricket Academy"
+  },
+  "innings": [
+    {
+      "team": "Canada",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "H Patel",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Patel",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Patel",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Patel",
+              "bowler": "NM Odhiambo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "H Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "H Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "H Patel",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "H Patel"
+                }
+              ]
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "NR Kumar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NR Kumar",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NR Kumar",
+                  "fielders": [
+                    {
+                      "name": "T Mishra"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "AS Hansra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AS Hansra",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "AS Hansra"
+                }
+              ]
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RR Patel",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RR Patel",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RR Patel",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RR Patel",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RR Patel",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RR Patel",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RR Patel",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RR Patel",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RR Patel",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RR Patel",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RR Patel",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RR Patel",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Gunasekera",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "R Gunasekera",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "R Gunasekera",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "R Gunasekera"
+                }
+              ]
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "RG Aga",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "RG Aga",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Usman Limbada",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "E Otieno",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Usman Limbada",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "HA Varaiya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "HA Varaiya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "Usman Limbada",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "JO Ngoche",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "JO Ngoche",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "JO Ngoche",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "extras": {
+                "byes": 3
+              },
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "CO Obuya",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "CO Obuya",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Raza-ur-Rehman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Raza-ur-Rehman",
+              "bowler": "E Otieno",
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Raza-ur-Rehman",
+                  "fielders": [
+                    {
+                      "name": "CO Obuya"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "E Otieno",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rizwan Cheema",
+              "bowler": "E Otieno",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Usman Limbada",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Usman Limbada",
+              "bowler": "E Otieno",
+              "non_striker": "Rizwan Cheema",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Usman Limbada",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Rizwan Cheema",
+              "bowler": "E Otieno",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "Rizwan Cheema",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rizwan Cheema",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Hamza Tariq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Rizwan Cheema",
+                  "fielders": [
+                    {
+                      "name": "IA Karim"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Hamza Tariq",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Tariq",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Tariq",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hamza Tariq",
+              "bowler": "NM Odhiambo",
+              "non_striker": "Junaid Siddiqui",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Hamza Tariq",
+                  "fielders": [
+                    {
+                      "name": "HA Varaiya"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 39.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "Kenya",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AA Obanda",
+                  "fielders": [
+                    {
+                      "name": "Rizwan Cheema"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "AS Hansra",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "AS Hansra",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "N Dutta",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "N Dutta",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "MA Ouma"
+                }
+              ]
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Patel",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Patel",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Osinde",
+              "non_striker": "IA Karim",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IA Karim",
+              "bowler": "H Osinde",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "IA Karim",
+                  "fielders": [
+                    {
+                      "name": "NR Kumar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "H Osinde",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Osinde",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Osinde",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Osinde",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "H Osinde",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "H Osinde",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "Rizwan Cheema",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "CO Obuya"
+                }
+              ]
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "N Dutta",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "N Dutta",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "N Dutta",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "N Dutta",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "N Dutta",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "N Dutta",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "N Dutta",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "N Dutta",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "N Dutta",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "N Dutta",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "N Dutta",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "N Dutta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "N Dutta",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "N Dutta",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "Junaid Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Junaid Siddiqui",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "T Mishra",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Mishra",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "Raza-ur-Rehman",
+              "non_striker": "T Mishra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 228
+      }
+    }
+  ]
+}

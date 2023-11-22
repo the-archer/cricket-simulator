@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-06-02",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Nottingham",
+    "dates": [
+      "2017-09-21"
+    ],
+    "event": {
+      "name": "West Indies tour of England",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3913,
+    "officials": {
+      "match_referees": [
+        "J Srinath"
+      ],
+      "reserve_umpires": [
+        "MA Gough"
+      ],
+      "tv_umpires": [
+        "SD Fry"
+      ],
+      "umpires": [
+        "RJ Tucker",
+        "RJ Bailey"
+      ]
+    },
+    "outcome": {
+      "result": "no result"
+    },
+    "overs": 50,
+    "players": {
+      "England": [
+        "JM Bairstow",
+        "AD Hales",
+        "JE Root",
+        "EJG Morgan",
+        "BA Stokes",
+        "JC Buttler",
+        "MM Ali",
+        "CR Woakes",
+        "AU Rashid",
+        "LE Plunkett",
+        "DJ Willey"
+      ],
+      "West Indies": [
+        "KA Hope",
+        "E Lewis",
+        "SD Hope",
+        "MN Samuels",
+        "JN Mohammed",
+        "R Powell",
+        "JO Holder",
+        "AR Nurse",
+        "JE Taylor",
+        "ML Cummins",
+        "KOK Williams"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AD Hales": "92aeac25",
+        "AR Nurse": "4a745f65",
+        "AU Rashid": "249d60c9",
+        "BA Stokes": "e087956b",
+        "CR Woakes": "4c5d73db",
+        "DJ Willey": "7f048519",
+        "E Lewis": "0ebfb1ad",
+        "EJG Morgan": "d2a6c0e6",
+        "J Srinath": "bad31fac",
+        "JC Buttler": "99b75528",
+        "JE Root": "a343262c",
+        "JE Taylor": "4180d897",
+        "JM Bairstow": "abb83e27",
+        "JN Mohammed": "773cec26",
+        "JO Holder": "0f721006",
+        "KA Hope": "c59d8f8a",
+        "KOK Williams": "78cb83f3",
+        "LE Plunkett": "9a963804",
+        "MA Gough": "76752ac8",
+        "ML Cummins": "92aa28fe",
+        "MM Ali": "bb351c23",
+        "MN Samuels": "f846de6a",
+        "R Powell": "650d5e49",
+        "RJ Bailey": "6bd04fa5",
+        "RJ Tucker": "38810cfc",
+        "SD Fry": "6b725ed1",
+        "SD Hope": "1fc6ef83"
+      }
+    },
+    "season": "2017",
+    "team_type": "international",
+    "teams": [
+      "England",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Trent Bridge"
+  },
+  "innings": [
+    {
+      "team": "England",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "JO Holder",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AD Hales",
+              "bowler": "JE Taylor",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "JE Taylor",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JE Taylor",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "JE Taylor",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "JE Taylor",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AD Hales",
+              "bowler": "JE Taylor",
+              "non_striker": "JM Bairstow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JM Bairstow",
+              "bowler": "JO Holder",
+              "non_striker": "AD Hales",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.2,
+          "type": "mandatory"
+        }
+      ]
+    }
+  ]
+}

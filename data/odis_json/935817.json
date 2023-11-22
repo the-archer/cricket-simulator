@@ -1,0 +1,5509 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2016-10-20",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Paarl",
+    "dates": [
+      "2016-10-17"
+    ],
+    "event": {
+      "match_number": 4,
+      "name": "New Zealand Women in South Africa ODI Series"
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 1003,
+    "missing": [
+      "player_of_match",
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "GH Pienaar"
+      ],
+      "reserve_umpires": [
+        "A Paleker"
+      ],
+      "umpires": [
+        "RN Hendricks",
+        "BM White"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 8
+      },
+      "winner": "New Zealand"
+    },
+    "overs": 50,
+    "players": {
+      "New Zealand": [
+        "NC Dodd",
+        "RH Priest",
+        "AE Satterthwaite",
+        "KJ Martin",
+        "SW Bates",
+        "KT Perkins",
+        "TMM Newton",
+        "EM Bermingham",
+        "HR Huddleston",
+        "HM Rowe",
+        "MJG Nielsen"
+      ],
+      "South Africa": [
+        "A Steyn",
+        "L Lee",
+        "M du Preez",
+        "D Devnarain",
+        "M Kapp",
+        "L Goodall",
+        "D van Niekerk",
+        "S Luus",
+        "A Khaka",
+        "O Kirsten",
+        "M Klaas"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Khaka": "0d518f89",
+        "A Paleker": "634b11ac",
+        "A Steyn": "14baca9f",
+        "AE Satterthwaite": "72b7ed1e",
+        "BM White": "66c21d35",
+        "D Devnarain": "58dc96cc",
+        "D van Niekerk": "8c5775f3",
+        "EM Bermingham": "180240d4",
+        "GH Pienaar": "3516e46b",
+        "HM Rowe": "8ca1f93a",
+        "HR Huddleston": "8d6b36e3",
+        "KJ Martin": "cf75a839",
+        "KT Perkins": "78ad3258",
+        "L Goodall": "0bb32e98",
+        "L Lee": "7b01ce83",
+        "M Kapp": "63e3b6b3",
+        "M Klaas": "ce85fcaf",
+        "M du Preez": "e219f17a",
+        "MJG Nielsen": "e2410b5e",
+        "NC Dodd": "7260e1e9",
+        "O Kirsten": "0725d3d2",
+        "RH Priest": "e6f0408a",
+        "RN Hendricks": "92edb363",
+        "S Luus": "6d76bc23",
+        "SW Bates": "89bbc67a",
+        "TMM Newton": "93fe473e"
+      }
+    },
+    "season": "2016/17",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "New Zealand"
+    },
+    "venue": "Boland Park"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "MJG Nielsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Lee",
+              "bowler": "HR Huddleston",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "HR Huddleston",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "A Steyn",
+                  "fielders": [
+                    {
+                      "name": "KT Perkins"
+                    },
+                    {
+                      "name": "RH Priest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "L Lee",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "L Lee"
+                }
+              ]
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HM Rowe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M du Preez",
+                  "fielders": [
+                    {
+                      "name": "KT Perkins"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "EM Bermingham",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "EM Bermingham",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "TMM Newton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "TMM Newton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "TMM Newton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "TMM Newton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "TMM Newton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M Kapp",
+                  "fielders": [
+                    {
+                      "name": "RH Priest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HR Huddleston",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HR Huddleston",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HR Huddleston",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "TMM Newton",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "D Devnarain",
+                  "fielders": [
+                    {
+                      "name": "NC Dodd"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HM Rowe",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "HM Rowe",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "MJG Nielsen",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "MJG Nielsen",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "L Goodall",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Goodall",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "L Goodall",
+                  "fielders": [
+                    {
+                      "name": "RH Priest"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "EM Bermingham",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "EM Bermingham",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TMM Newton",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TMM Newton",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TMM Newton",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "TMM Newton",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TMM Newton",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TMM Newton",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TMM Newton",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "TMM Newton",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "TMM Newton",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "TMM Newton",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TMM Newton",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "TMM Newton",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "HR Huddleston",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HR Huddleston",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HR Huddleston",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HR Huddleston",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HR Huddleston",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HR Huddleston",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HR Huddleston",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HR Huddleston",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HR Huddleston",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HR Huddleston",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HR Huddleston",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HR Huddleston",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Luus",
+                  "fielders": [
+                    {
+                      "name": "TMM Newton"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "A Khaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "AE Satterthwaite",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Khaka",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "A Khaka",
+                  "fielders": [
+                    {
+                      "name": "SW Bates"
+                    },
+                    {
+                      "name": "AE Satterthwaite"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "O Kirsten",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "O Kirsten",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "O Kirsten",
+                  "fielders": [
+                    {
+                      "name": "NC Dodd"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "AE Satterthwaite",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "M Klaas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "NC Dodd",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "A Khaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "NC Dodd",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "NC Dodd",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NC Dodd",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "NC Dodd"
+                }
+              ]
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Kapp",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Kapp",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Klaas",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Klaas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Klaas",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Klaas",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "M Klaas",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "M Klaas",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "RH Priest",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RH Priest",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RH Priest",
+                  "fielders": [
+                    {
+                      "name": "S Luus"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "S Luus",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "S Luus",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "D van Niekerk",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "D van Niekerk",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "A Khaka",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "O Kirsten",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Martin",
+              "bowler": "O Kirsten",
+              "non_striker": "AE Satterthwaite",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AE Satterthwaite",
+              "bowler": "A Khaka",
+              "non_striker": "KJ Martin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 195
+      }
+    }
+  ]
+}
