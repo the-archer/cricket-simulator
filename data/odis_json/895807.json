@@ -1,0 +1,6941 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2016-01-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Perth",
+    "dates": [
+      "2016-01-12"
+    ],
+    "event": {
+      "match_number": 1,
+      "name": "India in Australia ODI Series"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3723,
+    "officials": {
+      "match_referees": [
+        "JJ Crowe"
+      ],
+      "reserve_umpires": [
+        "GC Joshua"
+      ],
+      "tv_umpires": [
+        "MD Martell"
+      ],
+      "umpires": [
+        "SD Fry",
+        "RA Kettleborough"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 5
+      },
+      "winner": "Australia"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "SPD Smith"
+    ],
+    "players": {
+      "Australia": [
+        "AJ Finch",
+        "DA Warner",
+        "SPD Smith",
+        "GJ Bailey",
+        "GJ Maxwell",
+        "MR Marsh",
+        "JP Faulkner",
+        "MS Wade",
+        "SM Boland",
+        "JR Hazlewood",
+        "JS Paris"
+      ],
+      "India": [
+        "RG Sharma",
+        "S Dhawan",
+        "V Kohli",
+        "MS Dhoni",
+        "RA Jadeja",
+        "AM Rahane",
+        "MK Pandey",
+        "R Ashwin",
+        "UT Yadav",
+        "B Kumar",
+        "BB Sran"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Finch": "b8d490fd",
+        "AM Rahane": "29e95537",
+        "B Kumar": "2e81a32d",
+        "BB Sran": "d8b2f218",
+        "DA Warner": "dcce6f09",
+        "GC Joshua": "4c47ebf2",
+        "GJ Bailey": "5056011d",
+        "GJ Maxwell": "b681e71e",
+        "JJ Crowe": "2e760301",
+        "JP Faulkner": "808f425a",
+        "JR Hazlewood": "03806cf8",
+        "JS Paris": "7c8f533d",
+        "MD Martell": "487c072e",
+        "MK Pandey": "93b4fc78",
+        "MR Marsh": "3d8feaf8",
+        "MS Dhoni": "4a8a2e3b",
+        "MS Wade": "afa7e784",
+        "R Ashwin": "495d42a5",
+        "RA Jadeja": "fe93fd9d",
+        "RA Kettleborough": "4017868f",
+        "RG Sharma": "740742ef",
+        "S Dhawan": "0a476045",
+        "SD Fry": "6b725ed1",
+        "SM Boland": "d167edd3",
+        "SPD Smith": "30a45b23",
+        "UT Yadav": "cc1e8c68",
+        "V Kohli": "ba607b88"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "international",
+    "teams": [
+      "Australia",
+      "India"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "India"
+    },
+    "venue": "Western Australia Cricket Association Ground"
+  },
+  "innings": [
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "S Dhawan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Dhawan",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Dhawan",
+                  "fielders": [
+                    {
+                      "name": "MR Marsh"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "GJ Maxwell",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "GJ Maxwell",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "GJ Maxwell",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JS Paris",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JS Paris",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "MR Marsh",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "MR Marsh",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "V Kohli",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Kohli",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "V Kohli",
+                  "fielders": [
+                    {
+                      "name": "AJ Finch"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JR Hazlewood",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JR Hazlewood",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "MS Dhoni",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MS Dhoni",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MS Dhoni",
+                  "fielders": [
+                    {
+                      "name": "SM Boland"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "JP Faulkner",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "JP Faulkner",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RA Jadeja",
+              "bowler": "SM Boland",
+              "non_striker": "RG Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RG Sharma",
+              "bowler": "SM Boland",
+              "non_striker": "RA Jadeja",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "BB Sran",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "BB Sran",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "BB Sran",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "BB Sran",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught and bowled",
+                  "player_out": "AJ Finch"
+                }
+              ]
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "DA Warner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Warner",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DA Warner",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "RG Sharma",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RG Sharma",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RG Sharma",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RG Sharma",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RG Sharma",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RG Sharma",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "V Kohli",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "V Kohli",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "V Kohli",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "V Kohli",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "RA Jadeja",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "RA Jadeja",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Bailey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Bailey",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "GJ Bailey",
+                  "fielders": [
+                    {
+                      "name": "B Kumar"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "GJ Maxwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GJ Maxwell",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "GJ Maxwell",
+                  "fielders": [
+                    {
+                      "name": "S Dhawan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "BB Sran",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "R Ashwin",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "R Ashwin",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "B Kumar",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "B Kumar",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "MR Marsh",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SPD Smith",
+              "bowler": "UT Yadav",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Marsh",
+              "bowler": "UT Yadav",
+              "non_striker": "SPD Smith",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "SPD Smith",
+              "bowler": "BB Sran",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SPD Smith",
+                  "fielders": [
+                    {
+                      "name": "V Kohli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "BB Sran",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "BB Sran",
+              "non_striker": "MR Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.3,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 310
+      }
+    }
+  ]
+}

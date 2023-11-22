@@ -1,0 +1,7073 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2017-07-07",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Leicester",
+    "dates": [
+      "2017-07-05"
+    ],
+    "event": {
+      "match_number": 15,
+      "name": "ICC Women's World Cup"
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 1069,
+    "officials": {
+      "match_referees": [
+        "DT Jukes"
+      ],
+      "reserve_umpires": [
+        "JM Williams"
+      ],
+      "umpires": [
+        "AK Chaudhary",
+        "S Redfern"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 159
+      },
+      "winner": "Australia"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "EJ Villani"
+    ],
+    "players": {
+      "Australia": [
+        "NE Bolton",
+        "BL Mooney",
+        "EA Perry",
+        "RL Haynes",
+        "EJ Villani",
+        "AJ Blackwell",
+        "AJ Healy",
+        "JL Jonassen",
+        "A Gardner",
+        "SE Aley",
+        "KM Beams"
+      ],
+      "Pakistan": [
+        "Ayesha Zafar",
+        "Nahida Khan",
+        "Marina Iqbal",
+        "Nain Abidi",
+        "Iram Javed",
+        "Asmavia Iqbal",
+        "Sana Mir",
+        "Sidra Nawaz",
+        "Nashra Sandhu",
+        "Sadia Yousuf",
+        "Diana Baig"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Gardner": "bc969efb",
+        "AJ Blackwell": "b9164a9b",
+        "AJ Healy": "321644de",
+        "AK Chaudhary": "fdcc6236",
+        "Asmavia Iqbal": "98dfe425",
+        "Ayesha Zafar": "e15f4fa4",
+        "BL Mooney": "52d1dbc8",
+        "DT Jukes": "7c215d14",
+        "Diana Baig": "a51e6c6e",
+        "EA Perry": "be150fc8",
+        "EJ Villani": "cde96d97",
+        "Iram Javed": "dc596fac",
+        "JL Jonassen": "0475a86b",
+        "JM Williams": "b61d9d70",
+        "KM Beams": "fa8f9dc3",
+        "Marina Iqbal": "e429f443",
+        "NE Bolton": "dd883071",
+        "Nahida Khan": "3e7c0b1e",
+        "Nain Abidi": "5486d41f",
+        "Nashra Sandhu": "c981d3c2",
+        "RL Haynes": "d7c6b0fb",
+        "S Redfern": "5b038989",
+        "SE Aley": "5be043df",
+        "Sadia Yousuf": "3cfbddce",
+        "Sana Mir": "b287e7b1",
+        "Sidra Nawaz": "ca3ded6f"
+      }
+    },
+    "season": 2017,
+    "team_type": "international",
+    "teams": [
+      "Australia",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Australia"
+    },
+    "venue": "Grace Road"
+  },
+  "innings": [
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "BL Mooney",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BL Mooney",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BL Mooney",
+                  "fielders": [
+                    {
+                      "name": "Sidra Nawaz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "NE Bolton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NE Bolton",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "NE Bolton"
+                }
+              ]
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Asmavia Iqbal",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "RL Haynes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RL Haynes",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RL Haynes",
+                  "fielders": [
+                    {
+                      "name": "Sidra Nawaz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "EJ Villani",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Marina Iqbal",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "EJ Villani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "EJ Villani",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EJ Villani",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "EJ Villani"
+                }
+              ]
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Marina Iqbal",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Marina Iqbal",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Marina Iqbal",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Marina Iqbal",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Diana Baig",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Diana Baig",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "AJ Blackwell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Blackwell",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "AJ Blackwell"
+                }
+              ]
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sana Mir",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "EA Perry",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "EA Perry",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "EA Perry",
+                  "fielders": [
+                    {
+                      "name": "Sana Mir"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "JL Jonassen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "JL Jonassen",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JL Jonassen",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JL Jonassen",
+                  "fielders": [
+                    {
+                      "name": "Sana Mir"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "A Gardner",
+              "bowler": "Marina Iqbal",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Marina Iqbal",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Marina Iqbal",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Marina Iqbal",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Marina Iqbal",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Marina Iqbal",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Marina Iqbal",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Gardner",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sadia Yousuf",
+              "non_striker": "A Gardner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "A Gardner",
+              "bowler": "Sana Mir",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Gardner",
+                  "fielders": [
+                    {
+                      "name": "Asmavia Iqbal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Aley",
+              "bowler": "Sana Mir",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "SE Aley",
+              "bowler": "Diana Baig",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Aley",
+              "bowler": "Diana Baig",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Diana Baig",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Diana Baig",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Diana Baig",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Aley",
+              "bowler": "Diana Baig",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Aley",
+              "bowler": "Sana Mir",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Aley",
+              "bowler": "Sana Mir",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Sana Mir",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "AJ Healy",
+              "bowler": "Diana Baig",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Diana Baig",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Diana Baig",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Healy",
+              "bowler": "Diana Baig",
+              "non_striker": "SE Aley",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Aley",
+              "bowler": "Diana Baig",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Aley",
+              "bowler": "Diana Baig",
+              "non_striker": "AJ Healy",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 39.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Nahida Khan",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Nahida Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nahida Khan",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nahida Khan",
+              "bowler": "EA Perry",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Nahida Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Nahida Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Nahida Khan",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nahida Khan",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nahida Khan",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Nahida Khan"
+                }
+              ]
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "EA Perry",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "JL Jonassen",
+              "non_striker": "Ayesha Zafar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "SE Aley",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ayesha Zafar",
+              "bowler": "SE Aley",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Ayesha Zafar",
+                  "fielders": [
+                    {
+                      "name": "EJ Villani"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "JL Jonassen",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "SE Aley",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "SE Aley",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "SE Aley",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "SE Aley",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "SE Aley",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "SE Aley",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "KM Beams",
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "KM Beams",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Marina Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Marina Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Marina Iqbal",
+                  "fielders": [
+                    {
+                      "name": "SE Aley"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "SE Aley",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Nain Abidi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Nain Abidi",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nain Abidi",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Nain Abidi",
+                  "fielders": [
+                    {
+                      "name": "BL Mooney"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "KM Beams",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 5,
+                "extras": 0,
+                "total": 5
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EJ Villani",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EJ Villani",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EJ Villani",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EJ Villani",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "EJ Villani",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EJ Villani",
+              "non_striker": "Iram Javed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Iram Javed",
+              "bowler": "A Gardner",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Iram Javed",
+                  "fielders": [
+                    {
+                      "name": "NE Bolton"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EJ Villani",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EA Perry",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Asmavia Iqbal",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Asmavia Iqbal",
+              "bowler": "KM Beams",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Asmavia Iqbal"
+                }
+              ]
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "KM Beams",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "KM Beams",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "KM Beams",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "KM Beams",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "KM Beams",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "KM Beams",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "KM Beams",
+              "non_striker": "Sidra Nawaz",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Nawaz",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Sidra Nawaz",
+                  "fielders": [
+                    {
+                      "name": "AJ Healy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "JL Jonassen",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "JL Jonassen",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "SE Aley",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "SE Aley",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Nashra Sandhu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Nashra Sandhu",
+              "bowler": "A Gardner",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Nashra Sandhu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "EA Perry",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sadia Yousuf",
+              "bowler": "EA Perry",
+              "non_striker": "Sana Mir",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sana Mir",
+              "bowler": "A Gardner",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Sana Mir"
+                }
+              ]
+            },
+            {
+              "batter": "Diana Baig",
+              "bowler": "A Gardner",
+              "non_striker": "Sadia Yousuf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "Diana Baig",
+                  "fielders": [
+                    {
+                      "name": "KM Beams"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 39.6,
+          "type": "batting"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 291
+      }
+    }
+  ]
+}

@@ -1,0 +1,6643 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2016-03-01",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "East London",
+    "dates": [
+      "2016-02-27"
+    ],
+    "event": {
+      "name": "ICC Women's Championship"
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 981,
+    "missing": [
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "PJ Vosloo"
+      ],
+      "umpires": [
+        "A Paleker",
+        "DJ Smith"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 57
+      },
+      "winner": "West Indies"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "SR Taylor"
+    ],
+    "players": {
+      "South Africa": [
+        "A Steyn",
+        "T Chetty",
+        "M du Preez",
+        "M Kapp",
+        "L Lee",
+        "D van Niekerk",
+        "D Devnarain",
+        "S Luus",
+        "S Ismail",
+        "MM Letsoalo",
+        "M Klaas"
+      ],
+      "West Indies": [
+        "HK Matthews",
+        "SL Quintyne",
+        "SR Taylor",
+        "DJS Dottin",
+        "B Cooper",
+        "MR Aguilleira",
+        "SA Campbelle",
+        "A Mohammed",
+        "ASS Fletcher",
+        "TD Smartt",
+        "SC Selman"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mohammed": "a49985e6",
+        "A Paleker": "634b11ac",
+        "A Steyn": "14baca9f",
+        "ASS Fletcher": "42d9dd09",
+        "B Cooper": "ac0edb42",
+        "D Devnarain": "58dc96cc",
+        "D van Niekerk": "8c5775f3",
+        "DJ Smith": "d17bec15",
+        "DJS Dottin": "53bee17f",
+        "HK Matthews": "d32cf49a",
+        "L Lee": "7b01ce83",
+        "M Kapp": "63e3b6b3",
+        "M Klaas": "ce85fcaf",
+        "M du Preez": "e219f17a",
+        "MM Letsoalo": "7544bf30",
+        "MR Aguilleira": "4e7aa570",
+        "PJ Vosloo": "93a6d2d0",
+        "S Ismail": "108c4c09",
+        "S Luus": "6d76bc23",
+        "S Wadvalla": "c1a1acf3",
+        "SA Campbelle": "a7cd72b2",
+        "SC Selman": "c29ada99",
+        "SL Quintyne": "3308d881",
+        "SR Taylor": "92cf79a8",
+        "T Chetty": "53a5767d",
+        "TD Smartt": "cc3884f9"
+      }
+    },
+    "season": "2015/16",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "West Indies"
+    },
+    "venue": "Buffalo Park"
+  },
+  "innings": [
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "HK Matthews",
+                  "fielders": [
+                    {
+                      "name": "D van Niekerk"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "SL Quintyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Quintyne",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "SL Quintyne"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "M Klaas",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "M Klaas",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Klaas",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "MM Letsoalo",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "MM Letsoalo",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "MM Letsoalo",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "MM Letsoalo",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "MM Letsoalo",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "M Kapp",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "M Kapp",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Ismail",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "S Ismail",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Taylor",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D Devnarain",
+              "non_striker": "SR Taylor",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "SR Taylor",
+              "bowler": "D van Niekerk",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "SR Taylor",
+                  "fielders": [
+                    {
+                      "name": "M du Preez"
+                    },
+                    {
+                      "name": "D van Niekerk"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "D van Niekerk",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "B Cooper",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Luus",
+              "non_striker": "DJS Dottin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJS Dottin",
+              "bowler": "S Luus",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DJS Dottin",
+                  "fielders": [
+                    {
+                      "name": "A Steyn"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "D Devnarain",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "D Devnarain",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "D Devnarain",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "D Devnarain",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "B Cooper",
+              "bowler": "S Luus",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Luus",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Luus",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "S Luus",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "S Luus",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Luus",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "S Ismail",
+              "non_striker": "B Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "B Cooper",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Cooper",
+              "bowler": "S Ismail",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "B Cooper",
+                  "fielders": [
+                    {
+                      "name": "M Kapp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "S Ismail",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "S Ismail",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "MR Aguilleira",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Aguilleira",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MR Aguilleira",
+                  "fielders": [
+                    {
+                      "name": "T Chetty"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "A Mohammed",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "A Mohammed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mohammed",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "A Mohammed",
+                  "fielders": [
+                    {
+                      "name": "L Lee"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "ASS Fletcher",
+                  "fielders": [
+                    {
+                      "name": "M Kapp"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "TD Smartt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TD Smartt",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "TD Smartt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "TD Smartt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "TD Smartt",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "TD Smartt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TD Smartt",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TD Smartt",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TD Smartt",
+                  "fielders": [
+                    {
+                      "name": "D van Niekerk"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Ismail",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Ismail",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Ismail",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "SC Selman",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Ismail",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Ismail",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SC Selman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SC Selman",
+              "bowler": "S Ismail",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "SC Selman",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "SC Selman",
+                  "fielders": [
+                    {
+                      "name": "M Kapp"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "A Steyn",
+                  "fielders": [
+                    {
+                      "name": "DJS Dottin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SL Quintyne",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "M du Preez"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SL Quintyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SL Quintyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "M Kapp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "L Lee",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "L Lee"
+                }
+              ]
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SL Quintyne",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SL Quintyne",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "SL Quintyne",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "SC Selman",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "SC Selman",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "DJS Dottin",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "DJS Dottin",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "TD Smartt",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "A Mohammed",
+              "non_striker": "T Chetty",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Chetty",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "T Chetty"
+                }
+              ]
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "TD Smartt",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "TD Smartt",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Devnarain",
+              "bowler": "TD Smartt",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "TD Smartt",
+              "non_striker": "D Devnarain",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "D Devnarain",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "D Devnarain"
+                }
+              ]
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D van Niekerk",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "D van Niekerk",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "D van Niekerk",
+                  "fielders": [
+                    {
+                      "name": "A Mohammed"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "A Mohammed",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "A Mohammed",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "S Luus"
+                }
+              ]
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "MM Letsoalo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Letsoalo",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "MM Letsoalo"
+                }
+              ]
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "HK Matthews",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "ASS Fletcher",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "HK Matthews",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "S Ismail",
+                  "fielders": [
+                    {
+                      "name": "SA Campbelle"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 233
+      }
+    }
+  ]
+}

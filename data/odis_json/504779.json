@@ -1,0 +1,6163 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-02-28",
+    "revision": 3
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Aberdeen",
+    "dates": [
+      "2011-06-29"
+    ],
+    "event": {
+      "match_number": 2,
+      "name": "ICC World Cricket League Championship"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3166,
+    "missing": [
+      "player_of_match",
+      {
+        "powerplays": {
+          "1": [
+            "fielding"
+          ],
+          "2": [
+            "fielding"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "DT Jukes"
+      ],
+      "reserve_umpires": [
+        "RM Wylie"
+      ],
+      "umpires": [
+        "NG Bagh",
+        "PJ Nero"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 5
+      },
+      "method": "D/L",
+      "winner": "Scotland"
+    },
+    "overs": 50,
+    "players": {
+      "Netherlands": [
+        "MR Swart",
+        "W Barresi",
+        "VAB Tewarie",
+        "TLW Cooper",
+        "N Kruger",
+        "TN de Grooth",
+        "PW Borren",
+        "TJ Heggelman",
+        "Mudassar Bukhari",
+        "PM Seelaar",
+        "Ahsan Malik"
+      ],
+      "Scotland": [
+        "DF Watts",
+        "KJ Coetzer",
+        "CS MacLeod",
+        "JH Davey",
+        "NFI McCallum",
+        "RD Berrington",
+        "GI Maiden",
+        "GD Drummond",
+        "G Goudie",
+        "SM Sharif",
+        "RM Haq"
+      ]
+    },
+    "registry": {
+      "people": {
+        "Ahsan Malik": "96503059",
+        "CS MacLeod": "9c376401",
+        "DF Watts": "ad733e72",
+        "DT Jukes": "7c215d14",
+        "G Goudie": "59f509ed",
+        "GD Drummond": "5b8fffb4",
+        "GI Maiden": "a8bbd62e",
+        "JH Davey": "d3868bd0",
+        "KJ Coetzer": "85d8110a",
+        "MR Swart": "a75a78eb",
+        "Mudassar Bukhari": "37312a74",
+        "N Kruger": "12f6b3bd",
+        "NFI McCallum": "ef5cbaf6",
+        "NG Bagh": "6e98744c",
+        "PJ Nero": "925d2e93",
+        "PM Seelaar": "abbdca1a",
+        "PW Borren": "91052c96",
+        "RD Berrington": "e21bc7f3",
+        "RM Haq": "27159c6a",
+        "RM Wylie": "6a6ba226",
+        "SM Sharif": "f43dd8c2",
+        "TJ Heggelman": "c5758216",
+        "TLW Cooper": "2318ba22",
+        "TN de Grooth": "52980a48",
+        "VAB Tewarie": "97b7c5c0",
+        "W Barresi": "0d677597"
+      }
+    },
+    "season": 2011,
+    "team_type": "international",
+    "teams": [
+      "Scotland",
+      "Netherlands"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Scotland"
+    },
+    "venue": "Mannofield Park"
+  },
+  "innings": [
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "GD Drummond",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "GD Drummond",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "MR Swart",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MR Swart",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "MR Swart"
+                }
+              ]
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "SM Sharif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "GD Drummond",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "GD Drummond",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "GD Drummond",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "GD Drummond",
+              "non_striker": "W Barresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "GD Drummond",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "W Barresi",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Barresi",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "W Barresi",
+                  "fielders": [
+                    {
+                      "name": "KJ Coetzer"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JH Davey",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "VAB Tewarie",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VAB Tewarie",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "VAB Tewarie",
+                  "fielders": [
+                    {
+                      "name": "GI Maiden"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JH Davey",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JH Davey",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JH Davey",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JH Davey",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JH Davey",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "JH Davey",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "N Kruger",
+              "bowler": "SM Sharif",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "SM Sharif",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "N Kruger",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "JH Davey",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "N Kruger",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Kruger",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "N Kruger",
+                  "fielders": [
+                    {
+                      "name": "GD Drummond"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "GD Drummond",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "GD Drummond",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "TN de Grooth",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "TN de Grooth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TN de Grooth",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TN de Grooth",
+                  "fielders": [
+                    {
+                      "name": "GI Maiden"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TLW Cooper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TLW Cooper",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "TLW Cooper"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RD Berrington",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RD Berrington",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "G Goudie",
+              "non_striker": "TJ Heggelman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TJ Heggelman",
+              "bowler": "G Goudie",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TJ Heggelman",
+                  "fielders": [
+                    {
+                      "name": "GI Maiden"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "RM Haq",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "RM Haq",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "KJ Coetzer",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "KJ Coetzer",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "SM Sharif",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "SM Sharif",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "SM Sharif",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "GD Drummond",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "GD Drummond",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "non_striker": "Mudassar Bukhari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mudassar Bukhari",
+              "bowler": "SM Sharif",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mudassar Bukhari",
+                  "fielders": [
+                    {
+                      "name": "G Goudie"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "non_striker": "PM Seelaar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "non_striker": "PM Seelaar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PM Seelaar",
+              "bowler": "SM Sharif",
+              "non_striker": "PW Borren",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PW Borren",
+              "bowler": "SM Sharif",
+              "non_striker": "PM Seelaar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "PM Seelaar",
+                  "fielders": [
+                    {
+                      "name": "SM Sharif"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 41.1,
+          "to": 45.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "Scotland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DF Watts",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DF Watts",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DF Watts",
+                  "fielders": [
+                    {
+                      "name": "W Barresi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "CS MacLeod",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CS MacLeod",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "CS MacLeod"
+                }
+              ]
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "JH Davey",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JH Davey",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JH Davey",
+                  "fielders": [
+                    {
+                      "name": "PW Borren"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "NFI McCallum",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "PW Borren",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PW Borren",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "NFI McCallum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NFI McCallum",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "NFI McCallum",
+                  "fielders": [
+                    {
+                      "name": "TLW Cooper"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "RD Berrington",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TJ Heggelman",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "TJ Heggelman",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "TLW Cooper",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "RD Berrington",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Berrington",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RD Berrington",
+                  "fielders": [
+                    {
+                      "name": "TLW Cooper"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "Mudassar Bukhari",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "GI Maiden",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "Ahsan Malik",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "Ahsan Malik",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "GI Maiden",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "PM Seelaar",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "GI Maiden",
+              "bowler": "TLW Cooper",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GI Maiden",
+              "bowler": "TLW Cooper",
+              "non_striker": "KJ Coetzer",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "TLW Cooper",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "KJ Coetzer",
+              "bowler": "PM Seelaar",
+              "non_striker": "GI Maiden",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 38.1,
+          "to": 39.1,
+          "type": "batting"
+        }
+      ],
+      "target": {
+        "overs": 41,
+        "runs": 162
+      }
+    }
+  ]
+}

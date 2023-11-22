@@ -1,0 +1,6944 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2017-02-14",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Colombo",
+    "dates": [
+      "2017-02-10"
+    ],
+    "event": {
+      "group": "A",
+      "match_number": 11,
+      "name": "ICC Women's World Cup Qualifier"
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 1034,
+    "missing": [
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "reserve_umpires": [
+        "RR Wimalasiri"
+      ],
+      "umpires": [
+        "IN Ramage",
+        "S Redfern"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 125
+      },
+      "winner": "India"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "MDT Kamini"
+    ],
+    "players": {
+      "India": [
+        "DB Sharma",
+        "MDT Kamini",
+        "V Krishnamurthy",
+        "H Kaur",
+        "M Raj",
+        "DP Vaidya",
+        "S Pandey",
+        "M Joshi",
+        "S Verma",
+        "E Bisht",
+        "Poonam Yadav"
+      ],
+      "Ireland": [
+        "SM Kavanagh",
+        "CNIM Joyce",
+        "KJ Garth",
+        "L Delany",
+        "IMHC Joyce",
+        "GH Lewis",
+        "CMA Shillington",
+        "MV Waldron",
+        "AJ Kenealy",
+        "LN McCarthy",
+        "CJ Metcalfe"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AJ Kenealy": "ca753f5d",
+        "CJ Metcalfe": "d58fdb42",
+        "CMA Shillington": "60e11a00",
+        "CNIM Joyce": "56418eae",
+        "DB Sharma": "201fef33",
+        "DP Vaidya": "f9ded29b",
+        "E Bisht": "705489eb",
+        "GH Lewis": "1b9d1579",
+        "H Kaur": "53cd8da6",
+        "IMHC Joyce": "d3b4b8ed",
+        "IN Ramage": "33cb7803",
+        "KJ Garth": "0b69a844",
+        "L Delany": "b4f73b44",
+        "LN McCarthy": "77c88f05",
+        "M Joshi": "47fb8d80",
+        "M Raj": "ec2269dc",
+        "MDT Kamini": "fefe8d52",
+        "MV Waldron": "2e4f11e9",
+        "Poonam Yadav": "d0bb40b8",
+        "RR Wimalasiri": "4950c8db",
+        "S Pandey": "5463cb7a",
+        "S Redfern": "5b038989",
+        "S Verma": "185e6c0c",
+        "SM Kavanagh": "7e9b3b60",
+        "V Krishnamurthy": "c3f21798"
+      }
+    },
+    "season": "2016/17",
+    "team_type": "international",
+    "teams": [
+      "India",
+      "Ireland"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "India"
+    },
+    "venue": "P Sara Oval"
+  },
+  "innings": [
+    {
+      "team": "India",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "AJ Kenealy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "AJ Kenealy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DB Sharma",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "DB Sharma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "DB Sharma",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DB Sharma",
+                  "fielders": [
+                    {
+                      "name": "IMHC Joyce"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "KJ Garth",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "KJ Garth",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "CJ Metcalfe",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "GH Lewis",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "GH Lewis",
+              "non_striker": "V Krishnamurthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "V Krishnamurthy",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "V Krishnamurthy",
+                  "fielders": [
+                    {
+                      "name": "CNIM Joyce"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "LN McCarthy",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "LN McCarthy",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Kaur",
+              "bowler": "IMHC Joyce",
+              "non_striker": "MDT Kamini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MDT Kamini",
+              "bowler": "IMHC Joyce",
+              "non_striker": "H Kaur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SM Kavanagh",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "SM Kavanagh"
+                }
+              ]
+            },
+            {
+              "batter": "KJ Garth",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Garth",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Garth",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Garth",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KJ Garth",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KJ Garth",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "KJ Garth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "KJ Garth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "KJ Garth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "KJ Garth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "KJ Garth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KJ Garth",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "KJ Garth"
+                }
+              ]
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "S Pandey",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CNIM Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "CNIM Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "CNIM Joyce",
+                  "fielders": [
+                    {
+                      "name": "M Joshi"
+                    },
+                    {
+                      "name": "S Verma"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "E Bisht",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "E Bisht",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "DB Sharma",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "DB Sharma",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "E Bisht",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "M Joshi",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "M Joshi",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "L Delany",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Delany",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "L Delany"
+                }
+              ]
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "DB Sharma",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DB Sharma",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DB Sharma",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "S Pandey",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Pandey",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Pandey",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "S Pandey",
+              "non_striker": "IMHC Joyce",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "IMHC Joyce",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "IMHC Joyce",
+                  "fielders": [
+                    {
+                      "name": "V Krishnamurthy"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CMA Shillington",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "CMA Shillington",
+                  "fielders": [
+                    {
+                      "name": "M Joshi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "DB Sharma",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "DB Sharma",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DB Sharma",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DB Sharma",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "DB Sharma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "Poonam Yadav",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "MV Waldron",
+              "bowler": "M Joshi",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "M Joshi",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "M Joshi",
+              "non_striker": "MV Waldron",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MV Waldron",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "MV Waldron",
+                  "fielders": [
+                    {
+                      "name": "DP Vaidya"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "E Bisht",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "E Bisht",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "H Kaur",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "H Kaur",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "H Kaur",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "H Kaur",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "H Kaur",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "DP Vaidya",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "Poonam Yadav",
+              "non_striker": "AJ Kenealy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "GH Lewis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "LN McCarthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "LN McCarthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "LN McCarthy",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "LN McCarthy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "LN McCarthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Kenealy",
+              "bowler": "DP Vaidya",
+              "non_striker": "LN McCarthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "AJ Kenealy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "LN McCarthy",
+              "bowler": "DB Sharma",
+              "non_striker": "CJ Metcalfe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LN McCarthy",
+              "bowler": "DB Sharma",
+              "non_striker": "CJ Metcalfe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LN McCarthy",
+              "bowler": "DB Sharma",
+              "non_striker": "CJ Metcalfe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LN McCarthy",
+              "bowler": "DB Sharma",
+              "non_striker": "CJ Metcalfe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LN McCarthy",
+              "bowler": "DB Sharma",
+              "non_striker": "CJ Metcalfe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJ Metcalfe",
+              "bowler": "DB Sharma",
+              "non_striker": "LN McCarthy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "LN McCarthy",
+              "bowler": "DP Vaidya",
+              "non_striker": "CJ Metcalfe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "LN McCarthy",
+                  "fielders": [
+                    {
+                      "name": "S Verma"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 251
+      }
+    }
+  ]
+}

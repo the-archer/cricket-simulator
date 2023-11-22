@@ -1,0 +1,2418 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2011-02-25",
+    "revision": 2
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Chennai",
+    "dates": [
+      "2011-02-20"
+    ],
+    "event": {
+      "group": "A",
+      "match_number": 2,
+      "name": "ICC Cricket World Cup"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3101,
+    "officials": {
+      "match_referees": [
+        "RS Mahanama"
+      ],
+      "reserve_umpires": [
+        "S Asnani"
+      ],
+      "tv_umpires": [
+        "Aleem Dar"
+      ],
+      "umpires": [
+        "M Erasmus",
+        "RJ Tucker"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "wickets": 10
+      },
+      "winner": "New Zealand"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "HK Bennett"
+    ],
+    "players": {
+      "Kenya": [
+        "AA Obanda",
+        "SR Waters",
+        "CO Obuya",
+        "SO Tikolo",
+        "MA Ouma",
+        "RR Patel",
+        "JK Kamande",
+        "TM Odoyo",
+        "NN Odhiambo",
+        "SO Ngoche",
+        "E Otieno"
+      ],
+      "New Zealand": [
+        "MJ Guptill",
+        "BB McCullum",
+        "JD Ryder",
+        "LRPL Taylor",
+        "JEC Franklin",
+        "SB Styris",
+        "DL Vettori",
+        "NL McCullum",
+        "JDP Oram",
+        "TG Southee",
+        "HK Bennett"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AA Obanda": "7081491e",
+        "Aleem Dar": "f02778d1",
+        "BB McCullum": "b8a55852",
+        "CO Obuya": "5680f1ad",
+        "DL Vettori": "d7c6af50",
+        "E Otieno": "c57fa67e",
+        "HK Bennett": "94238673",
+        "JD Ryder": "91ffa6c6",
+        "JDP Oram": "3eac9d95",
+        "JEC Franklin": "cf73ad76",
+        "JK Kamande": "270b3f8e",
+        "LRPL Taylor": "b61a3e1a",
+        "M Erasmus": "15d3c895",
+        "MA Ouma": "0939c670",
+        "MJ Guptill": "2be41edb",
+        "NL McCullum": "5673a3fc",
+        "NN Odhiambo": "753b5a2d",
+        "RJ Tucker": "38810cfc",
+        "RR Patel": "7fa6bd8e",
+        "RS Mahanama": "57910393",
+        "S Asnani": "b04524bc",
+        "SB Styris": "57efa3be",
+        "SO Ngoche": "49118dc7",
+        "SO Tikolo": "00d69fa4",
+        "SR Waters": "86d38202",
+        "TG Southee": "13c35c9e",
+        "TM Odoyo": "2c13defe"
+      }
+    },
+    "season": "2010/11",
+    "team_type": "international",
+    "teams": [
+      "Kenya",
+      "New Zealand"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Kenya"
+    },
+    "venue": "MA Chidambaram Stadium, Chepauk"
+  },
+  "innings": [
+    {
+      "team": "Kenya",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AA Obanda",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Obanda",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "AA Obanda"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SR Waters",
+              "bowler": "NL McCullum",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "NL McCullum",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "TG Southee",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "TG Southee",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "HK Bennett",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "HK Bennett",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SR Waters",
+              "bowler": "DL Vettori",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "DL Vettori",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "DL Vettori",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "DL Vettori",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "DL Vettori",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "DL Vettori",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "HK Bennett",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "HK Bennett",
+              "non_striker": "SR Waters",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SR Waters",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "SR Waters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CO Obuya",
+              "bowler": "DL Vettori",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "DL Vettori",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "DL Vettori",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "DL Vettori",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "DL Vettori",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "DL Vettori",
+              "non_striker": "SO Tikolo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SO Tikolo",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SO Tikolo",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SO Tikolo"
+                }
+              ]
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "HK Bennett",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "HK Bennett",
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "HK Bennett",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CO Obuya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CO Obuya",
+              "bowler": "HK Bennett",
+              "non_striker": "MA Ouma",
+              "review": {
+                "by": "Kenya",
+                "umpire": "RJ Tucker",
+                "batter": "CO Obuya",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "CO Obuya"
+                }
+              ]
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HK Bennett",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "MA Ouma",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "HK Bennett",
+              "non_striker": "MA Ouma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Ouma",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "MA Ouma"
+                }
+              ]
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "HK Bennett",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "HK Bennett",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HK Bennett",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "HK Bennett",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "JK Kamande",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "JK Kamande",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JK Kamande",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "JK Kamande",
+                  "fielders": [
+                    {
+                      "name": "BB McCullum"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TM Odoyo",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "TM Odoyo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "TM Odoyo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "DL Vettori",
+              "non_striker": "TM Odoyo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Odoyo",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Odoyo",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "TM Odoyo",
+              "bowler": "DL Vettori",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "JDP Oram",
+              "non_striker": "TM Odoyo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "TM Odoyo",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TM Odoyo",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TM Odoyo",
+                  "fielders": [
+                    {
+                      "name": "JD Ryder"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "JDP Oram",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "TG Southee",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Patel",
+              "bowler": "TG Southee",
+              "non_striker": "NN Odhiambo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "TG Southee",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "TG Southee",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NN Odhiambo",
+              "bowler": "TG Southee",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "NN Odhiambo"
+                }
+              ]
+            },
+            {
+              "batter": "SO Ngoche",
+              "bowler": "TG Southee",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "SO Ngoche"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "RR Patel",
+              "bowler": "JDP Oram",
+              "non_striker": "E Otieno",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Otieno",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Otieno",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Otieno",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Otieno",
+              "bowler": "JDP Oram",
+              "non_striker": "RR Patel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "E Otieno",
+                  "fielders": [
+                    {
+                      "name": "SB Styris"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 14.6,
+          "type": "fielding"
+        }
+      ]
+    },
+    {
+      "team": "New Zealand",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "TM Odoyo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "TM Odoyo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "TM Odoyo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "review": {
+                "by": "Kenya",
+                "umpire": "RJ Tucker",
+                "batter": "MJ Guptill",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "E Otieno",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "E Otieno",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "E Otieno",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "TM Odoyo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "TM Odoyo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "TM Odoyo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "TM Odoyo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JK Kamande",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "NN Odhiambo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "NN Odhiambo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "NN Odhiambo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "NN Odhiambo",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "NN Odhiambo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "NN Odhiambo",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "NN Odhiambo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "NN Odhiambo",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BB McCullum",
+              "bowler": "JK Kamande",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JK Kamande",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MJ Guptill",
+              "bowler": "JK Kamande",
+              "non_striker": "BB McCullum",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JK Kamande",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BB McCullum",
+              "bowler": "JK Kamande",
+              "non_striker": "MJ Guptill",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 7.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 70
+      }
+    }
+  ]
+}

@@ -1,0 +1,5377 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-05-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2018-03-04"
+    ],
+    "event": {
+      "name": "ICC Cricket World Cup Qualifier (ICC Trophy)",
+      "match_number": 1,
+      "group": "A"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3984,
+    "officials": {
+      "match_referees": [
+        "GF Labrooy"
+      ],
+      "reserve_umpires": [
+        "L Rusere"
+      ],
+      "umpires": [
+        "SD Fry",
+        "S George"
+      ]
+    },
+    "outcome": {
+      "winner": "United Arab Emirates",
+      "by": {
+        "runs": 56
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Mohammad Naveed"
+    ],
+    "players": {
+      "United Arab Emirates": [
+        "Rohan Mustafa",
+        "Ashfaq Ahmed",
+        "Ghulam Shabber",
+        "Rameez Shahzad",
+        "Shaiman Anwar",
+        "Adnan Mufti",
+        "Muhammad Usman",
+        "Ahmed Raza",
+        "Amir Hayat",
+        "Imran Haider",
+        "Mohammad Naveed"
+      ],
+      "Papua New Guinea": [
+        "VV Morea",
+        "L Siaka",
+        "A Vala",
+        "S Bau",
+        "MD Dai",
+        "CJA Amini",
+        "J Kila",
+        "JNT Vare",
+        "CA Soper",
+        "N Vanua",
+        "A Nao"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Nao": "4d1ec7eb",
+        "A Vala": "72e60730",
+        "Adnan Mufti": "811425b1",
+        "Ahmed Raza": "79b4839e",
+        "Amir Hayat": "5faa30f7",
+        "Ashfaq Ahmed": "9d1f42c6",
+        "CA Soper": "9920dd86",
+        "CJA Amini": "4d84ad05",
+        "GF Labrooy": "8e088dbc",
+        "Ghulam Shabber": "ced0ec25",
+        "Imran Haider": "0226b73a",
+        "J Kila": "d996ba33",
+        "JNT Vare": "3e326efc",
+        "L Rusere": "6a4734ae",
+        "L Siaka": "6b4593ee",
+        "MD Dai": "5be810ba",
+        "Mohammad Naveed": "4861d29b",
+        "Muhammad Usman": "45642393",
+        "N Vanua": "a36915ce",
+        "Qadeer Ahmed": "9ac1dc9f",
+        "Rameez Shahzad": "e045c165",
+        "Rohan Mustafa": "d1988788",
+        "S Bau": "9a95bebb",
+        "S George": "6d9e5a54",
+        "SD Fry": "6b725ed1",
+        "Shaiman Anwar": "e9630504",
+        "VV Morea": "e64c10dd"
+      }
+    },
+    "season": "2017/18",
+    "team_type": "international",
+    "teams": [
+      "United Arab Emirates",
+      "Papua New Guinea"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Papua New Guinea"
+    },
+    "venue": "Harare Sports Club"
+  },
+  "innings": [
+    {
+      "team": "United Arab Emirates",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "J Kila",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "J Kila",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "J Kila",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "J Kila",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "J Kila",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "J Kila",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "J Kila",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Ashfaq Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ashfaq Ahmed",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "fielders": [
+                    {
+                      "name": "N Vanua"
+                    }
+                  ],
+                  "player_out": "Ashfaq Ahmed",
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ghulam Shabber",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ghulam Shabber",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ghulam Shabber",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ghulam Shabber",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ghulam Shabber",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Ghulam Shabber",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Ghulam Shabber",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ghulam Shabber",
+                  "fielders": [
+                    {
+                      "name": "JNT Vare"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Rameez Shahzad",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Rameez Shahzad",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Rameez Shahzad",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Shaiman Anwar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shaiman Anwar",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shaiman Anwar",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "CJA Amini",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CJA Amini",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "MD Dai",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "MD Dai",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Adnan Mufti",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Adnan Mufti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "Adnan Mufti",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Vala",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Vala",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "CA Soper",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "CA Soper",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "A Nao",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "A Nao",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Muhammad Usman",
+              "bowler": "N Vanua",
+              "non_striker": "Rohan Mustafa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Muhammad Usman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Muhammad Usman",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Rohan Mustafa",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Rohan Mustafa",
+                  "fielders": [
+                    {
+                      "name": "S Bau"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "N Vanua",
+              "non_striker": "Amir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "N Vanua",
+              "non_striker": "Amir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "A Nao",
+              "non_striker": "Amir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "A Nao",
+              "non_striker": "Amir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Hayat",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "A Nao",
+              "non_striker": "Amir Hayat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "A Nao",
+              "non_striker": "Amir Hayat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Amir Hayat",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "Amir Hayat",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Amir Hayat",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Amir Hayat",
+                  "fielders": [
+                    {
+                      "name": "JNT Vare"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "N Vanua",
+              "non_striker": "Imran Haider",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "N Vanua",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "N Vanua",
+              "non_striker": "Imran Haider",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "Imran Haider",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "A Nao",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "A Nao",
+              "non_striker": "Imran Haider",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "Imran Haider",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imran Haider",
+              "bowler": "N Vanua",
+              "non_striker": "Ahmed Raza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Imran Haider",
+                  "fielders": [
+                    {
+                      "name": "VV Morea"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Ahmed Raza",
+              "bowler": "N Vanua",
+              "non_striker": "Mohammad Naveed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ahmed Raza",
+                  "fielders": [
+                    {
+                      "name": "JNT Vare"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 49.0,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Papua New Guinea",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "L Siaka",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Siaka",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Siaka",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "VV Morea",
+              "bowler": "Amir Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Amir Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Amir Hayat",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Vala",
+              "bowler": "Mohammad Naveed",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "A Vala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Vala",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Vala",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Bau",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Bau",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MD Dai",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Amir Hayat",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "VV Morea",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "VV Morea",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "VV Morea",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "CJA Amini",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MD Dai",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MD Dai",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Rohan Mustafa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Dai",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Ahmed Raza",
+              "non_striker": "MD Dai",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "MD Dai",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Dai",
+                  "fielders": [
+                    {
+                      "name": "Qadeer Ahmed",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CJA Amini",
+              "bowler": "Imran Haider",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Imran Haider",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "J Kila",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CJA Amini",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "CJA Amini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CJA Amini",
+              "bowler": "Shaiman Anwar",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "CJA Amini",
+              "bowler": "Imran Haider",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "CJA Amini",
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "J Kila",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Kila",
+              "bowler": "Imran Haider",
+              "non_striker": "JNT Vare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Kila",
+                  "fielders": [
+                    {
+                      "name": "Shaiman Anwar"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Imran Haider",
+              "non_striker": "JNT Vare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "JNT Vare",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Ahmed Raza",
+              "non_striker": "JNT Vare",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Imran Haider",
+              "non_striker": "JNT Vare",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JNT Vare",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JNT Vare",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "CA Soper",
+              "bowler": "Ahmed Raza",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Ahmed Raza",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "CA Soper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Ahmed Raza",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Ahmed Raza",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "N Vanua",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Imran Haider",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Imran Haider",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Imran Haider",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "CA Soper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Rohan Mustafa",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Rohan Mustafa",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "CA Soper",
+              "bowler": "Amir Hayat",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Amir Hayat",
+              "non_striker": "CA Soper",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Amir Hayat",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Soper",
+              "bowler": "Amir Hayat",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CA Soper",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Nao",
+              "bowler": "Amir Hayat",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Amir Hayat",
+              "non_striker": "A Nao",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "A Nao",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Nao",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Nao",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "N Vanua",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "A Nao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Vanua",
+              "bowler": "Mohammad Naveed",
+              "non_striker": "A Nao",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Vanua",
+                  "fielders": [
+                    {
+                      "name": "Rameez Shahzad"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 6.1,
+          "to": 23.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 24.1,
+          "to": 25.5,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 28,
+        "runs": 170
+      },
+      "miscounted_overs": {
+        "10": {
+          "balls": 5
+        }
+      }
+    }
+  ]
+}

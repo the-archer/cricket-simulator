@@ -1,0 +1,2757 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2019-10-31",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Potchefstroom",
+    "dates": [
+      "2019-05-06"
+    ],
+    "event": {
+      "name": "Pakistan Women tour of South Africa",
+      "match_number": 1
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 1152,
+    "missing": [
+      {
+        "powerplays": {
+          "1": [
+            "batting"
+          ],
+          "2": [
+            "batting"
+          ]
+        }
+      }
+    ],
+    "officials": {
+      "match_referees": [
+        "S Wadvalla"
+      ],
+      "reserve_umpires": [
+        "A Jacobs"
+      ],
+      "umpires": [
+        "A Paleker",
+        "BP Jele"
+      ]
+    },
+    "outcome": {
+      "winner": "Pakistan",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "Sana Mir"
+    ],
+    "players": {
+      "South Africa": [
+        "L Lee",
+        "L Wolvaardt",
+        "A Steyn",
+        "S Luus",
+        "M du Preez",
+        "CL Tryon",
+        "M Kapp",
+        "S Jafta",
+        "S Ismail",
+        "M Klaas",
+        "TS Sekhukhune"
+      ],
+      "Pakistan": [
+        "Nahida Khan",
+        "Sidra Ameen",
+        "Javeria Khan",
+        "Bismah Maroof",
+        "Nida Dar",
+        "Aliya Riaz",
+        "Umaima Sohail",
+        "Sana Mir",
+        "Sidra Nawaz",
+        "Fatima Sana",
+        "Nashra Sandhu"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Jacobs": "70d117de",
+        "A Paleker": "634b11ac",
+        "A Steyn": "14baca9f",
+        "Aliya Riaz": "2904b4b6",
+        "BP Jele": "7bb1331e",
+        "Bismah Maroof": "3b770527",
+        "CL Tryon": "4d4605e6",
+        "Fatima Sana": "ea9c54de",
+        "Javeria Khan": "d921449d",
+        "L Lee": "7b01ce83",
+        "L Wolvaardt": "e60f81c9",
+        "M Kapp": "63e3b6b3",
+        "M Klaas": "ce85fcaf",
+        "M du Preez": "e219f17a",
+        "Nahida Khan": "3e7c0b1e",
+        "Nashra Sandhu": "c981d3c2",
+        "Nida Dar": "ed840f44",
+        "S Ismail": "108c4c09",
+        "S Jafta": "34304210",
+        "S Luus": "6d76bc23",
+        "S Wadvalla": "c1a1acf3",
+        "Sana Mir": "b287e7b1",
+        "Sidra Ameen": "72c9ad99",
+        "Sidra Nawaz": "ca3ded6f",
+        "TS Sekhukhune": "6e28e586",
+        "Umaima Sohail": "821d7d46"
+      }
+    },
+    "season": "2019",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Pakistan"
+    },
+    "venue": "Senwes Park"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Lee",
+              "bowler": "Fatima Sana",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "Fatima Sana",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Lee",
+              "bowler": "Fatima Sana",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "L Lee",
+                  "fielders": [
+                    {
+                      "name": "Sidra Nawaz"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Fatima Sana",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Fatima Sana",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Fatima Sana",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "L Wolvaardt"
+                }
+              ]
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "S Luus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "Fatima Sana",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "Fatima Sana",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Fatima Sana",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Fatima Sana",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Sana Mir",
+              "non_striker": "A Steyn",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Steyn",
+              "bowler": "Sana Mir",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "A Steyn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M du Preez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M du Preez",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M du Preez",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M du Preez",
+                  "fielders": [
+                    {
+                      "name": "Nahida Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Sana Mir",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "Sana Mir",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Sana Mir",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Sana Mir",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Sana Mir",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "Nida Dar",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Nida Dar",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Nida Dar",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "Nida Dar",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M Kapp",
+                  "fielders": [
+                    {
+                      "name": "Nahida Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nida Dar",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nida Dar",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Aliya Riaz",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nida Dar",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Aliya Riaz",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "CL Tryon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nida Dar",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "S Jafta"
+                }
+              ]
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "M Klaas",
+              "bowler": "Sana Mir",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "Sana Mir",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "Sana Mir",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "Sana Mir",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "Sana Mir",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "Sana Mir",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "S Ismail",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Ismail",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "M Klaas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Klaas",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "M Klaas",
+                  "fielders": [
+                    {
+                      "name": "Nahida Khan"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TS Sekhukhune",
+              "bowler": "Nashra Sandhu",
+              "non_striker": "S Ismail",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "TS Sekhukhune"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Nahida Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Nahida Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Nahida Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Nahida Khan"
+                }
+              ]
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "S Ismail",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Ismail",
+              "non_striker": "Sidra Ameen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Sidra Ameen",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Sidra Ameen"
+                }
+              ]
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "M Kapp",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "M Kapp",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Luus",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Luus",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Luus",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "CL Tryon",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "CL Tryon",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "CL Tryon",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "CL Tryon",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "CL Tryon",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "CL Tryon",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Bismah Maroof",
+              "bowler": "S Luus",
+              "non_striker": "Javeria Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Luus",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Luus",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Javeria Khan",
+              "bowler": "S Luus",
+              "non_striker": "Bismah Maroof",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 64
+      }
+    }
+  ]
+}

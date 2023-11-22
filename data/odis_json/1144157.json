@@ -1,0 +1,6175 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2020-04-05",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Durban",
+    "dates": [
+      "2019-01-22"
+    ],
+    "event": {
+      "name": "Pakistan tour of South Africa",
+      "match_number": 2
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 4081,
+    "officials": {
+      "match_referees": [
+        "RS Madugalle"
+      ],
+      "reserve_umpires": [
+        "AT Holdstock"
+      ],
+      "tv_umpires": [
+        "GO Brathwaite"
+      ],
+      "umpires": [
+        "BP Jele",
+        "PR Reiffel"
+      ]
+    },
+    "outcome": {
+      "winner": "South Africa",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 50,
+    "player_of_match": [
+      "AL Phehlukwayo"
+    ],
+    "players": {
+      "Pakistan": [
+        "Imam-ul-Haq",
+        "Fakhar Zaman",
+        "Babar Azam",
+        "Mohammad Hafeez",
+        "Shoaib Malik",
+        "Shadab Khan",
+        "Hussain Talat",
+        "Sarfraz Ahmed",
+        "Faheem Ashraf",
+        "Hasan Ali",
+        "Shaheen Shah Afridi"
+      ],
+      "South Africa": [
+        "RR Hendricks",
+        "HM Amla",
+        "HE van der Dussen",
+        "F du Plessis",
+        "DA Miller",
+        "H Klaasen",
+        "AL Phehlukwayo",
+        "K Rabada",
+        "D Paterson",
+        "T Shamsi",
+        "D Olivier"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AL Phehlukwayo": "ab6b1c45",
+        "AT Holdstock": "6fa3258c",
+        "BP Jele": "7bb1331e",
+        "Babar Azam": "8a75e999",
+        "D Olivier": "a8e56914",
+        "D Paterson": "462d7c62",
+        "DA Miller": "d67d5f00",
+        "F du Plessis": "3355b542",
+        "Faheem Ashraf": "bd4ea627",
+        "Fakhar Zaman": "1777c020",
+        "GO Brathwaite": "1ace56d4",
+        "H Klaasen": "235c2bb6",
+        "HE van der Dussen": "9948e262",
+        "HM Amla": "e798611a",
+        "Hasan Ali": "2911de16",
+        "Hussain Talat": "bb4b445b",
+        "Imam-ul-Haq": "40c041ea",
+        "K Rabada": "e62dd25d",
+        "Mohammad Hafeez": "9ab63e7b",
+        "PR Reiffel": "c9354f29",
+        "RR Hendricks": "b8cc58c9",
+        "RS Madugalle": "766b5798",
+        "Sarfraz Ahmed": "2254ab79",
+        "Shadab Khan": "9de62878",
+        "Shaheen Shah Afridi": "45a7e761",
+        "Shoaib Malik": "64c34cd0",
+        "T Shamsi": "a03bba42"
+      }
+    },
+    "season": "2018/19",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "Pakistan"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "South Africa"
+    },
+    "venue": "Kingsmead"
+  },
+  "innings": [
+    {
+      "team": "Pakistan",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "K Rabada",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "K Rabada",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "D Paterson",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "K Rabada",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "K Rabada",
+              "non_striker": "Imam-ul-Haq",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Imam-ul-Haq",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Imam-ul-Haq",
+                  "fielders": [
+                    {
+                      "name": "AL Phehlukwayo"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Paterson",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Paterson",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Paterson",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Paterson",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "K Rabada",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "D Paterson",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "K Rabada",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "K Rabada",
+              "non_striker": "Babar Azam",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Babar Azam",
+              "bowler": "K Rabada",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Babar Azam",
+                  "fielders": [
+                    {
+                      "name": "AL Phehlukwayo"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Paterson",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "D Olivier",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "D Olivier",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "D Olivier",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "D Olivier",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "D Olivier",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "D Olivier",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Mohammad Hafeez",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Mohammad Hafeez",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Mohammad Hafeez",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Fakhar Zaman",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Fakhar Zaman",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Fakhar Zaman",
+                  "fielders": [
+                    {
+                      "name": "DA Miller"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "D Olivier",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "D Olivier",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "D Olivier",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "K Rabada",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Shadab Khan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shadab Khan",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shadab Khan",
+                  "fielders": [
+                    {
+                      "name": "HE van der Dussen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "Hussain Talat",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "K Rabada",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "Hussain Talat",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "D Paterson",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "D Paterson",
+              "non_striker": "Hussain Talat",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "Hussain Talat",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hussain Talat",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "stumped",
+                  "player_out": "Hussain Talat",
+                  "fielders": [
+                    {
+                      "name": "H Klaasen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "D Paterson",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Paterson",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "D Paterson",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Shoaib Malik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Shoaib Malik",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Shoaib Malik",
+                  "fielders": [
+                    {
+                      "name": "RR Hendricks"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Faheem Ashraf",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Faheem Ashraf",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "review": {
+                "by": "Pakistan",
+                "umpire": "BP Jele",
+                "batter": "Faheem Ashraf",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "lbw",
+                  "player_out": "Faheem Ashraf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "K Rabada",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "K Rabada",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "K Rabada",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "K Rabada",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "K Rabada",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "K Rabada",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "K Rabada",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "K Rabada",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "K Rabada",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "K Rabada",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "K Rabada",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "K Rabada",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "T Shamsi",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "T Shamsi",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Olivier",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Olivier",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Paterson",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Paterson",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "D Paterson",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Paterson",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Paterson",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "D Paterson",
+              "non_striker": "Sarfraz Ahmed",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "Sarfraz Ahmed",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "Sarfraz Ahmed"
+                }
+              ]
+            },
+            {
+              "batter": "Shaheen Shah Afridi",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Hasan Ali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Hasan Ali",
+              "bowler": "AL Phehlukwayo",
+              "non_striker": "Shaheen Shah Afridi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "Hasan Ali",
+                  "fielders": [
+                    {
+                      "name": "F du Plessis"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.7,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 45.5,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HM Amla",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "HM Amla",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HM Amla",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "HM Amla"
+                }
+              ]
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "RR Hendricks",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RR Hendricks",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "RR Hendricks",
+                  "fielders": [
+                    {
+                      "name": "Sarfraz Ahmed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "F du Plessis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F du Plessis",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "F du Plessis",
+                  "fielders": [
+                    {
+                      "name": "Sarfraz Ahmed"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DA Miller",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "DA Miller",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DA Miller",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DA Miller",
+                  "fielders": [
+                    {
+                      "name": "Imam-ul-Haq"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "H Klaasen",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "H Klaasen"
+                }
+              ]
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "review": {
+                "by": "South Africa",
+                "umpire": "BP Jele",
+                "batter": "AL Phehlukwayo",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Mohammad Hafeez",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hasan Ali",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hasan Ali",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Faheem Ashraf",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Faheem Ashraf",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shaheen Shah Afridi",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Shadab Khan",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Shadab Khan",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hussain Talat",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hussain Talat",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AL Phehlukwayo",
+              "bowler": "Hussain Talat",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "HE van der Dussen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hussain Talat",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HE van der Dussen",
+              "bowler": "Hussain Talat",
+              "non_striker": "AL Phehlukwayo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 10.1,
+          "to": 39.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 40.1,
+          "to": 41.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 204
+      }
+    }
+  ]
+}

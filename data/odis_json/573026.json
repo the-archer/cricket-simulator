@@ -1,0 +1,7068 @@
+{
+  "meta": {
+    "data_version": "1.0.0",
+    "created": "2013-02-17",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "dates": [
+      "2013-02-10"
+    ],
+    "event": {
+      "match_number": 5,
+      "name": "West Indies in Australia ODI Series"
+    },
+    "gender": "male",
+    "match_type": "ODI",
+    "match_type_number": 3334,
+    "officials": {
+      "match_referees": [
+        "RS Madugalle"
+      ],
+      "reserve_umpires": [
+        "SD Fry"
+      ],
+      "tv_umpires": [
+        "NJ Llong"
+      ],
+      "umpires": [
+        "Asad Rauf",
+        "PR Reiffel"
+      ]
+    },
+    "outcome": {
+      "by": {
+        "runs": 17
+      },
+      "winner": "Australia"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "AC Voges"
+    ],
+    "players": {
+      "Australia": [
+        "SR Watson",
+        "AJ Finch",
+        "PJ Hughes",
+        "SE Marsh",
+        "AC Voges",
+        "BJ Haddin",
+        "JP Faulkner",
+        "MG Johnson",
+        "BCJ Cutting",
+        "CJ McKay",
+        "XJ Doherty"
+      ],
+      "West Indies": [
+        "J Charles",
+        "KOA Powell",
+        "DM Bravo",
+        "DJ Bravo",
+        "KA Pollard",
+        "N Deonarine",
+        "DC Thomas",
+        "DJG Sammy",
+        "SP Narine",
+        "KAJ Roach",
+        "TL Best"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AC Voges": "864c199e",
+        "AJ Finch": "b8d490fd",
+        "Asad Rauf": "861606b7",
+        "BCJ Cutting": "2e11c706",
+        "BJ Haddin": "b0c772ee",
+        "CJ McKay": "94eac556",
+        "DC Thomas": "08a4f9ad",
+        "DJ Bravo": "87e562a9",
+        "DJG Sammy": "c03c6200",
+        "DM Bravo": "14b14cd8",
+        "J Charles": "09a9d073",
+        "JP Faulkner": "808f425a",
+        "KA Pollard": "a757b0d8",
+        "KAJ Roach": "78eb4223",
+        "KOA Powell": "e012ad13",
+        "MG Johnson": "f5180fe6",
+        "N Deonarine": "caf1b14c",
+        "NJ Llong": "573fb985",
+        "NM Coulter-Nile": "56ab442f",
+        "PJ Hughes": "004c9e85",
+        "PR Reiffel": "c9354f29",
+        "RS Madugalle": "766b5798",
+        "SD Fry": "6b725ed1",
+        "SE Marsh": "508a1ea7",
+        "SP Narine": "9d430b40",
+        "SR Watson": "4329fbb5",
+        "TL Best": "db767b89",
+        "XJ Doherty": "502b2c81"
+      }
+    },
+    "season": "2012/13",
+    "team_type": "international",
+    "teams": [
+      "Australia",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Melbourne Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Australia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "SR Watson",
+              "bowler": "TL Best",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SR Watson"
+                }
+              ]
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "AJ Finch",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "AJ Finch",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AJ Finch",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "AJ Finch",
+                  "fielders": [
+                    {
+                      "name": "SP Narine"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "TL Best",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "TL Best",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "TL Best",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "KAJ Roach",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "KAJ Roach",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJG Sammy",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJG Sammy",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "KAJ Roach",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "KAJ Roach",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "PJ Hughes",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "PJ Hughes",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "PJ Hughes",
+                  "fielders": [
+                    {
+                      "name": "KA Pollard"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SE Marsh",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "SE Marsh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "SE Marsh",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "SE Marsh",
+                  "fielders": [
+                    {
+                      "name": "DC Thomas"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TL Best",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJG Sammy",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJG Sammy",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "SP Narine",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "SP Narine",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AC Voges",
+              "review": {
+                "by": "West Indies",
+                "umpire": "PR Reiffel",
+                "batter": "BJ Haddin",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "BJ Haddin",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BJ Haddin",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "BJ Haddin",
+                  "fielders": [
+                    {
+                      "name": "KOA Powell"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "KA Pollard",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KA Pollard",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KA Pollard",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KA Pollard",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KA Pollard",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KA Pollard",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KAJ Roach",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KA Pollard",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KA Pollard",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KA Pollard",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KA Pollard",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KA Pollard",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KA Pollard",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "extras": {
+                "legbyes": 4
+              },
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "DJ Bravo",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "DJ Bravo",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "KAJ Roach",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "KAJ Roach",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "AC Voges",
+              "bowler": "TL Best",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "JP Faulkner",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JP Faulkner",
+              "bowler": "TL Best",
+              "non_striker": "AC Voges",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 39.6,
+          "type": "batting"
+        }
+      ]
+    },
+    {
+      "team": "West Indies",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KOA Powell",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KOA Powell",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "KOA Powell",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "KOA Powell",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "KOA Powell",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "KOA Powell",
+                  "fielders": [
+                    {
+                      "name": "AJ Finch"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ McKay",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "MG Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "review": {
+                "by": "Australia",
+                "umpire": "Asad Rauf",
+                "batter": "J Charles",
+                "decision": "struck down"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DM Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DM Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DM Bravo",
+                  "fielders": [
+                    {
+                      "name": "JP Faulkner"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "MG Johnson",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "DJ Bravo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJ Bravo",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "DJ Bravo"
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "MG Johnson",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "review": {
+                "by": "West Indies",
+                "umpire": "PR Reiffel",
+                "batter": "J Charles",
+                "decision": "upheld"
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "J Charles",
+              "bowler": "AJ Finch",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AJ Finch",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AJ Finch",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AJ Finch",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AJ Finch",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "AJ Finch",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "J Charles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "J Charles",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "J Charles",
+                  "fielders": [
+                    {
+                      "name": "BCJ Cutting"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "N Deonarine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "N Deonarine",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Deonarine",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Deonarine",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "N Deonarine",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "N Deonarine",
+                  "fielders": [
+                    {
+                      "name": "BJ Haddin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "XJ Doherty",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "XJ Doherty",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "XJ Doherty",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "DC Thomas",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "BCJ Cutting",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "BCJ Cutting",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "DC Thomas",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "CJ McKay",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "CJ McKay",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "DC Thomas",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "MG Johnson",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "MG Johnson",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "DC Thomas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DC Thomas",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "run out",
+                  "player_out": "DC Thomas",
+                  "fielders": [
+                    {
+                      "name": "SE Marsh"
+                    },
+                    {
+                      "name": "JP Faulkner"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "MG Johnson",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "KA Pollard",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KA Pollard",
+              "bowler": "MG Johnson",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 46,
+          "deliveries": [
+            {
+              "batter": "KA Pollard",
+              "bowler": "JP Faulkner",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "KA Pollard",
+                  "fielders": [
+                    {
+                      "name": "AJ Finch"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "JP Faulkner",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "JP Faulkner",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 47,
+          "deliveries": [
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "MG Johnson",
+              "non_striker": "SP Narine",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SP Narine",
+              "bowler": "MG Johnson",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "bowled",
+                  "player_out": "SP Narine"
+                }
+              ]
+            },
+            {
+              "batter": "KAJ Roach",
+              "bowler": "MG Johnson",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 48,
+          "deliveries": [
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KAJ Roach",
+              "bowler": "JP Faulkner",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "JP Faulkner",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KAJ Roach",
+              "bowler": "JP Faulkner",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KAJ Roach",
+              "bowler": "JP Faulkner",
+              "non_striker": "DJG Sammy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 49,
+          "deliveries": [
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CJ McKay",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "DJG Sammy",
+              "bowler": "CJ McKay",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "DJG Sammy",
+                  "fielders": [
+                    {
+                      "name": "BJ Haddin"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "batter": "TL Best",
+              "bowler": "CJ McKay",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Best",
+              "bowler": "CJ McKay",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TL Best",
+              "bowler": "CJ McKay",
+              "non_striker": "KAJ Roach",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "kind": "caught",
+                  "player_out": "TL Best",
+                  "fielders": [
+                    {
+                      "name": "NM Coulter-Nile",
+                      "substitute": true
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        },
+        {
+          "from": 35.1,
+          "to": 39.6,
+          "type": "batting"
+        }
+      ],
+      "target": {
+        "overs": 50,
+        "runs": 275
+      }
+    }
+  ]
+}
