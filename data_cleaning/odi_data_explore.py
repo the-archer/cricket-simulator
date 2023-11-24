@@ -95,23 +95,30 @@ for filename in glob.glob(os.path.join(path, '*.json')): #only process .JSON fil
                     all_deliveries.append(ball)
 
 df = pd.DataFrame(all_deliveries)
-batter_sums = df.groupby('batter_id', as_index=False)['batter_runs','is_wicket'].sum()
-baller_sums = df.groupby('bowler_id', as_index=False)['batter_runs','is_wicket'].sum()
-batter_count = df.groupby('batter_id')['ball_number'].count()
-baller_count = df.groupby('bowler_id')['ball_number'].count()
+batter_sums = df.groupby('batter_id', as_index=False)[['batter_runs','is_wicket']].sum()
+baller_sums = df.groupby('bowler_id', as_index=False)[['batter_runs','is_wicket']].sum()
+print(batter_sums)
+batter_count = df.groupby('batter_id').size().reset_index(name='Count')
+batter_count['Count'] = batter_count['Count'].astype(int)
+baller_count = df.groupby('bowler_id').size().reset_index(name='Count')
+baller_count['Count'] = baller_count['Count'].astype(int)
+
 
 baller_stats = pd.merge(baller_sums, baller_count, on='bowler_id')
 batter_stats = pd.merge(batter_sums, batter_count, on='batter_id')
 #baller_stats = baller_stats.apply(lambda x: float(x))
 #batter_stats = batter_stats.apply(lambda x: float(x))
 baller_stats['baller_average'] = baller_stats['batter_runs']/ baller_stats['is_wicket'] 
-baller_stats['baller_strike_rate'] = baller_stats['ball_number'] / baller_stats['is_wicket'] 
+baller_stats['baller_strike_rate'] = baller_stats['Count'] / baller_stats['is_wicket'] 
 batter_stats['batter_average'] = batter_stats['batter_runs'] / batter_stats['is_wicket'] 
-batter_stats['batter_strike_rate'] = batter_stats['batter_runs'] / batter_stats['ball_number'] 
+batter_stats['batter_strike_rate'] = batter_stats['batter_runs'] / batter_stats['Count'] 
 final_data_frame = pd.merge(pd.merge(df,batter_stats,on='batter_id'),baller_stats,on='bowler_id')
+final_data_frame = final_data_frame.sort_values(['match_id', 'innings_number', 'over_number', 'ball_number'], ascending=[True, True, True, True])
+
+
 all_deliveries_stats = final_data_frame.to_dict('records')              
 
-
+"""
 with open('odi_processed_data.csv', 'w', newline='') as csvfile:
     fieldnames = ['innings_number','match_id', 'gender', 'match_type', 'match_date', 'match_city',
                 'balls_per_over', 'over_number', 'ball_number', 'batter_id', 'batter_name', 'bowler_id', 'bowler_name',
@@ -121,7 +128,7 @@ with open('odi_processed_data.csv', 'w', newline='') as csvfile:
     writer.writeheader()
     for i in range(len(all_deliveries_stats)):
         ##print(all_deliveries[i])
-        writer.writerow(all_deliveries_stats[i])        
+        writer.writerow(all_deliveries_stats[i])     """   
 
 
 

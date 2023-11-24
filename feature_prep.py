@@ -1,6 +1,6 @@
 #This file reads the denormalized data from a csv file and generates features and values for each ball
 import csv
-from queue import Queue
+from collections import deque
 
 # file is a csv file: headers are defined in the design doc,  
 FILE_PATH = 'data_cleaning/odi_processed_data.csv'
@@ -63,28 +63,39 @@ def get_features_for_match(match_data):
     second_innings = False
     bat_stat = {}
     bowl_stat = {}
-    ball_score = Queue()
+    ball_score = deque()
+    ball_score_cur = 0
+    ball_wicket = deque()
+
     # put some dummy runs (3 rr) for start of innings
     for i in range(0, 15):
-        ball_score.put(1)
-        ball_score.put(0)
-    ball_wicket = Queue()
+        ball_score.append(1)
+        ball_score_cur += 1
+        ball_score.append(0)
+        ball_wicket.append(0)
+        ball_wicket.append(0)
+    ball_wicket_cur = 0
     features = [[], []]
     values = [[], []]
     ball_count = 0
     for ball in match_data:
-        if not second_innings and ball['innings_number'] == 2:
+        if not second_innings and ball['innings_number'] == '2':
             second_innings = True
             first_innings_target = team_runs + 1
             team_runs = 0
             team_wickets_rem = 10
             ball_count = 0
-            ball_score = Queue()
+            ball_score = deque()
+            ball_score_cur = 0
+            ball_wicket = deque()
             # put some dummy runs (3 rr) for start of innings
             for i in range(0, 15):
-                ball_score.put(1)
-                ball_score.put(0)
-            ball_wicket = Queue()
+                ball_score.append(1)
+                ball_score_cur += 1
+                ball_score.append(0)
+                ball_wicket.append(0)
+                ball_wicket.append(0)
+            ball_wicket_cur = 0
         batsman = ball['batter_id']
         bowler = ball['bowler_id']
         if batsman not in bat_stat:
@@ -97,46 +108,50 @@ def get_features_for_match(match_data):
         reqd_rr = 0
 
 
-        if ball['innings_number'] == 2:
+        if ball['innings_number'] == '2':
             runs_to_win = first_innings_target - team_runs
             reqd_rr = (runs_to_win *6 ) / balls_remaining
         
         curr_rr =  (team_runs * 6) / ball_count if ball_count > 0 else 0
-        last_x_runs = sum(ball_score)
-        last_x_wickets = sum(ball_wicket)
         
-        if ball['innings_number'] == 1:
-            features[0].append([bat_stat[batsman]['runs'], bat_stat[batsman]['balls'], bat_stat[batsman]['fours'],  
-            bat_stat[batsman]['sixes']],bowl_stat[bowler]['runs'], bowl_stat[bowler]['wickets'], bowl_stat[bowler]['balls'],
-            team_runs, curr_rr, team_wickets_rem, balls_remaining, last_x_runs, last_x_wickets)
-        elif ball['innings_number'] == 2:
-            features[1].append([bat_stat[batsman]['runs'], bat_stat[batsman]['balls'], bat_stat[batsman]['fours'],  
-            bat_stat[batsman]['sixes']],bowl_stat[bowler]['runs'], bowl_stat[bowler]['wickets'], bowl_stat[bowler]['balls'],
-            team_runs, curr_rr, team_wickets_rem, balls_remaining, last_x_runs, last_x_wickets, runs_to_win, reqd_rr)
+        bat_ave = ball['batter_average']
+        bat_sr = ball['batter_strike_rate']
+        bowl_ave = ball['baller_average']
+        bowl_sr = ball['baller_strike_rate']
+        if ball['innings_number'] == '1':
+            features[0].append([bat_ave, bat_sr, bowl_ave, bowl_sr, bat_stat[batsman]['runs'], bat_stat[batsman]['balls'], bat_stat[batsman]['fours'],  
+            bat_stat[batsman]['sixes'],bowl_stat[bowler]['runs'], bowl_stat[bowler]['wickets'], bowl_stat[bowler]['balls'],
+            team_runs, curr_rr, team_wickets_rem, balls_remaining, ball_score_cur, ball_wicket_cur])
+        elif ball['innings_number'] == '2':
+            features[1].append([bat_ave, bat_sr, bowl_ave, bowl_sr, bat_stat[batsman]['runs'], bat_stat[batsman]['balls'], bat_stat[batsman]['fours'],  
+            bat_stat[batsman]['sixes'],bowl_stat[bowler]['runs'], bowl_stat[bowler]['wickets'], bowl_stat[bowler]['balls'],
+            team_runs, curr_rr, team_wickets_rem, balls_remaining, ball_score_cur, ball_wicket_cur, runs_to_win, reqd_rr])
             
-        team_runs += ball['total']
-        team_wickets_rem -= ball['is_wicket']
-        ball_score.get()
-        ball_score.put(ball['total'])
-        ball_wicket.get()
-        ball_wicket.put(ball['total'])
-        if ball['is_noball'] != 1 and ball['is_wide_ball'] != 1:
+        team_runs += int(ball['total'])
+        team_wickets_rem -= int(ball['is_wicket'])
+        ball_score_cur -= ball_score.popleft()
+        ball_score.append(int(ball['total']))
+        ball_score_cur += int(ball['total'])
+        ball_wicket_cur -= ball_wicket.popleft()
+        ball_wicket.append(int(ball['is_wicket']))
+        ball_wicket_cur += int(ball['is_wicket'])
+        if ball['is_noball'] != '1' and ball['is_wide_ball'] != '1':
             ball_count += 1
-        bat_stat[batsman]['runs'] += ball['batter_runs']
-        if ball['is_wide_ball'] != 1:
+        bat_stat[batsman]['runs'] += int(ball['batter_runs'])
+        if ball['is_wide_ball'] != '1':
             bat_stat[batsman]['balls'] += 1
-        if ball['batter_runs'] == 4:
+        if ball['batter_runs'] == '4':
             bat_stat[batsman]['fours'] += 1
-        if ball['batter_runs'] == 6:
+        if ball['batter_runs'] == '6':
             bat_stat[batsman]['sixes'] += 1
-        bowl_stat[bowler]['runs'] += ball['total']
-        if ball['is_noball'] != 1 and ball['is_wide_ball'] != 1:
+        bowl_stat[bowler]['runs'] += int(ball['total'])
+        if ball['is_noball'] != '1' and ball['is_wide_ball'] != '1':
             bowl_stat[bowler]['balls'] += 1
         if ball['wicket_type'] != 'run out':
-            bowl_stat[bowler]['wickets'] += ball['is_wicket']
+            bowl_stat[bowler]['wickets'] += int(ball['is_wicket'])
             
         value = ''
-        if ball['is_wicket'] == 1:
+        if ball['is_wicket'] == '1':
             if ball['wicket_type'] in ['bowled', 'caught', 'caught and bowled', 
                                        'lbw', 'stumped', 'run out']:
                 value = ball['wicket_type']
@@ -145,12 +160,25 @@ def get_features_for_match(match_data):
         else:
             value = ball['batter_runs']
         
-        values[ball['innings_number']-1].append(value)
+        values[int(ball['innings_number'])-1].append(value)
+        
+    return (features, values)
+
+
         
     
                 
                 
-            
+def write_features_to_file(features):
+    with open('data_cleaning/features.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(['Batsman average', 'Batsman strike rate','Bowler average', 'Bowler strike rate',  'Batsman score','Batsman bowls faced', 'Batsman 4s scored','Batsman 6s scored', 'Bowler runs given', 
+                     'Bowler wickets taken','Bowler balls bowled','Batting team score','Current run rate','Batting team wickets remaining',
+                     'Batting team balls remaining','Runs in last 30 balls','Wickets in last 30 ball',
+                     'Batting team runs to win (if batting second)','Required run rate (if batting second)'])
+        writer.writerows(features[0])
+        writer.writerows(features[1])      
+              
 
             
         
@@ -159,8 +187,17 @@ def get_features_for_match(match_data):
             
 
 def main():
-  data = process_csv_file(FILE_PATH)
-  print (data)
+    data = process_csv_file(FILE_PATH)
+    all_features = []
+    all_values = []
+    print (len(data))
+    features, values = get_features_for_match(data['1000887'])
+    #print (features)
+    #for match_id in data:
+        #features, values = get_features_for_match(data[match_id])
+    write_features_to_file(features)
+
+      
 
 if __name__ == "__main__":
   main()
