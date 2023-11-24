@@ -179,8 +179,13 @@ def write_features_to_file(features):
         writer.writerows(features[0])
         writer.writerows(features[1])      
               
-
-            
+def write_values_to_file(values):
+    with open('data_cleaning/values.csv', 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile)
+        for val in values[0]:
+            writer.writerow([val])
+        for val in values[1]:
+            writer.writerow([val])    
         
             
         
@@ -188,15 +193,21 @@ def write_features_to_file(features):
 
 def main():
     data = process_csv_file(FILE_PATH)
-    all_features = []
-    all_values = []
+    first_innings_features = []
+    second_innings_features = []
+    first_innings_values = []
+    second_innings_values = []
     print (len(data))
     features, values = get_features_for_match(data['1000887'])
     #print (features)
-    #for match_id in data:
-        #features, values = get_features_for_match(data[match_id])
-    write_features_to_file(features)
-
+    for match_id in data:
+        features, values = get_features_for_match(data[match_id])
+        first_innings_features.append(features[0])
+        second_innings_features.append(features[1])
+        first_innings_values.append(values[0])
+        second_innings_values.append(values[1])
+    # write_features_to_file(features)
+    # write_values_to_file(values)
       
 
 if __name__ == "__main__":
