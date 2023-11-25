@@ -116,10 +116,10 @@ def get_features_for_match(match_data):
         
         curr_rr =  (team_runs * 6) / ball_count if ball_count > 0 else 0
         
-        bat_ave = ball['batter_average']
-        bat_sr = ball['batter_strike_rate']
-        bowl_ave = ball['baller_average']
-        bowl_sr = ball['baller_strike_rate']
+        bat_ave = float(ball['batter_average'])
+        bat_sr = float(ball['batter_strike_rate'])*100
+        bowl_ave = float(ball['baller_average'])
+        bowl_sr = float(ball['baller_strike_rate'])
         if ball['innings_number'] == '1':
             features[0].append([bat_ave, bat_sr, bowl_ave, bowl_sr, bat_stat[batsman]['runs'], bat_stat[batsman]['balls'], bat_stat[batsman]['fours'],  
             bat_stat[batsman]['sixes'],bowl_stat[bowler]['runs'], bowl_stat[bowler]['wickets'], bowl_stat[bowler]['balls'],
