@@ -1,6 +1,8 @@
 #This file reads the denormalized data from a csv file and generates features and values for each ball
 import csv
 from collections import deque
+import pickle
+from datetime import datetime
 
 # file is a csv file: headers are defined in the design doc,  
 FILE_PATH = 'data_cleaning/odi_processed_data.csv'
@@ -188,7 +190,15 @@ def write_values_to_file(values):
             writer.writerow([val])    
         
             
-        
+def check_if_valid_match(match_data):
+    if match_data[0]['gender']  != 'male':
+        return False
+    date = datetime.strptime(match_data[0]['match_date'], '%Y-%m-%d')
+    if date.year < 1990:
+        return False
+    return True
+
+ 
             
 
 def main():
@@ -201,14 +211,25 @@ def main():
     features, values = get_features_for_match(data['1000887'])
     #print (features)
     for match_id in data:
-        features, values = get_features_for_match(data[match_id])
+        if not check_if_valid_match(data[match_id]):
+            continue
+        try: 
+            features, values = get_features_for_match(data[match_id])
+        except Exception as e:
+            print(e)
+            print(match_id)
+            continue            
         first_innings_features.append(features[0])
         second_innings_features.append(features[1])
         first_innings_values.append(values[0])
         second_innings_values.append(values[1])
     # write_features_to_file(features)
     # write_values_to_file(values)
-      
+    data = {'first_innings_features': first_innings_features, 'second_innings_features': second_innings_features,
+            'first_innings_values': first_innings_values, 'second_innings_values': second_innings_values}
+    with open('data.pkl', 'wb') as f:
+        pickle.dump(data, f)
+
 
 if __name__ == "__main__":
   main()
