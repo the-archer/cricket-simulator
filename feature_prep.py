@@ -219,10 +219,10 @@ def main():
             print(e)
             print(match_id)
             continue            
-        first_innings_features.append(features[0])
-        second_innings_features.append(features[1])
-        first_innings_values.append(values[0])
-        second_innings_values.append(values[1])
+        first_innings_features.extend(features[0])
+        second_innings_features.extend(features[1])
+        first_innings_values.extend(values[0])
+        second_innings_values.extend(values[1])
     # write_features_to_file(features)
     # write_values_to_file(values)
     data = {'first_innings_features': first_innings_features, 'second_innings_features': second_innings_features,
