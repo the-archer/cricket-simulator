@@ -3,6 +3,9 @@ import csv
 from collections import deque
 import pickle
 from datetime import datetime
+import traceback
+import math
+
 
 # file is a csv file: headers are defined in the design doc,  
 FILE_PATH = 'data_cleaning/odi_processed_data.csv'
@@ -117,8 +120,14 @@ def get_features_for_match(match_data):
         curr_rr =  (team_runs * 6) / ball_count if ball_count > 0 else 0
         
         bat_ave = float(ball['batter_average'])
+        # if math.isnan(bat_ave) or math.isinf(bat_ave):
+        #     raise Exception('Missing / infinite batting average')
         bat_sr = float(ball['batter_strike_rate'])*100
+        # if math.isnan(bat_sr) or math.isinf(bat_sr):
+        #     raise Exception('Missing / infinite batting sr')
         bowl_ave = float(ball['baller_average'])
+        # if math.isnan(bowl_ave):
+        #     raise Exception('Missing bowling average')
         bowl_sr = float(ball['baller_strike_rate'])
         if ball['innings_number'] == '1':
             features[0].append([bat_ave, bat_sr, bowl_ave, bowl_sr, bat_stat[batsman]['runs'], bat_stat[batsman]['balls'], bat_stat[batsman]['fours'],  
@@ -216,7 +225,7 @@ def main():
         try: 
             features, values = get_features_for_match(data[match_id])
         except Exception as e:
-            print(e)
+            traceback.print_exc()
             print(match_id)
             continue            
         first_innings_features.extend(features[0])
@@ -229,6 +238,7 @@ def main():
             'first_innings_values': first_innings_values, 'second_innings_values': second_innings_values}
     with open('data.pkl', 'wb') as f:
         pickle.dump(data, f)
+        print("written to pickle file")
 
 
 if __name__ == "__main__":
