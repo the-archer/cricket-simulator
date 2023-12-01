@@ -12,6 +12,7 @@
 from enum import Enum
 import names
 from random import random
+import argparse
 
 class SimulateMode(Enum):
     MANUAL = 0
@@ -56,46 +57,81 @@ class Match:
         self.team_1= team_1
         self.team_2 = team_2
         self.first_innings_score = 0
-        self.current_innings = 1
         
     def simulate_match(self, mode):
-        batter = self.team_1.batting_line_up[0]
-        non_striker = self.team_1.batting_line_up[1]
-        bowler = self.team_2.batting_line_up[self.team_2.bowling_line_up[0]-1]
-        batting_team = self.team_1
-        for over_no in range(0, 50):
-            ball = 1
-            while ball <= 6:
-                input()
-                res = get_bowl_result()
-                if res == -1:
-                    batting_team.wickets += 1
-                    batter.batting_balls += 1
-                    bowler.bowling_balls += 1
-                    bowler.wickets += 1
-                    print(f"{over_no}.{ball}: {bowler.last_name} to {batter.last_name}: OUT!")
-                    print(f"{batter.last_name}: {batter.batting_runs}({batter.batting_balls})")
-                    batter = batting_team.batting_line_up[batting_team.wickets + 1]
+        batting_team = self.team_1                
+        bowling_team = self.team_2
+        end_of_innings_flag = False
+        for innings in [1, 2]:
+            batter = batting_team.batting_line_up[0]
+            non_striker = batting_team.batting_line_up[1]
+            bowler = bowling_team.batting_line_up[bowling_team.bowling_line_up[0]-1]
+            for over_no in range(0, 50):
+                ball = 1
+                while ball <= 6:
+                    if mode == SimulateMode.MANUAL:
+                        input()
+                    res = get_bowl_result()
+                    if res == -1:
+                        batting_team.wickets += 1
+                        batter.batting_balls += 1
+                        bowler.bowling_balls += 1
+                        bowler.wickets += 1
+                        print(f"{over_no}.{ball}: {bowler.last_name} to {batter.last_name}: OUT!")
+                        print(f"{batter.last_name}: {batter.batting_runs}({batter.batting_balls})")
+                        if end_of_innings(batting_team, innings, self.first_innings_score):
+                            end_of_innings_flag = True
+                            break
+                        batter = batting_team.batting_line_up[batting_team.wickets + 1]
+                    else:
+                        batting_team.score += res
+                        batter.batting_runs += res
+                        batter.batting_balls += 1
+                        bowler.bowling_runs += res
+                        bowler.bowling_balls += 1
+                        print(f"{over_no}.{ball}: {bowler.last_name} to {batter.last_name}: {res} run(s)")
+                    if res%2 == 1 and res > 0:
+                        batter, non_striker = non_striker, batter
+                    if end_of_innings(batting_team, innings, self.first_innings_score):
+                        end_of_innings_flag = True
+                        break
+                        
+                    ball+=1
+                if end_of_innings_flag:
+                    end_of_innings_flag = False
+                    break
+                bowler.overs += 1
+                print (f"End of over {over_no+1}: Score: {batting_team.score}/{batting_team.wickets} \t" 
+                    f"{batter.last_name}: {batter.batting_runs}({batter.batting_balls}) \t" 
+                    f"{non_striker.last_name}: {non_striker.batting_runs}({non_striker.batting_balls}) \t" 
+                    f"{bowler.last_name}: {bowler.overs}-0-{bowler.wickets}-{bowler.bowling_runs}\n")
+                batter, non_striker = non_striker, batter
+                bowler = bowling_team.batting_line_up[bowling_team.bowling_line_up[over_no+1]-1]
+            if innings == 1:
+                print(f"End of innings 1: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
+                self.first_innings_score = batting_team.score
+                batting_team = self.team_2
+                bowling_team = self.team_1
+            if innings == 2:
+                print(f"End of innings 2: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
+                if batting_team.score > self.first_innings_score:
+                    print(f"Team 2 won by {10-batting_team.wickets} wickets")
+                elif batting_team.score < self.first_innings_score:
+                    print(f"Team 1 won by {self.first_innings_score - batting_team.score} runs")
                 else:
-                    batting_team.score += res
-                    batter.batting_runs += res
-                    batter.batting_balls += 1
-                    bowler.bowling_runs += res
-                    bowler.bowling_balls += 1
-                    print(f"{over_no}.{ball}: {bowler.last_name} to {batter.last_name}: {res} run(s)")
-                if res%2 == 1 and res > 0:
-                    batter, non_striker = non_striker, batter
-                ball+=1
-            bowler.overs += 1
-            print (f"End of over {over_no+1}: Score: {batting_team.score}/{batting_team.wickets} \t" 
-                   f"{batter.last_name}: {batter.batting_runs}({batter.batting_balls}) \t" 
-                   f"{non_striker.last_name}: {non_striker.batting_runs}({non_striker.batting_balls}) \t" 
-                   f"{bowler.last_name}: {bowler.overs}-0-{bowler.wickets}-{bowler.bowling_runs}\n")
-            batter, non_striker = non_striker, batter
-            bowler = self.team_2.batting_line_up[self.team_2.bowling_line_up[over_no+1]-1]    
-                    
+                    print("Match tied!")
                 
                 
+            
+            
+                                
+def end_of_innings(batting_team, innings, first_innings_score):
+    if batting_team.wickets == 10:
+        return True
+    if innings == 2 and batting_team.score >= first_innings_score:
+        return True
+    return False
+                  
             
         
 def get_bowl_result():
@@ -127,10 +163,16 @@ def get_random_player():
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--mode", help="Simulation mode: auto/manual")
+    args = parser.parse_args()
+    mode = SimulateMode.AUTO
+    if args.mode == 'manual':
+        mode = SimulateMode.MANUAL
     team_1 = Team(get_basic_batting_line_up(), get_basic_bowling_line_up())
     team_2 = Team(get_basic_batting_line_up(), get_basic_bowling_line_up())
     match = Match(team_1, team_2)
-    match.simulate_match(mode = SimulateMode.MANUAL)
+    match.simulate_match(mode)
     
     
     
