@@ -30,8 +30,9 @@ def clean_data(df):
 def train_model(X_train, y_train):
     clf = RandomForestClassifier()
     clf = clf.fit(X_train, y_train)
+    return clf
 
-def get_accuracy(clf, X_test, y_pred, y_test):
+def get_accuracy(clf, X_test, y_test):
     y_pred = clf.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
     print("Accuracy:", accuracy)
@@ -52,6 +53,7 @@ def main():
     y = df['values'].astype(str)
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
     clf = train_model(X_train, y_train)
+    get_accuracy(clf, X_test, y_test)
     save_model(clf)
     
 
