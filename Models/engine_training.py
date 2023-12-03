@@ -11,14 +11,13 @@ from scipy.stats import randint
 # Tree Visualisation
 from sklearn.tree import export_graphviz
 from IPython.display import Image
-import graphviz
 import pickle
 
 
 
 def get_data():
     data = {}
-    with open('data.pkl', 'rb') as f:
+    with open('../data.pkl', 'rb') as f:
         data = pickle.load(f)
     return data    
 

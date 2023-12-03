@@ -7,7 +7,7 @@
 # score, balls faced, skill stats (ave, sr)
 # bowls balled, wickets taken
 
-# mathc state, overs, each over will have balls
+# match state, overs, each over will have balls
 # 
 from enum import Enum
 import names
@@ -123,7 +123,7 @@ class Match:
                 
                 
             
-            
+def get_features_for_ball(batter, bowler, )           
                                 
 def end_of_innings(batting_team, innings, first_innings_score):
     if batting_team.wickets == 10:

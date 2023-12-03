@@ -120,14 +120,11 @@ def get_features_for_match(match_data):
         curr_rr =  (team_runs * 6) / ball_count if ball_count > 0 else 0
         
         bat_ave = float(ball['batter_average'])
-        # if math.isnan(bat_ave) or math.isinf(bat_ave):
-        #     raise Exception('Missing / infinite batting average')
+
         bat_sr = float(ball['batter_strike_rate'])*100
-        # if math.isnan(bat_sr) or math.isinf(bat_sr):
-        #     raise Exception('Missing / infinite batting sr')
+
         bowl_ave = float(ball['baller_average'])
-        # if math.isnan(bowl_ave):
-        #     raise Exception('Missing bowling average')
+
         bowl_sr = float(ball['baller_strike_rate'])
         if ball['innings_number'] == '1':
             features[0].append([bat_ave, bat_sr, bowl_ave, bowl_sr, bat_stat[batsman]['runs'], bat_stat[batsman]['balls'], bat_stat[batsman]['fours'],  
