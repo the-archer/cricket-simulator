@@ -10,6 +10,7 @@
 # mathc state, overs, each over will have balls
 # 
 from enum import Enum
+import pickle
 import names
 from random import random
 import argparse
@@ -160,7 +161,34 @@ def get_basic_batting_line_up():
 def get_random_player():
     return Player(names.get_first_name(gender='male'), names.get_last_name(), 30, 100, 25, 30)
 
+def get_all_teams() -> dict:
+    data = {}
+    with open('data_cleaning\data.pkl', 'rb') as f:
+        data = pickle.load(f)
+    return data
 
+
+def select_teams():
+    teams = get_all_teams()
+    all_team = []
+    selected_team = []
+    print("Select first team")
+    for team_name in teams:
+        all_team.append(team_name)
+
+    for i in range(len(all_team)):
+        print(i+1+". "+all_team[i])
+
+    val = input("Enter your value:")    
+    team1 = all_team[val-1]
+
+    print("Select second team")        
+    for i in range(len(all_team)):
+        if all_team[i] != val:
+            print(i+1+". "+all_team[i])
+    val = input("Enter your value:")    
+    team2 = all_team[val-1]
+    return (team1,team2)
 
 def main():
     parser = argparse.ArgumentParser()
@@ -169,8 +197,9 @@ def main():
     mode = SimulateMode.AUTO
     if args.mode == 'manual':
         mode = SimulateMode.MANUAL
-    team_1 = Team(get_basic_batting_line_up(), get_basic_bowling_line_up())
-    team_2 = Team(get_basic_batting_line_up(), get_basic_bowling_line_up())
+    team_1,team_2 = select_teams()
+    team_1 = Team(get_basic_batting_line_up(team_1), get_basic_bowling_line_up(team_1))
+    team_2 = Team(get_basic_batting_line_up(team_2), get_basic_bowling_line_up(team_2))
     match = Match(team_1, team_2)
     match.simulate_match(mode)
     
