@@ -15,7 +15,7 @@ import names
 from random import random
 import argparse
 from typing import Dict, List
-from sklearn.en semble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier
 import pickle
 from collections import deque
 import csv
@@ -227,6 +227,8 @@ def get_basic_batting_line_up(team:Team) -> List[Player]:
         player_first_name = players[player].split(" ")[0]
         player_last_name = players[player].split(" ")[1]
         player_object = get_player_stats(player, player_first_name ,player_last_name)
+        if not player_object:
+            print("Error loading "+ player_first_name + " " + player_last_name)
         player_lineup.append(player_object)
 
     return  player_lineup 
