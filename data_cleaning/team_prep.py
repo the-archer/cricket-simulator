@@ -24,7 +24,7 @@ def main():
         file_data =  process_file(filename)   
         match_id = get_match_id(filename)
         match_date = file_data["info"]["dates"][0]
-        if match_date > '2023-01-01':
+        if match_date == '2023-09-27':
             for team_name in file_data["info"]["players"].keys():
                 player = {}
                 if team_name in team and file_data["info"]["gender"]=="female":

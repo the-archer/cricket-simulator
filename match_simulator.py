@@ -18,6 +18,7 @@ from typing import Dict, List
 from sklearn.ensemble import RandomForestClassifier
 import pickle
 from collections import deque
+import csv
 
 
 class SimulateMode(Enum):
@@ -31,7 +32,8 @@ class BatterState(Enum):
     
 
 class Player:
-    def __init__(self, first_name: str, last_name: str, bt_ave: float, bt_sr: float, bowl_ave: float, bowl_sr: float):
+    def __init__(self, player_id, first_name: str, last_name: str, bt_ave: float, bt_sr: float, bowl_ave: float, bowl_sr: float):
+        self.player_id = player_id
         self.first_name = first_name
         self.last_name = last_name
         self.batting_average = bt_ave
@@ -216,8 +218,27 @@ def get_basic_bowling_line_up() -> List[int]:
     line_up = [11, 10] * 5 + [9, 8] * 5 + [7, 8] * 5 + [7, 9] * 5 + [11, 10] * 5
     return line_up 
    
-def get_basic_batting_line_up() -> List[Player]:
-    return [get_random_player() for x in range(0, 11)]
+def get_basic_batting_line_up(team:Team) -> List[Player]:
+    all_teams = get_all_teams()
+    players = all_teams[team]
+    print(players)
+    player_lineup = []
+    for player in players: 
+        player_first_name = players[player].split(" ")[0]
+        player_last_name = players[player].split(" ")[1]
+        player_object = get_player_stats(player, player_first_name ,player_last_name)
+        player_lineup.append(player_object)
+
+    return  player_lineup 
+
+def get_player_stats(player_id:str,player_first_name, player_last_name )->Player:
+    file_path = "player_stats.csv"
+    with open(file_path, newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            if player_id == row["player_id"]:
+                return Player(player_id,player_first_name, player_last_name, row['batter_average'], row['batter_strike_rate'], row['baller_average'], row['baller_strike_rate'] )
+
 
 def get_random_player():
     return Player(names.get_first_name(gender='male'), names.get_last_name(), 30, 100, 25, 30)
@@ -231,7 +252,7 @@ def load_model():
      
 def get_all_teams() -> dict:
     data = {}
-    with open('data_cleaning\data.pkl', 'rb') as f:
+    with open('teams.pkl', 'rb') as f:
         data = pickle.load(f)
     return data
 
@@ -240,23 +261,31 @@ def select_teams():
     teams = get_all_teams()
     all_team = []
     selected_team = []
-    print("Select first team")
-    for team_name in teams:
-        all_team.append(team_name)
+    print("Select a default team and line up")
+    print("1. Yes")
+    print("2. No")
+    val = int(input("Enter your value:"))  
 
-    for i in range(len(all_team)):
-        print(i+1+". "+all_team[i])
+    if val ==1:
+        return ("India","Australia")  
+    else:
+        print("Select first team")
+        for team_name in teams:
+            all_team.append(team_name)
 
-    val = input("Enter your value:")    
-    team1 = all_team[val-1]
+        for i in range(len(all_team)):
+            print(str(i+1)+". "+all_team[i])
 
-    print("Select second team")        
-    for i in range(len(all_team)):
-        if all_team[i] != val:
-            print(i+1+". "+all_team[i])
-    val = input("Enter your value:")    
-    team2 = all_team[val-1]
-    return (team1,team2)    
+        val = int(input("Enter your value:"))    
+        team1 = all_team[val-1]
+
+        print("Select second team")        
+        for i in range(len(all_team)):
+            if i+1 != val:
+                print(str(i+1)+". "+all_team[i])
+        val = int(input("Enter your value:"))    
+        team2 = all_team[val-1]
+        return (team1,team2)    
 
 def main():
     parser = argparse.ArgumentParser()
@@ -266,8 +295,11 @@ def main():
     if args.mode == 'manual':
         mode = SimulateMode.MANUAL
     team_1,team_2 = select_teams()
-    team_1 = Team(get_basic_batting_line_up(team_1), get_basic_bowling_line_up(team_1))
-    team_2 = Team(get_basic_batting_line_up(team_2), get_basic_bowling_line_up(team_2))
+    print(team_1)
+    print(team_2)
+    get_basic_batting_line_up(team_2)
+    team_1 = Team(get_basic_batting_line_up(team_1), get_basic_bowling_line_up())
+    team_2 = Team(get_basic_batting_line_up(team_2), get_basic_bowling_line_up())
     model = load_model()
     if mode == SimulateMode.MANUAL:
         print ("Press enter to start the match:")
