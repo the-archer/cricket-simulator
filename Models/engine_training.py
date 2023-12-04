@@ -36,15 +36,18 @@ def get_accuracy(clf, X_test, y_test):
     accuracy = accuracy_score(y_test, y_pred)
     print("Accuracy:", accuracy)
 
-def save_model(model):
+def save_models(first_innings_model, second_innings_model):
     model_pkl_file = "cricket_simulator_model.pkl"  
     with open(model_pkl_file, 'wb') as file:  
-        pickle.dump(model, file)
-    print("Successfully saved model in .pkl file")    
-        
-def main():
-    data = get_data()
-    features, values = data['first_innings_features'], data['first_innings_values']
+        pickle.dump((first_innings_model, second_innings_model), file)
+    print("Successfully saved models in .pkl file")    
+
+def train_and_get_model(data, innings):
+    if innings == 1:
+        features, values = data['first_innings_features'], data['first_innings_values']
+    else:
+        features, values = data['second_innings_features'], data['second_innings_values']
+    
     df = pd.DataFrame(features)
     df['values'] = values
     df = clean_data(df)
@@ -53,7 +56,13 @@ def main():
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
     clf = train_model(X_train, y_train)
     get_accuracy(clf, X_test, y_test)
-    save_model(clf)
+    return clf
+        
+def main():
+    data = get_data()
+    first_innings_model = train_and_get_model(data, innings=1)
+    second_innings_model = train_and_get_model(data, innings=2)
+    save_models(first_innings_model, second_innings_model)
     
 
 if __name__ == "__main__":
