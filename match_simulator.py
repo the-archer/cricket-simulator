@@ -14,7 +14,7 @@ import names
 from random import random
 import argparse
 from typing import Dict, List
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.en semble import RandomForestClassifier
 import pickle
 from collections import deque
 
@@ -186,7 +186,7 @@ def get_prob_dist_for_ball(batter: Player, bowler: Player, team: Team, runs_last
     return dict(zip(model.classes_, prob))
                        
                                 
-def end_of_innings(batting_team, innings, first_innings_score):
+def end_of_innings(batting_team, innings, first_innings_score) -> bool:
     if batting_team.wickets == 10:
         return True
     if innings == 2 and batting_team.score >= first_innings_score:
@@ -218,10 +218,10 @@ def get_basic_bowling_line_up() -> List[int]:
 def get_basic_batting_line_up() -> List[Player]:
     return [get_random_player() for x in range(0, 11)]
 
-def get_random_player():
+def get_random_player() -> Player:
     return Player(names.get_first_name(gender='male'), names.get_last_name(), 30, 100, 25, 30)
 
-def load_model():
+def load_model() -> RandomForestClassifier:
     model_pkl_file = "Models/cricket_simulator_model.pkl"  
     with open(model_pkl_file, 'rb') as file:  
         model = pickle.load(file)
