@@ -14,7 +14,7 @@ import pickle
 import names
 from random import random
 import argparse
-from typing import Dict, List
+from typing import Dict, List, Tuple
 from sklearn.ensemble import RandomForestClassifier
 import pickle
 from collections import deque
@@ -63,10 +63,11 @@ class Team:
         
  
 class Match:
-    def __init__(self, team_1, team_2, model: RandomForestClassifier):
+    def __init__(self, team_1, team_2, first_innings_model: RandomForestClassifier, second_innings_model: RandomForestClassifier):
         self.team_1= team_1
         self.team_2 = team_2
-        self.model = model
+        self.first_innings_model = first_innings_model
+        self.second_innings_model = second_innings_model
         self.first_innings_score = 0
         
     def simulate_match(self, mode):
@@ -94,7 +95,7 @@ class Match:
                     if mode == SimulateMode.MANUAL:
                         input()
                     res = get_bowl_result_model(batter, bowler, batting_team, ball_score_cur, ball_wicket_cur,
-                                                self.first_innings_score, self.model)
+                                                self.first_innings_score, self.first_innings_model, self.second_innings_model)
                     ball_wicket_cur -= ball_wicket.popleft()
                     ball_score_cur -= ball_score.popleft()
                     if not res.isdigit():
@@ -160,9 +161,10 @@ class Match:
                 
 
 def get_bowl_result_model(batter: Player, bowler: Player, team: Team, runs_last_30_balls: int, 
-                      wickets_last_30_balls: int, first_innings_score: int, model) -> str:
+                      wickets_last_30_balls: int, first_innings_score: int, first_innings_model: RandomForestClassifier,
+                      second_innings_model: RandomForestClassifier) -> str:
     prob_dist = get_prob_dist_for_ball(batter, bowler, team, runs_last_30_balls, wickets_last_30_balls, 
-                             first_innings_score, model) 
+                             first_innings_score, first_innings_model, second_innings_model) 
     rand = random()
     running_sum = 0
     for res, prob in prob_dist.items():
@@ -173,19 +175,23 @@ def get_bowl_result_model(batter: Player, bowler: Player, team: Team, runs_last_
                    
             
 def get_prob_dist_for_ball(batter: Player, bowler: Player, team: Team, runs_last_30_balls: int, 
-                      wickets_last_30_balls: int, first_innings_score: int, model) -> Dict:
+                      wickets_last_30_balls: int, first_innings_score: int, first_innings_model: RandomForestClassifier,
+                      second_innings_model: RandomForestClassifier) -> Dict:
     total_balls = team.overs * 6 + team.balls
     curr_rr = (team.score*6) / total_balls if total_balls > 0 else 0
     features = [batter.batting_average, batter.batting_sr, bowler.bowling_average, bowler.bowling_sr,
                 batter.batting_runs, batter.batting_balls, batter.batting_fours, batter.batting_sixes,
                 bowler.bowling_runs, bowler.wickets, bowler.bowling_balls, team.score, curr_rr, 10 - team.wickets, 
                 300 - total_balls, runs_last_30_balls, wickets_last_30_balls]
-    # if first_innings_score:
-    #     runs_to_win = first_innings_score + 1 - team.score
-    #     reqd_rr = (runs_to_win * 6) / (300 - total_balls)
-    #     features += [runs_to_win, reqd_rr]
-    prob = model.predict_proba([features])[0]
-    return dict(zip(model.classes_, prob))
+    if first_innings_score:
+        runs_to_win = first_innings_score + 1 - team.score
+        reqd_rr = (runs_to_win * 6) / (300 - total_balls)
+        features += [runs_to_win, reqd_rr]
+        prob = second_innings_model.predict_proba([features])[0]
+        return dict(zip(second_innings_model.classes_, prob))
+    else:
+        prob = first_innings_model.predict_proba([features])[0]
+        return dict(zip(first_innings_model.classes_, prob))
                        
                                 
 def end_of_innings(batting_team, innings, first_innings_score) -> bool:
@@ -244,12 +250,12 @@ def get_player_stats(player_id:str,player_first_name, player_last_name )->Player
 def get_random_player() -> Player:
     return Player(names.get_first_name(gender='male'), names.get_last_name(), 30, 100, 25, 30)
 
-def load_model() -> RandomForestClassifier:
+def load_models() -> Tuple[RandomForestClassifier, RandomForestClassifier]:
     model_pkl_file = "Models/cricket_simulator_model.pkl"  
     with open(model_pkl_file, 'rb') as file:  
-        model = pickle.load(file)
-    print("Successfully loaded model from .pkl file")
-    return model   
+        models = pickle.load(file)
+    print("Successfully loaded models from .pkl file")
+    return models   
      
 def get_all_teams() -> dict:
     data = {}
@@ -301,10 +307,10 @@ def main():
     get_basic_batting_line_up(team_2)
     team_1 = Team(get_basic_batting_line_up(team_1), get_basic_bowling_line_up())
     team_2 = Team(get_basic_batting_line_up(team_2), get_basic_bowling_line_up())
-    model = load_model()
+    first_innings_model, second_innings_model = load_models()
     if mode == SimulateMode.MANUAL:
         print ("Press enter to start the match:")
-    match = Match(team_1, team_2, model)
+    match = Match(team_1, team_2, first_innings_model, second_innings_model)
     match.simulate_match(mode)
     
     
