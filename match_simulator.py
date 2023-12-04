@@ -76,7 +76,6 @@ class Match:
         for innings in [1, 2]:
             batter = batting_team.batting_line_up[0]
             non_striker = batting_team.batting_line_up[1]
-            bowler = bowling_team.batting_line_up[bowling_team.bowling_line_up[0]-1]
             ball_score = deque()
             ball_score_cur = 0
             ball_wicket = deque()
@@ -89,6 +88,7 @@ class Match:
                 ball_wicket.append(0)
                 ball_wicket.append(0)
             for over_no in range(0, 50):
+                bowler = bowling_team.batting_line_up[bowling_team.bowling_line_up[over_no]-1]
                 ball = 1
                 while ball <= 6:
                     if mode == SimulateMode.MANUAL:
@@ -144,7 +144,6 @@ class Match:
                     f"{non_striker.last_name}: {non_striker.batting_runs}({non_striker.batting_balls}) \t" 
                     f"{bowler.last_name}: {bowler.overs}-0-{bowler.wickets}-{bowler.bowling_runs}\n")
                 batter, non_striker = non_striker, batter
-                bowler = bowling_team.batting_line_up[bowling_team.bowling_line_up[over_no+1]-1]
             if innings == 1:
                 print(f"End of innings 1: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
                 self.first_innings_score = batting_team.score
