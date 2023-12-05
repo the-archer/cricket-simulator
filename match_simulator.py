@@ -12,7 +12,7 @@
 from enum import Enum
 import pickle
 import names
-from random import random
+import random
 import argparse
 from typing import Dict, List, Tuple
 from sklearn.ensemble import RandomForestClassifier
@@ -101,7 +101,7 @@ class Match:
                 ball_wicket.append(0)
                 ball_wicket.append(0)
             for over_no in range(0, 50):
-                bowler = bowling_team.batting_line_up[bowling_team.bowling_line_up[over_no]-1]
+                bowler = bowling_team.batting_line_up[bowling_team.bowling_line_up[over_no]]
                 ball = 1
                 while ball <= 6:
                     if mode == SimulateMode.MANUAL:
@@ -177,7 +177,7 @@ def get_bowl_result_model(batter: Player, bowler: Player, team: Team, runs_last_
                       second_innings_model: RandomForestClassifier) -> str:
     prob_dist = get_prob_dist_for_ball(batter, bowler, team, runs_last_30_balls, wickets_last_30_balls, 
                              first_innings_score, first_innings_model, second_innings_model) 
-    rand = random()
+    rand = random.random()
     running_sum = 0
     for res, prob in prob_dist.items():
         running_sum += prob
@@ -230,14 +230,22 @@ def get_bowl_result_random():
     if rand < 0.85:
         return 6
     return -1
+
+def get_bowling_line_up(team_name:str, batting_line_up: List[Player]) -> List[int]:
+    all_teams = get_all_teams()
+    bowling_line_up = all_teams[team_name]['bowling_line_up']
+    rev_bat_map = {}
+    for i in range(0, len(batting_line_up)):
+        rev_bat_map[batting_line_up[i].player_id] = i                 
+    return [rev_bat_map[x[0]] for x in bowling_line_up]
       
 def get_basic_bowling_line_up() -> List[int]:
     line_up = [11, 10] * 5 + [9, 8] * 5 + [7, 8] * 5 + [7, 9] * 5 + [11, 10] * 5
     return line_up 
    
-def get_basic_batting_line_up(team:Team) -> List[Player]:
+def get_batting_line_up(team:str) -> List[Player]:
     all_teams = get_all_teams()
-    players = all_teams[team]
+    players = all_teams[team]['batting_line_up']
     print(players)
     player_lineup = []
     for player in players: 
@@ -251,7 +259,7 @@ def get_basic_batting_line_up(team:Team) -> List[Player]:
     return  player_lineup 
 
 def get_player_stats(player_id:str,player_first_name, player_last_name )->Player:
-    file_path = "player_stats.csv"
+    file_path = "data_cleaning/player_stats.csv"
     with open(file_path, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -286,7 +294,7 @@ def select_teams():
     val = int(input("Enter your value:"))  
 
     if val ==1:
-        return ("India","Australia")  
+        return random.choice([("India","New Zealand"), ("New Zealand", "India")])  
     else:
         print("Select first team")
         for team_name in teams:
@@ -320,7 +328,7 @@ def print_scorecard(team_1:Team, team_2:Team):
     for player in team_2.batting_line_up:
         if player.overs>0:
             print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.overs)+" \t "
-              +str(player.bowling_runs) + " \t "+str(player.wickets)+" \t "+str(round(player.bowling_runs/player.overs,2))+" \t "+str(round(float(player.batting_sr),2)))
+              +str(player.bowling_runs) + " \t "+str(player.wickets)+" \t "+str(round(player.bowling_runs/player.overs,2)))
     print("\n")
     print(color.BOLD+team_2.team_name+" Innings Score Card"+ color.END+"\n")
     print('{:<20s}'.format("BATTING")+ "\t Runs \t Balls \t 4s \t 6s \t SR")
@@ -335,7 +343,7 @@ def print_scorecard(team_1:Team, team_2:Team):
     for player in team_1.batting_line_up:
         if player.overs>0:
             print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.overs)+" \t "
-              +str(player.bowling_runs) + " \t "+str(player.wickets)+" \t "+str(round(player.bowling_runs/player.overs,2))+" \t "+str(round(float(player.batting_sr),2)))
+              +str(player.bowling_runs) + " \t "+str(player.wickets)+" \t "+str(round(player.bowling_runs/player.overs,2)))
         
 
     
@@ -347,9 +355,12 @@ def main():
     mode = SimulateMode.AUTO
     if args.mode == 'manual':
         mode = SimulateMode.MANUAL
-    team_1,team_2 = select_teams()
-    team_1 = Team(get_basic_batting_line_up(team_1), get_basic_bowling_line_up(), team_1)
-    team_2 = Team(get_basic_batting_line_up(team_2), get_basic_bowling_line_up(),team_2)
+    team_1_name,team_2_name = select_teams()
+    team_1_batting_line_up = get_batting_line_up(team_1_name)
+    team_2_batting_line_up = get_batting_line_up(team_2_name)
+
+    team_1 = Team(team_1_batting_line_up, get_bowling_line_up(team_1_name, team_1_batting_line_up), team_1_name)
+    team_2 = Team(team_2_batting_line_up, get_bowling_line_up(team_2_name, team_2_batting_line_up),team_2_name)
     first_innings_model, second_innings_model = load_models()
     if mode == SimulateMode.MANUAL:
         print ("Press enter to start the match:")
