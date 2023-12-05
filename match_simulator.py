@@ -20,6 +20,17 @@ import pickle
 from collections import deque
 import csv
 
+class color:
+   PURPLE = '\033[95m'
+   CYAN = '\033[96m'
+   DARKCYAN = '\033[36m'
+   BLUE = '\033[94m'
+   GREEN = '\033[92m'
+   YELLOW = '\033[93m'
+   RED = '\033[91m'
+   BOLD = '\033[1m'
+   UNDERLINE = '\033[4m'
+   END = '\033[0m'
 
 class SimulateMode(Enum):
     MANUAL = 0
@@ -53,9 +64,10 @@ class Player:
         self.wickets = 0
     
 class Team:
-    def __init__(self, batting_line_up: List[Player], bowling_line_up: List[int]):
+    def __init__(self, batting_line_up: List[Player], bowling_line_up: List[int], team_name):
         self.batting_line_up = batting_line_up
         self.bowling_line_up = bowling_line_up
+        self.team_name = team_name
         self.score = 0
         self.wickets = 0
         self.overs = 0
@@ -294,6 +306,40 @@ def select_teams():
         team2 = all_team[val-1]
         return (team1,team2)    
 
+def print_scorecard(team_1:Team, team_2:Team):
+    print("\n")
+    print(color.BOLD+team_1.team_name+" Innings Score Card"+ color.END+"\n")
+    print('{:<20s}'.format("BATTING")+ "\t Runs \t Balls \t 4s \t 6s \t SR")
+    print("=============================================================")
+    for player in team_1.batting_line_up:
+        print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
+              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(float(player.batting_sr),2)))
+    print("\n")
+    print('{:<20s}'.format("BOWLING")+ "\t Overs \t Runs \t Wickets \t Econ ")
+    print("=============================================================")
+    for player in team_2.batting_line_up:
+        if player.overs>0:
+            print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.overs)+" \t "
+              +str(player.bowling_runs) + " \t "+str(player.wickets)+" \t "+str(round(player.bowling_runs/player.overs,2))+" \t "+str(round(float(player.batting_sr),2)))
+    print("\n")
+    print(color.BOLD+team_2.team_name+" Innings Score Card"+ color.END+"\n")
+    print('{:<20s}'.format("BATTING")+ "\t Runs \t Balls \t 4s \t 6s \t SR")
+    print("=============================================================")
+    for player in team_2.batting_line_up:
+        print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
+              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(float(player.batting_sr),2)))
+        
+    print("\n")    
+    print('{:<20s}'.format("BOWLING")+ "\t Overs \t Runs \t Wickets \t Econ ")
+    print("=============================================================")
+    for player in team_1.batting_line_up:
+        if player.overs>0:
+            print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.overs)+" \t "
+              +str(player.bowling_runs) + " \t "+str(player.wickets)+" \t "+str(round(player.bowling_runs/player.overs,2))+" \t "+str(round(float(player.batting_sr),2)))
+        
+
+    
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", help="Simulation mode: auto/manual")
@@ -302,16 +348,14 @@ def main():
     if args.mode == 'manual':
         mode = SimulateMode.MANUAL
     team_1,team_2 = select_teams()
-    print(team_1)
-    print(team_2)
-    get_basic_batting_line_up(team_2)
-    team_1 = Team(get_basic_batting_line_up(team_1), get_basic_bowling_line_up())
-    team_2 = Team(get_basic_batting_line_up(team_2), get_basic_bowling_line_up())
+    team_1 = Team(get_basic_batting_line_up(team_1), get_basic_bowling_line_up(), team_1)
+    team_2 = Team(get_basic_batting_line_up(team_2), get_basic_bowling_line_up(),team_2)
     first_innings_model, second_innings_model = load_models()
     if mode == SimulateMode.MANUAL:
         print ("Press enter to start the match:")
     match = Match(team_1, team_2, first_innings_model, second_innings_model)
     match.simulate_match(mode)
+    print_scorecard(team_1,team_2)
     
     
     

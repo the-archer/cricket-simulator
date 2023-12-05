@@ -17,7 +17,7 @@ import pickle
 
 def get_data():
     data = {}
-    with open('../data.pkl', 'rb') as f:
+    with open('data.pkl', 'rb') as f:
         data = pickle.load(f)
     return data    
 
