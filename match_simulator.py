@@ -271,7 +271,7 @@ def load_models() -> Tuple[RandomForestClassifier, RandomForestClassifier]:
      
 def get_all_teams() -> dict:
     data = {}
-    with open('teams.pkl', 'rb') as f:
+    with open('data_cleaning/teams.pkl', 'rb') as f:
         data = pickle.load(f)
     return data
 
