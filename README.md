@@ -1,10 +1,10 @@
-#Cricket Simulator
+<h1>Cricket Simulator<h1>
 
-## Context
-As a part of our thanksgiving break Simrat and I worked on creating a cricket simulator. We used Random Forest Classifier for predicting the output of each ball. The output is how each ball will be played. 
+<h2>Context</h2>
+<p>As a part of our thanksgiving break Simrat and I worked on creating a cricket simulator. We used Random Forest Classifier for predicting the output of each ball. The output is how each ball will be played. 
 
-## Example of output
-
+<h2> Example of output</h2>
+<p>
 India won by 111 runs
 
 India Innings Score Card
