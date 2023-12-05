@@ -1,5 +1,5 @@
 This zip archive contains data files from Cricsheet in JSON format. This
-archive contains 2822 ODI matches.
+archive contains 2829 ODI matches.
 
 
 The JSON data files contained in this zip file are version 1.0.0, and 1.1.0
@@ -22,6 +22,13 @@ as IPL). The 4th field is the gender of the players involved in the match. The
 teams involved in the match.
 
 
+2023-12-03 - international - ODI - male - 1373576 - England vs West Indies
+2023-11-19 - international - ODI - male - 1384439 - India vs Australia
+2023-11-16 - international - ODI - male - 1384438 - South Africa vs Australia
+2023-11-15 - international - ODI - male - 1384437 - India vs New Zealand
+2023-11-12 - international - ODI - male - 1384436 - India vs Netherlands
+2023-11-11 - international - ODI - male - 1384434 - Bangladesh vs Australia
+2023-11-11 - international - ODI - male - 1384435 - England vs Pakistan
 2023-11-10 - international - ODI - male - 1384433 - Afghanistan vs South Africa
 2023-11-10 - international - ODI - female - 1405126 - Pakistan vs Bangladesh
 2023-11-09 - international - ODI - male - 1384432 - Sri Lanka vs New Zealand
