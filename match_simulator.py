@@ -187,9 +187,9 @@ class Match:
     def save_log(self):
         file_name = "match_logs/"
         if self.team_1.team_name < self.team_2.team_name:
-            file_name += self.team_1.team_name.strip() + "vs" + self.team_2.team_name.strip() + "_"
+            file_name += self.team_1.team_name.replace(" ", "") + "vs" + self.team_2.team_name.replace(" ", "") + "_"
         else: 
-            file_name += self.team_2.team_name.strip() + "vs" + self.team_1.team_name.strip() + "_"
+            file_name += self.team_2.team_name.replace(" ", "") + "vs" + self.team_1.team_name.replace(" ", "") + "_"
         file_name += datetime.date.today().strftime("%Y%m%d") + "_"
         
         index = 1
