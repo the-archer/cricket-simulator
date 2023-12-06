@@ -317,7 +317,7 @@ def select_teams():
     val = int(input("Enter your value:"))  
 
     if val ==1:
-        return random.choice([("India","New Zealand"), ("New Zealand", "India")])  
+        return random.choice([("India","Australia"), ("Australia", "India")])  
     else:
         print("Select first team")
         for team_name in teams:
@@ -343,8 +343,10 @@ def print_scorecard(team_1:Team, team_2:Team):
     print('{:<20s}'.format("BATTING")+ "\t Runs \t Balls \t 4s \t 6s \t SR")
     print("=============================================================")
     for player in team_1.batting_line_up:
+        if player.batting_balls == 0:
+            continue
         print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
-              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(player.batting_runs*100/player.batting_balls),2))
+              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(player.batting_runs*100/player.batting_balls,2)))
     print("\n")
     print(f"Total Score \t {team_1.overs}.{team_1.balls} Overs (RR: {round((team_1.score*6)/(team_1.overs*6+team_1.balls), 2)}) \t {team_1.score}/{team_1.wickets}")
     print("\n")
@@ -359,8 +361,10 @@ def print_scorecard(team_1:Team, team_2:Team):
     print('{:<20s}'.format("BATTING")+ "\t Runs \t Balls \t 4s \t 6s \t SR")
     print("=============================================================")
     for player in team_2.batting_line_up:
+        if player.batting_balls == 0:
+            continue
         print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
-              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(player.batting_runs*100/player.batting_balls),2))
+              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(player.batting_runs*100/player.batting_balls,2)))
         
     print("\n") 
     print(f"Total Score \t {team_2.overs}.{team_2.balls} Overs (RR: {round((team_2.score*6)/(team_2.overs*6+team_2.balls), 2)}) \t {team_2.score}/{team_2.wickets}")

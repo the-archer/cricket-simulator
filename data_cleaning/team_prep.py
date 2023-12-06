@@ -34,7 +34,7 @@ def get_bowling_line_up(team_name, file_data):
     # handle remaining overs 
     while len(bowling_line_up) < 50:        
         try:
-            bowler_name = [x for x in sorted(over_counts.items(), key=lambda item: item[1], reverse=True) if x[1] < 10 and x[0]!=bowling_line_up[-1][0]][0][0]
+            bowler_name = [x for x in sorted(over_counts.items(), key=lambda item: item[1], reverse=True) if x[1] < 10 and x[0]!=bowling_line_up[-1][1]][0][0]
             bowling_line_up.append((player_registry[bowler_name], bowler_name))
             over_counts[bowler_name] += 1
         except Exception as e:
