@@ -344,7 +344,7 @@ def print_scorecard(team_1:Team, team_2:Team):
     print("=============================================================")
     for player in team_1.batting_line_up:
         print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
-              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(float(player.batting_sr),2)))
+              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(player.batting_runs*100/player.batting_balls),2))
     print("\n")
     print(f"Total Score \t {team_1.overs}.{team_1.balls} Overs (RR: {round((team_1.score*6)/(team_1.overs*6+team_1.balls), 2)}) \t {team_1.score}/{team_1.wickets}")
     print("\n")
@@ -360,7 +360,7 @@ def print_scorecard(team_1:Team, team_2:Team):
     print("=============================================================")
     for player in team_2.batting_line_up:
         print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
-              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(float(player.batting_sr),2)))
+              +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(player.batting_runs*100/player.batting_balls),2))
         
     print("\n") 
     print(f"Total Score \t {team_2.overs}.{team_2.balls} Overs (RR: {round((team_2.score*6)/(team_2.overs*6+team_2.balls), 2)}) \t {team_2.score}/{team_2.wickets}")
@@ -385,6 +385,9 @@ def main():
     team_1_name,team_2_name = select_teams()
     team_1_batting_line_up = get_batting_line_up(team_1_name)
     team_2_batting_line_up = get_batting_line_up(team_2_name)
+    if len(team_1_batting_line_up) != 11 or len(team_2_batting_line_up) != 11:
+        print("Couldn't load all players. Exiting.")
+        return
 
     team_1 = Team(team_1_batting_line_up, get_bowling_line_up(team_1_name, team_1_batting_line_up), team_1_name)
     team_2 = Team(team_2_batting_line_up, get_bowling_line_up(team_2_name, team_2_batting_line_up),team_2_name)
