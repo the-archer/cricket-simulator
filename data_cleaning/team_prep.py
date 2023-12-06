@@ -33,9 +33,15 @@ def get_bowling_line_up(team_name, file_data):
         
     # handle remaining overs 
     while len(bowling_line_up) < 50:        
-        bowler_name = [x for x in sorted(over_counts.items(), key=lambda item: item[1], reverse=True) if x[1] < 10 and x[0]!=bowling_line_up[-1][1]][0][0]
-        bowling_line_up.append((player_registry[bowler_name], bowler_name))
-        over_counts[bowler_name] += 1
+        try:
+            bowler_name = [x for x in sorted(over_counts.items(), key=lambda item: item[1], reverse=True) if x[1] < 10 and x[0]!=bowling_line_up[-1][0]][0][0]
+            bowling_line_up.append((player_registry[bowler_name], bowler_name))
+            over_counts[bowler_name] += 1
+        except Exception as e:
+            print(e)
+            print(team_name)
+            print(file_data["info"]["dates"][0])
+            break
     return bowling_line_up
 
 def main():
@@ -46,9 +52,9 @@ def main():
         file_data =  process_file(filename)   
         match_id = get_match_id(filename)
         match_date = file_data["info"]["dates"][0]
-        if match_date == '2023-11-15':
+        if match_date >= '2023-10-05':
             for team_name in file_data["info"]["players"].keys():
-                if team_name in team and file_data["info"]["gender"]=="female":
+                if file_data["info"]["gender"]=="female":
                     continue
                 else:
                     team[team_name] = {}
@@ -61,8 +67,8 @@ def main():
 
     with open('teams.pkl', 'wb') as f:
         pickle.dump(team, f)
-
-    print(team)
+    
+    print (team.keys())
 
 if __name__ == "__main__":
     main()
