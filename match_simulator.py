@@ -294,7 +294,7 @@ def get_random_player() -> Player:
     return Player(names.get_first_name(gender='male'), names.get_last_name(), 30, 100, 25, 30)
 
 def load_models() -> Tuple[RandomForestClassifier, RandomForestClassifier]:
-    model_pkl_file = "Models/cricket_simulator_model.pkl"  
+    model_pkl_file = "models/cricket_simulator_model.pkl"  
     with open(model_pkl_file, 'rb') as file:  
         models = pickle.load(file)
     print("Successfully loaded models from .pkl file")
