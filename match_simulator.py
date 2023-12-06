@@ -111,7 +111,7 @@ class Match:
                         input()
                     res = get_bowl_result_model(batter, bowler, batting_team, ball_score_cur, ball_wicket_cur,
                                                 self.first_innings_score, self.first_innings_model, self.second_innings_model)
-                    log = {"team_1": team_1.team_name, "team_2": team_2.team_name, "innings": inning, "over": over_no, "ball": ball, 
+                    log = {"team_1": self.team_1.team_name, "team_2": self.team_2.team_name, "innings": innings, "over": over_no, "ball": ball, 
                     "batter": batter.first_name[0] + " " + batter.last_name, "bowler": bowler.first_name[0] + " " + bowler.last_name}
                     if innings == 2:
                         log["runs_to_win"] = self.first_innings_score + 1 - batting_team.score
@@ -178,9 +178,9 @@ class Match:
             if innings == 2:
                 print(f"End of innings 2: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
                 if batting_team.score > self.first_innings_score:
-                    print(f"{team_2.team_name} won by {10-batting_team.wickets} wickets")
+                    print(f"{self.team_2.team_name} won by {10-batting_team.wickets} wickets")
                 elif batting_team.score < self.first_innings_score:
-                    print(f"{team_1.team_name} won by {self.first_innings_score - batting_team.score} runs")
+                    print(f"{self.team_1.team_name} won by {self.first_innings_score - batting_team.score} runs")
                 else:
                     print("Match tied!")
 
