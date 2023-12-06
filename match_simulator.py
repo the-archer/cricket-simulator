@@ -19,6 +19,8 @@ from sklearn.ensemble import RandomForestClassifier
 import pickle
 from collections import deque
 import csv
+import datetime
+import os
 
 class color:
    PURPLE = '\033[95m'
@@ -81,6 +83,7 @@ class Match:
         self.first_innings_model = first_innings_model
         self.second_innings_model = second_innings_model
         self.first_innings_score = 0
+        self.match_log = []
         
     def simulate_match(self, mode):
         batting_team = self.team_1                
@@ -108,6 +111,11 @@ class Match:
                         input()
                     res = get_bowl_result_model(batter, bowler, batting_team, ball_score_cur, ball_wicket_cur,
                                                 self.first_innings_score, self.first_innings_model, self.second_innings_model)
+                    log = {"team_1": team_1.team_name, "team_2": team_2.team_name, "innings": inning, "over": over_no, "ball": ball, 
+                    "batter": batter.first_name[0] + " " + batter.last_name, "bowler": bowler.first_name[0] + " " + bowler.last_name}
+                    if innings == 2:
+                        log["runs_to_win"] = self.first_innings_score + 1 - batting_team.score
+                        log["target"] = self.first_innings_score + 1
                     ball_wicket_cur -= ball_wicket.popleft()
                     ball_score_cur -= ball_score.popleft()
                     if not res.isdigit():
@@ -117,8 +125,11 @@ class Match:
                         bowler.wickets += 1
                         print(f"{over_no}.{ball}: {bowler.last_name} to {batter.last_name}: {res} OUT!")
                         print(f"{batter.last_name}: {batter.batting_runs}({batter.batting_balls})")
+                        log["wicket"] = res
+                        log["runs"] = 0
                         if end_of_innings(batting_team, innings, self.first_innings_score):
                             end_of_innings_flag = True
+                            self.match_log.append(log)
                             break
                         batter = batting_team.batting_line_up[batting_team.wickets + 1]
                         ball_wicket.append(1)
@@ -136,11 +147,13 @@ class Match:
                         bowler.bowling_runs += res
                         bowler.bowling_balls += 1
                         print(f"{over_no}.{ball}: {bowler.last_name} to {batter.last_name}: {res} run(s)")
+                        log["runs"] = res
                         ball_wicket.append(0)
                         ball_score.append(res)
                         ball_score_cur += res
                         if res%2 == 1:
                             batter, non_striker = non_striker, batter
+                    self.match_log.append(log)
                     if end_of_innings(batting_team, innings, self.first_innings_score):
                         end_of_innings_flag = True
                         break
@@ -165,11 +178,32 @@ class Match:
             if innings == 2:
                 print(f"End of innings 2: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
                 if batting_team.score > self.first_innings_score:
-                    print(f"Team 2 won by {10-batting_team.wickets} wickets")
+                    print(f"{team_2.team_name} won by {10-batting_team.wickets} wickets")
                 elif batting_team.score < self.first_innings_score:
-                    print(f"Team 1 won by {self.first_innings_score - batting_team.score} runs")
+                    print(f"{team_1.team_name} won by {self.first_innings_score - batting_team.score} runs")
                 else:
                     print("Match tied!")
+
+    def save_log(self):
+        file_name = "match_logs/"
+        if self.team_1.team_name < self.team_2.team_name:
+            file_name += self.team_1.team_name.strip() + "vs" + self.team_2.team_name.strip() + "_"
+        else: 
+            file_name += self.team_2.team_name.strip() + "vs" + self.team_1.team_name.strip() + "_"
+        file_name += datetime.date.today().strftime("%Y%m%d") + "_"
+        
+        index = 1
+        while os.path.exists(file_name + str(index) + ".csv"):
+            index += 1
+        file_name += str(index) + ".csv"
+        with open(file_name, 'w', newline='') as csvfile:
+            fieldnames = ['team_1', 'team_2', 'innings', 'over', 'ball', 'batter', 'bowler', 'runs', 'wicket', 'runs_to_win', 'target']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            for log in self.match_log:
+                writer.writerow(log)
+
+        
                 
 
 def get_bowl_result_model(batter: Player, bowler: Player, team: Team, runs_last_30_balls: int, 
@@ -213,23 +247,6 @@ def end_of_innings(batting_team, innings, first_innings_score) -> bool:
         return True
     return False
                   
-            
-        
-def get_bowl_result_random():
-    rand = random()
-    if rand < 0.3:
-        return 0
-    if rand < 0.5:
-        return 1
-    if rand < 0.55:
-        return 2  
-    if rand < 0.6:
-        return 3
-    if rand < 0.75:
-        return 4
-    if rand < 0.85:
-        return 6
-    return -1
       
 def get_basic_bowling_line_up() -> List[int]:
     line_up = [11, 10] * 5 + [9, 8] * 5 + [7, 8] * 5 + [7, 9] * 5 + [11, 10] * 5
@@ -355,6 +372,7 @@ def main():
         print ("Press enter to start the match:")
     match = Match(team_1, team_2, first_innings_model, second_innings_model)
     match.simulate_match(mode)
+    match.save_log()
     print_scorecard(team_1,team_2)
     
     

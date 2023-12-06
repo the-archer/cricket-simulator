@@ -1,1 +1,4 @@
-This is a README file.
+
+
+# Context
+This is a cricket simulator built by using Random Forest Classifier. 
