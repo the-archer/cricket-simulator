@@ -112,7 +112,8 @@ class Match:
                     res = get_bowl_result_model(batter, bowler, batting_team, ball_score_cur, ball_wicket_cur,
                                                 self.first_innings_score, self.first_innings_model, self.second_innings_model)
                     log = {"team_1": self.team_1.team_name, "team_2": self.team_2.team_name, "innings": innings, "over": over_no, "ball": ball, 
-                    "batter": batter.first_name[0] + " " + batter.last_name, "bowler": bowler.first_name[0] + " " + bowler.last_name}
+                           "over_worm": over_no + ball/6, "batter": batter.first_name[0] + " " + batter.last_name, 
+                           "bowler": bowler.first_name[0] + " " + bowler.last_name}
                     if innings == 2:
                         log["runs_to_win"] = self.first_innings_score + 1 - batting_team.score
                         log["target"] = self.first_innings_score + 1
@@ -153,6 +154,11 @@ class Match:
                         ball_score_cur += res
                         if res%2 == 1:
                             batter, non_striker = non_striker, batter
+                    log["score"] = batting_team.score
+                    log["wickets_lost"] = batting_team.wickets
+                    if innings == 2:
+                        log["runs_to_win"] = self.first_innings_score + 1 - batting_team.score
+                        log["target"] = self.first_innings_score + 1        
                     self.match_log.append(log)
                     if end_of_innings(batting_team, innings, self.first_innings_score):
                         end_of_innings_flag = True
@@ -197,7 +203,7 @@ class Match:
             index += 1
         file_name += str(index) + ".csv"
         with open(file_name, 'w', newline='') as csvfile:
-            fieldnames = ['team_1', 'team_2', 'innings', 'over', 'ball', 'batter', 'bowler', 'runs', 'wicket', 'runs_to_win', 'target']
+            fieldnames = ['team_1', 'team_2', 'innings', 'over', 'ball', 'over_worm', 'batter', 'bowler', 'runs', 'wicket', 'score', 'wickets_lost', 'runs_to_win', 'target']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             for log in self.match_log:
