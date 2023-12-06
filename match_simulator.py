@@ -177,12 +177,12 @@ class Match:
                     f"{bowler.last_name}: {bowler.overs}-0-{bowler.wickets}-{bowler.bowling_runs}\n")
                 batter, non_striker = non_striker, batter
             if innings == 1:
-                print(f"End of innings 1: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
+                print(f"\nEnd of innings 1: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
                 self.first_innings_score = batting_team.score
                 batting_team = self.team_2
                 bowling_team = self.team_1
             if innings == 2:
-                print(f"End of innings 2: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
+                print(f"\nEnd of innings 2: Score: {batting_team.score}/{batting_team.wickets} in {over_no}.{ball} overs")
                 if batting_team.score > self.first_innings_score:
                     print(f"{self.team_2.team_name} won by {10-batting_team.wickets} wickets")
                 elif batting_team.score < self.first_innings_score:
@@ -249,7 +249,7 @@ def get_prob_dist_for_ball(batter: Player, bowler: Player, team: Team, runs_last
 def end_of_innings(batting_team, innings, first_innings_score) -> bool:
     if batting_team.wickets == 10:
         return True
-    if innings == 2 and batting_team.score >= first_innings_score:
+    if innings == 2 and batting_team.score > first_innings_score:
         return True
     return False
                   
@@ -346,6 +346,8 @@ def print_scorecard(team_1:Team, team_2:Team):
         print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
               +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(float(player.batting_sr),2)))
     print("\n")
+    print(f"Total Score \t {team_1.overs}.{team_1.balls} Overs (RR: {round((team_1.score*6)/(team_1.overs*6+team_1.balls), 2)}) \t {team_1.score}/{team_1.wickets}")
+    print("\n")
     print('{:<20s}'.format("BOWLING")+ "\t Overs \t Runs \t Wickets \t Econ ")
     print("=============================================================")
     for player in team_2.batting_line_up:
@@ -360,7 +362,9 @@ def print_scorecard(team_1:Team, team_2:Team):
         print('{:<20s}'.format(player.first_name+" "+player.last_name)+" \t "+str(player.batting_runs)+" \t "
               +str(player.batting_balls) + " \t "+str(player.batting_fours)+" \t "+str(player.batting_sixes)+" \t "+str(round(float(player.batting_sr),2)))
         
-    print("\n")    
+    print("\n") 
+    print(f"Total Score \t {team_2.overs}.{team_2.balls} Overs (RR: {round((team_2.score*6)/(team_2.overs*6+team_2.balls), 2)}) \t {team_2.score}/{team_2.wickets}")
+    print("\n")   
     print('{:<20s}'.format("BOWLING")+ "\t Overs \t Runs \t Wickets \t Econ ")
     print("=============================================================")
     for player in team_1.batting_line_up:
