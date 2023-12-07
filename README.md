@@ -28,4 +28,4 @@ All the data files are in folder "data". Each match is in individual files in js
 <p>
 India won by 111 runs
 
-![Output Example](image.jpg?raw=true "Title")
+![Output Example](image.png?raw=true "Title")
