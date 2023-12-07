@@ -282,7 +282,7 @@ def get_batting_line_up(team:str) -> List[Player]:
     return  player_lineup 
 
 def get_player_stats(player_id:str,player_first_name, player_last_name )->Player:
-    file_path = "data_cleaning/player_stats.csv"
+    file_path = "data/player_stats.csv"
     with open(file_path, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -302,7 +302,7 @@ def load_models() -> Tuple[RandomForestClassifier, RandomForestClassifier]:
      
 def get_all_teams() -> dict:
     data = {}
-    with open('data_cleaning/teams.pkl', 'rb') as f:
+    with open('data/teams.pkl', 'rb') as f:
         data = pickle.load(f)
     return data
 

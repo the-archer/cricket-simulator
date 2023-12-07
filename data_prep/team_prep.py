@@ -7,7 +7,7 @@ import csv
 import pandas as pd
 import pickle
 
-from odi_data_explore import (
+from odi_data_prep import (
     process_file,
     get_match_id,
     check_valid_match,
@@ -65,7 +65,7 @@ def main():
                     # get bowling line up 
                     team[team_name]['bowling_line_up'] = get_bowling_line_up(team_name, file_data)
 
-    with open('teams.pkl', 'wb') as f:
+    with open('data/teams.pkl', 'wb') as f:
         pickle.dump(team, f)
     
     print (team.keys())
