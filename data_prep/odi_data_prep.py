@@ -5,7 +5,7 @@ import pprint
 import csv
 import pandas as pd
 
-FILE_PATH = '../data/odis_json'
+FILE_PATH = 'data/odis_json'
 
 def process_file(filename: str) -> json:
     with open('{filename}'.format(filename=filename)) as f:
@@ -55,7 +55,7 @@ def print_player_stats(df):
     player_stats.drop('bowler_id',axis=1, inplace=True)
     fieldnames = ['player_id','baller_average','baller_strike_rate','batter_average','batter_strike_rate']
     data = player_stats.to_dict('records') 
-    write_to_csv(fieldnames, 'player_stats.csv', data)
+    write_to_csv(fieldnames, 'data/player_stats.csv', data)
 
 def main():
     keywordList = []
@@ -161,11 +161,8 @@ def main():
                         'non_striker_id', 'non_striker_name', 'batter_runs', 'extras', 'total', 'is_legbye', 'is_noball', 'is_wide_ball',
                         'is_wicket', 'wicket_type','baller_average','baller_strike_rate','batter_average','batter_strike_rate']
 
-    write_to_csv(fieldnames,'odi_processed_data.csv',all_deliveries_stats )      
+    write_to_csv(fieldnames,'data/odi_processed_data.csv',all_deliveries_stats )      
     
 
 if __name__ == "__main__":
     main() 
-
-## Create a file function to read file and return something
-## Create main function

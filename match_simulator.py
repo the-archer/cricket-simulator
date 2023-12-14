@@ -282,7 +282,7 @@ def get_batting_line_up(team:str) -> List[Player]:
     return  player_lineup 
 
 def get_player_stats(player_id:str,player_first_name, player_last_name )->Player:
-    file_path = "data_cleaning/player_stats.csv"
+    file_path = "data/player_stats.csv"
     with open(file_path, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
@@ -294,7 +294,7 @@ def get_random_player() -> Player:
     return Player(names.get_first_name(gender='male'), names.get_last_name(), 30, 100, 25, 30)
 
 def load_models() -> Tuple[RandomForestClassifier, RandomForestClassifier]:
-    model_pkl_file = "Models/cricket_simulator_model.pkl"  
+    model_pkl_file = "models/cricket_simulator_model.pkl"  
     with open(model_pkl_file, 'rb') as file:  
         models = pickle.load(file)
     print("Successfully loaded models from .pkl file")
@@ -302,7 +302,7 @@ def load_models() -> Tuple[RandomForestClassifier, RandomForestClassifier]:
      
 def get_all_teams() -> dict:
     data = {}
-    with open('data_cleaning/teams.pkl', 'rb') as f:
+    with open('data/teams.pkl', 'rb') as f:
         data = pickle.load(f)
     return data
 

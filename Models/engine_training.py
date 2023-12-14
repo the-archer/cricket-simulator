@@ -17,7 +17,7 @@ import pickle
 
 def get_data():
     data = {}
-    with open('data.pkl', 'rb') as f:
+    with open('data/data.pkl', 'rb') as f:
         data = pickle.load(f)
     return data    
 
@@ -37,7 +37,7 @@ def get_accuracy(clf, X_test, y_test):
     print("Accuracy:", accuracy)
 
 def save_models(first_innings_model, second_innings_model):
-    model_pkl_file = "cricket_simulator_model.pkl"  
+    model_pkl_file = "models/cricket_simulator_model.pkl"  
     with open(model_pkl_file, 'wb') as file:  
         pickle.dump((first_innings_model, second_innings_model), file)
     print("Successfully saved models in .pkl file")    

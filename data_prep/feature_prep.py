@@ -8,7 +8,7 @@ import math
 
 
 # file is a csv file: headers are defined in the design doc,  
-FILE_PATH = 'data_cleaning/odi_processed_data.csv'
+FILE_PATH = 'data/odi_processed_data.csv'
 
 # dictionary : key  - match_id, 
 # value:list each ball, sorted in order of the ball , each list item is a dictionary containing all the items in the csv 
@@ -171,29 +171,7 @@ def get_features_for_match(match_data):
         values[int(ball['innings_number'])-1].append(value)
         
     return (features, values)
-
-
-        
-    
-                
-                
-def write_features_to_file(features):
-    with open('data_cleaning/features.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['Batsman average', 'Batsman strike rate','Bowler average', 'Bowler strike rate',  'Batsman score','Batsman bowls faced', 'Batsman 4s scored','Batsman 6s scored', 'Bowler runs given', 
-                     'Bowler wickets taken','Bowler balls bowled','Batting team score','Current run rate','Batting team wickets remaining',
-                     'Batting team balls remaining','Runs in last 30 balls','Wickets in last 30 ball',
-                     'Batting team runs to win (if batting second)','Required run rate (if batting second)'])
-        writer.writerows(features[0])
-        writer.writerows(features[1])      
-              
-def write_values_to_file(values):
-    with open('data_cleaning/values.csv', 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        for val in values[0]:
-            writer.writerow([val])
-        for val in values[1]:
-            writer.writerow([val])    
+  
         
             
 def check_if_valid_match(match_data):
@@ -229,11 +207,9 @@ def main():
         second_innings_features.extend(features[1])
         first_innings_values.extend(values[0])
         second_innings_values.extend(values[1])
-    # write_features_to_file(features)
-    # write_values_to_file(values)
     data = {'first_innings_features': first_innings_features, 'second_innings_features': second_innings_features,
             'first_innings_values': first_innings_values, 'second_innings_values': second_innings_values}
-    with open('data.pkl', 'wb') as f:
+    with open('data/data.pkl', 'wb') as f:
         pickle.dump(data, f)
         print("written to pickle file")
 

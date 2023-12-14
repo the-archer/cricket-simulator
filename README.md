@@ -1,10 +1,10 @@
 <h1>Cricket Simulator<h1>
 
 <h2>Context</h2>
-<p>As a part of our thanksgiving break Simrat and I worked on creating a cricket simulator. We used Random Forest Classifier for predicting the output of each ball. The output is how each ball will be played. 
+<p>As a part of our thanksgiving break Simrat and I worked on creating a cricket simulator using Machine Learning. We used Random Forest Classifier for predicting the probability distribution of each ball. 
 
 <h2> Source Data Used </h2>
-<p> In order to train the model, we need match data at each ball level. Additionally we needed player statistics, which we calculated using the match data. All this data was found on site: https://cricsheet.org/
+<p> In order to train the model, we needed match data at each ball level. Additionally we needed player statistics, which we calculated using the match data. All this data was found on site: https://cricsheet.org/
 
 <h2> Coding details </h2>
 <h3> Data </h3>
@@ -28,4 +28,4 @@ All the data files are in folder "data". Each match is in individual files in js
 <p>
 India won by 111 runs
 
-![Output Example](image.jpg?raw=true "Title")
+![Output Example](image.png?raw=true "Title")
