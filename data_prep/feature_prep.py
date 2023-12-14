@@ -7,13 +7,8 @@ import traceback
 import math
 
 
-# file is a csv file: headers are defined in the design doc,  
 FILE_PATH = 'data/odi_processed_data.csv'
 
-# dictionary : key  - match_id, 
-# value:list each ball, sorted in order of the ball , each list item is a dictionary containing all the items in the csv 
-
-# after that will do more processing
 
 def process_csv_file(file_path):
     data = {}

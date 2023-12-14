@@ -302,7 +302,7 @@ def select_teams():
     teams = get_all_teams()
     all_team = []
     selected_team = []
-    print("Select a default team and line up")
+    print("Select default teams (India and Australia) and line up")
     print("1. Yes")
     print("2. No")
     val = int(input("Enter your value:"))  
