@@ -11,7 +11,6 @@
 # 
 from enum import Enum
 import pickle
-import names
 import random
 import argparse
 from typing import Dict, List, Tuple
@@ -261,11 +260,7 @@ def get_bowling_line_up(team_name:str, batting_line_up: List[Player]) -> List[in
     for i in range(0, len(batting_line_up)):
         rev_bat_map[batting_line_up[i].player_id] = i                 
     return [rev_bat_map[x[0]] for x in bowling_line_up]
-      
-def get_basic_bowling_line_up() -> List[int]:
-    line_up = [11, 10] * 5 + [9, 8] * 5 + [7, 8] * 5 + [7, 9] * 5 + [11, 10] * 5
-    return line_up 
-   
+         
 def get_batting_line_up(team:str) -> List[Player]:
     all_teams = get_all_teams()
     players = all_teams[team]['batting_line_up']
@@ -288,10 +283,6 @@ def get_player_stats(player_id:str,player_first_name, player_last_name )->Player
         for row in reader:
             if player_id == row["player_id"]:
                 return Player(player_id,player_first_name, player_last_name, row['batter_average'], row['batter_strike_rate'], row['baller_average'], row['baller_strike_rate'] )
-
-
-def get_random_player() -> Player:
-    return Player(names.get_first_name(gender='male'), names.get_last_name(), 30, 100, 25, 30)
 
 def load_models() -> Tuple[RandomForestClassifier, RandomForestClassifier]:
     model_pkl_file = "models/cricket_simulator_model.pkl"  
