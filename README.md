@@ -1,6 +1,6 @@
 <h1>Cricket Simulator<h1>
 
-<h2>Introductions</h2>
+<h2>Introduction</h2>
 <p> This project experiments with creating a cricket simulator using maching learning.
 <p>Take a look at https://medium.com/@tejalnarkar/cricket-simulation-engine-using-machine-learning-a2758933b0a7 for the details.
 
@@ -26,6 +26,27 @@ All the data files are in folder "data". Each match is an individual files in js
 
 <h3> Match Simulator </h3>
 <p> The match_simulator.py has logic for using the stored model to simulate the match. It also has the logic for the match and maintains the state of the match.
+
+<h2> Steps </h2>
+<h3> Prepare Data </h3>
+
+```
+python data_prep/odi_data_prep.py
+python data_prep/feature_prep.py
+python data_prep/team_prep.py
+```
+
+<h3> Train Model </h3>
+
+```
+python models/engine_training.py
+```
+
+<h3> Running the Simulator </h3>
+
+```
+python match_simulator.py
+```
 
 <h2> Example of output</h2>
 <p>
